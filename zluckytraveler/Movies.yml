@@ -1,5 +1,17 @@
 collections:
-  Last 2 Weeks:
+  4K Overlay:
     plex_search:
       all:
-        release: 14
+        resolution: 4K
+    filters:
+      filepath.not: MoviesDV
+    item_overlay: 4K
+    build_collection: false
+  4K-Dolby:
+    plex_search:
+      all:
+        resolution: 4K
+    filters:
+      filepath: MoviesDV
+    item_overlay: 4K-Dolby
+    build_collection: false
