@@ -1,0 +1,17 @@
+collections:
+  4K Overlay:
+    plex_search:
+      all:
+        resolution: 4K
+    filters:
+      filepath.not: TVDV
+    item_overlay: 4K
+    build_collection: false
+  4K-Dolby:
+    plex_search:
+      all:
+        resolution: 4K
+    filters:
+      filepath: TVDV
+    item_overlay: 4K-Dolby
+    build_collection: false
