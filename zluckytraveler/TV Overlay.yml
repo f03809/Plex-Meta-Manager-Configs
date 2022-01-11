@@ -9,9 +9,7 @@ collections:
     build_collection: false
     #revert_overlay: true
   4K-Dolby:
-    plex_search:
-      all:
-        resolution: 4K
+    plex_all: true
     filters:
       filepath: TVDV
     item_overlay: 4K-Dolby
