@@ -1,12 +1,13 @@
- Recently Added:
+collections: 
+  Recently Added:
     url_poster:
     smart_filter:
-     sort_by: date_added.desc
+      sort_by: date_added.desc
       all:
         added: 30
-   Recently Released Episodes:
+  Recently Released Episodes:
     url_poster:
     smart_filter:
-     sort_by: date_added.desc
+      sort_by: date_added.desc
       all:
         last_episode_aired: 14
