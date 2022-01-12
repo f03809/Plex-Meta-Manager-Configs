@@ -4,10 +4,10 @@ collections:
     sort_by: date_added.desc
     url_poster:
       all:
-        date added: 2_weeks
+        date added: 2 weeks
    Recently Released:
     smart_filter:
     sort_by: date_added.desc
     url_poster:
       all:
-        release date: 1_months        
+        release date: 1 months        
