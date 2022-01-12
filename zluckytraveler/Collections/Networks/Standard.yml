@@ -88,8 +88,8 @@ collections:
       any:
         network: Cartoon Network
    CBS:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/CBS.jpg
+    smart_filter:
       any:
         studio: CBS
         network: CBS
@@ -213,7 +213,7 @@ collections:
         - History Canada
    Hulu:
    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Hulu.jpg
-    smart_filter:
+   smart_filter:
       any:
         studio: Hulu
         network: Hulu
