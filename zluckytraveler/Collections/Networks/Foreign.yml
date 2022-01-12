@@ -1,49 +1,49 @@
 collections:
    Amazon:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Amazon.jpg
+    smart_filter:
       any:
         studio: 
         - Amazon Studios
         - Amazon Prime Video
         network: Amazon
    Apple TV:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Apple%20TV.jpg
+    smart_filter:
       any:
         network: Apple TV+
    BBC:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/BBC.jpg
+    smart_filter:
       any:
         network: 
         - BBC One
         - BBC Two
         - BBC Four
    Canal+:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Canal.jpg
+    smart_filter:
       any:
         network: 
         - Canale 5
         - Canal+ Poland
         - Canal+
    Disney Hotstar:
-    smart_filter: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney%20Hotstar.jpg
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney%20Hotstar.jpg
+    smart_filter: 
       any:
         network: Disney+ Hotstar
    France TV:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/France.jpg
+    smart_filter:
       any:
         network: 
         - France 2
         - France 3
         - France 4
    HBO:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/HBO.jpg
+    smart_filter:
       any:
         network: 
         - HBO
@@ -54,21 +54,21 @@ collections:
         - HBO Europe
         - HBO Nordic
    Netflix:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Netflix.jpg
+    smart_filter:
       any:
         network: Netflix 
    Rai:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Rai.jpg
+    smart_filter:
       any:
         network: 
         - Rai 1
         - Rai 2
         - RaiPlay
    RTL:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/RTL.jpg
+    smart_filter:
       any:
         network:  
         - RTL
@@ -76,8 +76,8 @@ collections:
         - RTL 5
         - RTL+
    Sky:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Sky.jpg
+    smart_filter:
       any:
         network:   
         - Sky 1
@@ -86,20 +86,20 @@ collections:
         - Sky Atlantic 
         - Sky Cinema
    Telemundo:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Telemundo.jpg
+    smart_filter:
       any:
         network: Telemundo        
    TNT:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/TNT.jpg
+    smart_filter:
       any:
         network:   
         - TNT
         - TNT Serie
         - TNT España
    Youtube:
-    smart_filter:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Youtube.jpg
+    smart_filter:
       any:
         network: Youtube        
