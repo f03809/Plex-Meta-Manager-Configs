@@ -1,7 +1,7 @@
 collections:
    Action:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69196
       all:
         genre: Action
         exclude_genres:
@@ -10,7 +10,7 @@ collections:
         - Family
    Adventure:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69197
       all:
         genre: Adventure
         exclude_genres:
@@ -18,18 +18,18 @@ collections:
         - Children
         - Family
    Animation:
-    smart_filter:
-    url_poster:
+    smart_filter: 
+    url_poster: https://theposterdb.com/api/assets/69198
       all:
         genre: Animation
    Anime:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/126754
       all:
         genre: Anime
    Biography:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69199
       all:
         genre: Biography
         exclude_genres:
@@ -38,7 +38,7 @@ collections:
         - Family
    Comedy:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69200
       all:
         genre: Comedy
         exclude_genres:
@@ -47,7 +47,7 @@ collections:
         - Family
    Cooking:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69202
       all:
         genre: Cooking
         exclude_genres:
@@ -56,7 +56,7 @@ collections:
         - Family
    Crime:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69203
       all:
         genre: Crime
         exclude_genres:
@@ -65,7 +65,7 @@ collections:
         - Family
    Documentary:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69204
       all:
         genre: Documentary
         exclude_genres:
@@ -73,7 +73,7 @@ collections:
         - Children
    Drama:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69205
       all:
         genre: Drama
         exclude_genres:
@@ -82,12 +82,12 @@ collections:
         - Family
    Family:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69208
       all:
         genre: Family
    Fantasy:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69210
       all:
         genre: Fantasy
         exclude_genres:
@@ -96,7 +96,7 @@ collections:
         - Family
    Film-Noir:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/161218
       all:
         genre: Film-Noir
         exclude_genres:
@@ -105,7 +105,7 @@ collections:
         - Family
    History:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69212
       all:
         genre: History
         exclude_genres:
@@ -114,7 +114,7 @@ collections:
         - Family
    Horror:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69213
       all:
         genre: Horror
         exclude_genres:
@@ -123,7 +123,7 @@ collections:
         - Family
    Martial Arts:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69216
       all:
         genre: Martial Arts
         exclude_genres:
@@ -132,7 +132,7 @@ collections:
         - Family
    Music:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69217
       all:
         genre: Music
         exclude_genres:
@@ -142,7 +142,7 @@ collections:
         - Musical
    Musicical:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69218
       all:
         genre: Musicical
         exclude_genres:
@@ -150,7 +150,7 @@ collections:
         - Children
    Mystery:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69219
       all:
         genre: Mystery
         exclude_genres:
@@ -159,7 +159,7 @@ collections:
         - Family
    Romance:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69221
       all:
         genre: Romance
         exclude_genres:
@@ -168,7 +168,7 @@ collections:
         - Family        
    Romantic Comedy:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69201
       all:
         genre: Romantic Comedy
         exclude_genres:
@@ -177,7 +177,7 @@ collections:
         - Family        
    Romantic Drama:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69222
       all:
         genre: Romantic Drama
         exclude_genres:
@@ -186,7 +186,7 @@ collections:
         - Family        
    Sci-Fi:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69223
       all:
         genre: Science Fiction
         exclude_genres:
@@ -195,13 +195,13 @@ collections:
         - Family        
    Shorts:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69224
       all:
         genre: Short
         exclude_genres:     
    Sports:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69225
       all:
         genre: Sport
         exclude_genres:
@@ -210,7 +210,7 @@ collections:
         - Family        
    Thriller:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69226
       all:
         genre: Thriller
         exclude_genres:
@@ -220,7 +220,7 @@ collections:
    Travel:
     smart_filter:
     url_poster:
-      all:
+      all: https://theposterdb.com/poster/127402
         genre: Travel
         exclude_genres:
         - Animation
@@ -228,7 +228,7 @@ collections:
         - Family        
    War:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69227
       all:
         genre: War
         exclude_genres:
@@ -237,7 +237,7 @@ collections:
         - Family 
    Western:
     smart_filter:
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/69228
       all:
         genre: Western
         exclude_genres:
