@@ -1,13 +1,13 @@
 collections:
    Recently Added:
    url_poster:
-    smart_filter:
+   smart_filter:
      sort_by: date_added.desc
-       all:
+     all:
         added: 7
    Recently Released:
     url_poster:
     smart_filter:
-    sort_by: date_added.desc
+      sort_by: date_added.desc
       all:
         release: 30
