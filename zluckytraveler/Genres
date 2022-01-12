@@ -1,0 +1,11 @@
+collections:
+   Action:
+    smart_filter:
+    url_poster:
+      all:
+        genre: 
+        - Action
+        - Animation
+        - Children
+        - Family
+        
