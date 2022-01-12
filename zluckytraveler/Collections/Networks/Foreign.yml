@@ -1,7 +1,7 @@
 collections:
    Amazon:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Amazon.jpg
       any:
         studio: 
         - Amazon Studios
@@ -9,12 +9,12 @@ collections:
         network: Amazon
    Apple TV:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Apple%20TV.jpg
       any:
         network: Apple TV+
    BBC:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/BBC.jpg
       any:
         network: 
         - BBC One
@@ -22,20 +22,20 @@ collections:
         - BBC Four
    Canal+:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Canal.jpg
       any:
         network: 
         - Canale 5
         - Canal+ Poland
         - Canal+
    Disney Hotstar:
-    smart_filter:
+    smart_filter: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney%20Hotstar.jpg
     url_poster:
       any:
         network: Disney+ Hotstar
    France TV:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/France.jpg
       any:
         network: 
         - France 2
@@ -43,7 +43,7 @@ collections:
         - France 4
    HBO:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/HBO.jpg
       any:
         network: 
         - HBO
@@ -55,12 +55,12 @@ collections:
         - HBO Nordic
    Netflix:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Netflix.jpg
       any:
         network: Netflix 
    Rai:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Rai.jpg
       any:
         network: 
         - Rai 1
@@ -68,7 +68,7 @@ collections:
         - RaiPlay
    RTL:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/RTL.jpg
       any:
         network:  
         - RTL
@@ -77,7 +77,7 @@ collections:
         - RTL+
    Sky:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Sky.jpg
       any:
         network:   
         - Sky 1
@@ -87,12 +87,12 @@ collections:
         - Sky Cinema
    Telemundo:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Telemundo.jpg
       any:
         network: Telemundo        
    TNT:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/TNT.jpg
       any:
         network:   
         - TNT
@@ -100,6 +100,6 @@ collections:
         - TNT España
    Youtube:
     smart_filter:
-    url_poster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Youtube.jpg
       any:
         network: Youtube        
