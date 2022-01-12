@@ -2,12 +2,12 @@ collections:
   Recently Added:
     url_poster:
     smart_filter:
-    sort_by: date_added.desc
+      sort_by: date_added.desc
       all:
-        date_show_added: 1 months
+        dded: 30
    Recently Released Episodes:
     url_poster:
     smart_filter:
-    sort_by: date_added.desc
+      sort_by: episode_added.desc
       all:
-        episode_air_date: 2 weeks        
+        last_episode_aired: 14
