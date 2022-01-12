@@ -244,70 +244,210 @@ collections:
         - MTV2
         - MTV3
         - MTV (UK)
-   Apple TV:
+   National Geographic:
     smart_filter:
     url_poster:
       any:
-        studio: Apple
-        network: Apple TV+          
-   Apple TV:
+        studio: National Geographic
+        network: 
+        - National Geographic
+        - National Geographic Channel
+        - Nat Geo Wild
+  NBC:
     smart_filter:
     url_poster:
       any:
-        studio: Apple
-        network: Apple TV+          
-   Apple TV:
+        studio: NBC
+        network: 
+        - NBC
+        - CNBC
+        - NBCSN
+   Netflix:
     smart_filter:
     url_poster:
       any:
-        studio: Apple
-        network: Apple TV+          
-   Apple TV:
+        studio: Netflix
+        network: Netflix
+   Nickelodeon:
     smart_filter:
     url_poster:
       any:
-        studio: Apple
-        network: Apple TV+          
-   Apple TV:
+        studio: Nickelodeon
+        network: 
+        - Nickelodeon
+        - Nick Jr.
+   Oxygen:
     smart_filter:
     url_poster:
       any:
-        studio: Apple
-        network: Apple TV+          
-   Apple TV:
+        studio: Oxygen
+        network: Oxygen
+   Paramount:
     smart_filter:
     url_poster:
       any:
-        studio: Apple
-        network: Apple TV+          
-   Apple TV:
+        studio: Paramount Network
+        network: 
+        - CBS All Access
+        - Paramount+
+   PBS:
     smart_filter:
     url_poster:
       any:
-        studio: Apple
-        network: Apple TV+          
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        studio: PBS
+        network: PBS         
+   Peacock:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Peacock
+        network: Peacock
+   Science Channel:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Science Channel
+        network: 
+        - Science Channel
+        - Science
+   Showtime:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Showtime
+        network: Showtime     
+   Sky:
+    smart_filter:
+    url_poster:
+      any:
+        network:
+        - Sky1
+        - Sky Witness
+        - Sky Sports F1
+        - Sky Sports
+        - Sky One
+        - Sky Max
+        - Sky Living
+        - Sky Documentaries
+        - Sky Crime
+        - Sky Atlantic 
+        - Sky Atlantic
+        - Sky Arts      
+   Smithsonian:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Smithsonian
+        network: 
+        - Smithsonian   
+        - Smithsonian Channel (CA)
+   Spike:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Spike
+        network: Spike   
+   Starz:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Starz
+        network: Starz        
+   Sundance:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Sundance
+        network: SundanceTV    
+   Syfy:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Syfy
+        network: Syfy        
+   TBS:
+    smart_filter:
+    url_poster:
+      any:
+        studio: TBS
+        network: TBS         
+   TLC:
+    smart_filter:
+    url_poster:
+      any:
+        studio: TLC
+        network:    
+        - TLC
+        - TLC Go
+   TNT:
+    smart_filter:
+    url_poster:
+      any:
+        studio: TNT
+        network:
+        - TNT
+        - TNT (US)
+        - TNT Serie
+   Travel:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Travel
+        network:
+        - Travel Channel United Kingdom
+        - Travel Channel
+   truTV:
+    smart_filter:
+    url_poster:
+      any:
+        network:  truTV   
+   USA:
+    smart_filter:
+    url_poster:
+      any:
+        studio: 
+        - USATV
+        - USA Network
+        - USA Pictures
+        network: USA Network       
+   VH1:
+    smart_filter:
+    url_poster:
+      any:
+        studio: VH1
+        network:
+        - VH1 Classic
+        - VH1
+   Vice:
+    smart_filter:
+    url_poster:
+      any:
+        studio: 
+        - Vice TV
+        - Vice Studios
+        - Vice Media
+        - VICE Media
+        - Vice Studio Canada
+        network:   
+        - Vice TV
+        - Vice on TV (US)
+   Viceland:
+    smart_filter:
+    url_poster:
+      any:
+        network:
+        - Viceland  
+        - Viceland (US)
+   The WB:
+    smart_filter:
+    url_poster:
+      any:
+        network: The WB        
+   YouTube:
+    smart_filter:
+    url_poster:
+      any:
+        studio: YouTube
+        network:  
+        - YouTube Premium
+        - YouTube      
