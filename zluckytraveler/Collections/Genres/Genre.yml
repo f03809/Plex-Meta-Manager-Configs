@@ -1,7 +1,7 @@
 collections:
    Action:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69196
+    smart_filter:
       all:
         genre: Action
         exclude_genres:
@@ -9,8 +9,8 @@ collections:
         - Children
         - Family
    Adventure:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69197
+    smart_filter:
       all:
         genre: Adventure
         exclude_genres:
@@ -18,18 +18,18 @@ collections:
         - Children
         - Family
    Animation:
-    smart_filter: 
     url_poster: https://theposterdb.com/api/assets/69198
+    smart_filter: 
       all:
         genre: Animation
    Anime:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/126754
+    smart_filter:
       all:
         genre: Anime
    Biography:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69199
+    smart_filter:
       all:
         genre: Biography
         exclude_genres:
@@ -37,8 +37,8 @@ collections:
         - Children
         - Family
    Comedy:
+   url_poster: https://theposterdb.com/api/assets/69200
     smart_filter:
-    url_poster: https://theposterdb.com/api/assets/69200
       all:
         genre: Comedy
         exclude_genres:
@@ -46,8 +46,8 @@ collections:
         - Children
         - Family
    Cooking:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69202
+    smart_filter:
       all:
         genre: Cooking
         exclude_genres:
@@ -55,8 +55,8 @@ collections:
         - Children
         - Family
    Crime:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69203
+    smart_filter:
       all:
         genre: Crime
         exclude_genres:
@@ -64,16 +64,16 @@ collections:
         - Children
         - Family
    Documentary:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69204
+    smart_filter:
       all:
         genre: Documentary
         exclude_genres:
         - Animation
         - Children
    Drama:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69205
+    smart_filter:
       all:
         genre: Drama
         exclude_genres:
@@ -81,13 +81,13 @@ collections:
         - Children
         - Family
    Family:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69208
+    smart_filter:
       all:
         genre: Family
    Fantasy:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69210
+    smart_filter:
       all:
         genre: Fantasy
         exclude_genres:
@@ -95,8 +95,8 @@ collections:
         - Children
         - Family
    Film-Noir:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/161218
+    smart_filter:
       all:
         genre: Film-Noir
         exclude_genres:
@@ -104,8 +104,8 @@ collections:
         - Children
         - Family
    History:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69212
+    smart_filter:
       all:
         genre: History
         exclude_genres:
@@ -113,8 +113,8 @@ collections:
         - Children
         - Family
    Horror:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69213
+    smart_filter:
       all:
         genre: Horror
         exclude_genres:
@@ -122,8 +122,8 @@ collections:
         - Children
         - Family
    Martial Arts:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69216
+    smart_filter:
       all:
         genre: Martial Arts
         exclude_genres:
@@ -131,8 +131,8 @@ collections:
         - Children
         - Family
    Music:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69217
+    smart_filter:
       all:
         genre: Music
         exclude_genres:
@@ -141,16 +141,16 @@ collections:
         - Family
         - Musical
    Musicical:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69218
+    smart_filter:
       all:
         genre: Musicical
         exclude_genres:
         - Animation
         - Children
    Mystery:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69219
+    smart_filter:
       all:
         genre: Mystery
         exclude_genres:
@@ -158,8 +158,8 @@ collections:
         - Children
         - Family
    Romance:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69221
+    smart_filter:
       all:
         genre: Romance
         exclude_genres:
@@ -167,8 +167,8 @@ collections:
         - Children
         - Family        
    Romantic Comedy:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69201
+    smart_filter:
       all:
         genre: Romantic Comedy
         exclude_genres:
@@ -176,8 +176,8 @@ collections:
         - Children
         - Family        
    Romantic Drama:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69222
+    smart_filter:
       all:
         genre: Romantic Drama
         exclude_genres:
@@ -185,8 +185,8 @@ collections:
         - Children
         - Family        
    Sci-Fi:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69223
+    smart_filter:
       all:
         genre: Science Fiction
         exclude_genres:
@@ -194,14 +194,14 @@ collections:
         - Children
         - Family        
    Shorts:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69224
+    smart_filter:
       all:
         genre: Short
         exclude_genres:     
    Sports:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69225
+    smart_filter:
       all:
         genre: Sport
         exclude_genres:
@@ -209,8 +209,8 @@ collections:
         - Children
         - Family        
    Thriller:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69226
+    smart_filter:
       all:
         genre: Thriller
         exclude_genres:
@@ -218,17 +218,17 @@ collections:
         - Children
         - Family        
    Travel:
+    url_poster: https://theposterdb.com/poster/127402
     smart_filter:
-    url_poster:
-      all: https://theposterdb.com/poster/127402
+      all: 
         genre: Travel
         exclude_genres:
         - Animation
         - Children
         - Family        
    War:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69227
+    smart_filter:
       all:
         genre: War
         exclude_genres:
@@ -236,8 +236,8 @@ collections:
         - Children
         - Family 
    Western:
-    smart_filter:
     url_poster: https://theposterdb.com/api/assets/69228
+    smart_filter:
       all:
         genre: Western
         exclude_genres:
