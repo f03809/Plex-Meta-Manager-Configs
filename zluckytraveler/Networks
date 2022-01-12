@@ -1,12 +1,13 @@
 collections:
    A&E:
     smart_filter:
+    url_poster:
       any:
         studio: A&E
-        network:
-         - A&E
+        network: A&E
    ABC:
     smart_filter:
+    url_poster:
       any:
         studio: ABC
         network:
@@ -17,18 +18,19 @@ collections:
          - ABC
    Adult Swim:
     smart_filter:
+    url_poster:
       any:
         studio: Adult Swim
-        network:
-         - Adult Swim
+        network: Adult Swim
    Amazon:
     smart_filter:
+    url_poster:
       any:
         studio: Amazon
-        network: 
-         - Amazon
+        network: Amazon
    AMC:
     smart_filter:
+    url_poster:
       any:
         studio: AMC
         network:
@@ -36,13 +38,276 @@ collections:
          - AMC+
    Animal Planet:
     smart_filter:
+    url_poster:
       any:
         studio: Animal Planet
-        network: 
-         - Animal Planet
+        network: Animal Planet
    Apple TV:
     smart_filter:
+    url_poster:
       any:
         studio: Apple
+        network: Apple TV+
+   BBC:
+    smart_filter:
+    url_poster:
+      any:
+        studio: BBC
+        network:
+        - BBC
+        - BBC One
+        - BBC Two
+        - BBC Three
+        - BBC Four
+        - BBC First
+        - BBC Television
+        - BBC Scotland
+        - BBC One Northern Ireland
+        - BBC Kids
+        - BBC iPlayer
+        - BBC HD
+        - BBC Choice
+        - BBC America
+   BET:
+    smart_filter:
+    url_poster:
+      any:
+        studio: BET
+        network:
+        - BET
+        - BET+
+   Bravo:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Bravo
+        network: Bravo
+   CBS:
+    smart_filter:
+    url_poster:
+      any:
+        studio: CBS
+        network: CBS
+   Cinemax:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Cinemax
+        network: Cinemax
+   Comedy Central:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Comedy Central
+        network:
+        - Comedy Central
+        - Comedy Central (UK)
+   The CW:
+    smart_filter:
+    url_poster:
+      any:
+        studio: CW
+        network: The CW
+   DC Universe:
+    smart_filter:
+    url_poster:
+      any:
+        studio: DC Universe
+        network: DC Universe
+   Discovery:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Discovery
         network: 
-         - Apple TV+
+        - Discovery
+        - discovery+
+        - Discovery UK
+        - Discovery Turbo
+        - Discovery Real Time
+        - Discovery Networks International
+        - Discovery Life
+        - Discovery Kids
+        - Discovery Health Channel
+        - Discovery Channel (CA)
+        - Discovery Channel (AU)
+        - Discovery Channel   
+   Disney+:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Disney+
+        network: Disney+
+   ESPN:
+    smart_filter:
+    url_poster:
+      any:
+        studio: 
+        - ESPN
+        - ESPN Films
+        network: 
+        - ESPN
+        - ESPN+
+   Food Network:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Food Network
+        network: Food Network
+   FOX:
+    smart_filter:
+    url_poster:
+      any:
+        studio: FOX
+        network:
+        - FOX
+        - Fox Reality Channel
+        - Fox Action Movies
+        - Fox Kids
+        - Fox Nation
+   FX:
+    smart_filter:
+    url_poster:
+      any:
+        studio: FX
+        network:
+        - FX
+        - FXX
+   HBO:
+    smart_filter:
+    url_poster:
+      any:
+        studio: HBO
+        network:
+        - HBO
+        - HBO Asia
+        - HBO Canada
+        - HBO Nordic
+        - HBO Europe
+   HBO Max:
+    smart_filter:
+    url_poster:
+      any:
+        studio: HBO Max
+        network: HBO Max
+   HGTV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: HGTV
+        network:
+        - HGTV
+        - HGTV Canada
+   History:
+    smart_filter:
+    url_poster:
+      any:
+        studio: History
+        network:
+        - History
+        - History Canada
+   Hulu:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Hulu
+        network: Hulu
+   IFC:
+    smart_filter:
+    url_poster:
+      any:
+        studio: IFC TV
+        network: IFC
+   Lifetime:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Lifetime
+        network:
+        - Lifetime
+        - Lifetime Movies
+   MasterClass:
+    smart_filter:
+    url_poster:
+      any:
+        Show Title: MasterClass
+        network: MasterClass      
+   MTV:
+    smart_filter:
+    url_poster:
+      any:
+        studio:
+        - MTV Entertainment Studios
+        - MTV Studios
+        network:
+        - MTV
+        - MTV2
+        - MTV3
+        - MTV (UK)
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Apple
+        network: Apple TV+          
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Apple
+        network: Apple TV+          
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Apple
+        network: Apple TV+          
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Apple
+        network: Apple TV+          
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Apple
+        network: Apple TV+          
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Apple
+        network: Apple TV+          
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        studio: Apple
+        network: Apple TV+          
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
