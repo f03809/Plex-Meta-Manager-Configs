@@ -1,12 +1,13 @@
-Recently Added:
+Collection:
+  Recently Added:
+    url_poster:
     smart_filter:
     sort_by: date_added.desc
-    url_poster:
       all:
         date_show_added: 1 months
    Recently Released Episodes:
+    url_poster:
     smart_filter:
     sort_by: date_added.desc
-    url_poster:
       all:
         episode_air_date: 2 weeks        
