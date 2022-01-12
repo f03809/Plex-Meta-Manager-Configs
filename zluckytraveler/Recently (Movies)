@@ -1,0 +1,13 @@
+collections:
+   Recently Added:
+    smart_filter:
+    sort_by: date_added.desc
+    url_poster:
+      all:
+        date added: 2_weeks
+   Recently Released:
+    smart_filter:
+    sort_by: date_added.desc
+    url_poster:
+      all:
+        release date: 1_months        
