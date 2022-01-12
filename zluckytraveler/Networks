@@ -1,0 +1,48 @@
+collections:
+   A&E:
+    smart_filter:
+      any:
+        studio: A&E
+        network:
+         - A&E
+   ABC:
+    smart_filter:
+      any:
+        studio: ABC
+        network:
+         - ABC Family
+         - ABC Me
+         - ABC (US)
+         - ABC Comedy
+         - ABC
+   Adult Swim:
+    smart_filter:
+      any:
+        studio: Adult Swim
+        network:
+         - Adult Swim
+   Amazon:
+    smart_filter:
+      any:
+        studio: Amazon
+        network: 
+         - Amazon
+   AMC:
+    smart_filter:
+      any:
+        studio: AMC
+        network:
+         - AMC
+         - AMC+
+   Animal Planet:
+    smart_filter:
+      any:
+        studio: Animal Planet
+        network: 
+         - Animal Planet
+   Apple TV:
+    smart_filter:
+      any:
+        studio: Apple
+        network: 
+         - Apple TV+
