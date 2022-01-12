@@ -82,6 +82,11 @@ collections:
       any:
         studio: Bravo
         network: Bravo
+   Cartoon Network:
+    smart_filter:
+    url_poster:
+      any:
+        network: Cartoon Network
    CBS:
     smart_filter:
     url_poster:
