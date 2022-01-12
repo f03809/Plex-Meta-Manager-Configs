@@ -3,9 +3,244 @@ collections:
     smart_filter:
     url_poster:
       all:
-        genre: 
-        - Action
+        genre: Action
+        exclude_genres:
         - Animation
         - Children
         - Family
-        
+   Adventure:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Adventure
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Animation:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Animation
+   Anime:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Anime
+   Biography:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Biography
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Comedy:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Comedy
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Cooking:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Cooking
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Crime:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Crime
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Documentary:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Documentary
+        exclude_genres:
+        - Animation
+        - Children
+   Drama:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Drama
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Family:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Family
+   Fantasy:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Fantasy
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Film-Noir:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Film-Noir
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   History:
+    smart_filter:
+    url_poster:
+      all:
+        genre: History
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Horror:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Horror
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Martial Arts:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Martial Arts
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Music:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Music
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+        - Musical
+   Musicical:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Musicical
+        exclude_genres:
+        - Animation
+        - Children
+   Mystery:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Mystery
+        exclude_genres:
+        - Animation
+        - Children
+        - Family
+   Romance:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Romance
+        exclude_genres:
+        - Animation
+        - Children
+        - Family        
+   Romantic Comedy:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Romantic Comedy
+        exclude_genres:
+        - Animation
+        - Children
+        - Family        
+   Romantic Drama:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Romantic Drama
+        exclude_genres:
+        - Animation
+        - Children
+        - Family        
+   Sci-Fi:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Science Fiction
+        exclude_genres:
+        - Animation
+        - Children
+        - Family        
+   Shorts:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Short
+        exclude_genres:     
+   Sports:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Sport
+        exclude_genres:
+        - Animation
+        - Children
+        - Family        
+   Thriller:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Thriller
+        exclude_genres:
+        - Animation
+        - Children
+        - Family        
+   Travel:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Travel
+        exclude_genres:
+        - Animation
+        - Children
+        - Family        
+   War:
+    smart_filter:
+    url_poster:
+      all:
+        genre: War
+        exclude_genres:
+        - Animation
+        - Children
+        - Family 
+   Western:
+    smart_filter:
+    url_poster:
+      all:
+        genre: Western
+        exclude_genres:
+        - Animation
+        - Children
+        - Family              
