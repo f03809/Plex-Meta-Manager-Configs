@@ -1,1 +1,105 @@
-
+collections:
+   Amazon:
+    smart_filter:
+    url_poster:
+      any:
+        studio: 
+        - Amazon Studios
+        - Amazon Prime Video
+        network: Amazon
+   Apple TV:
+    smart_filter:
+    url_poster:
+      any:
+        network: Apple TV+
+   BBC:
+    smart_filter:
+    url_poster:
+      any:
+        network: 
+        - BBC One
+        - BBC Two
+        - BBC Four
+   Canal+:
+    smart_filter:
+    url_poster:
+      any:
+        network: 
+        - Canale 5
+        - Canal+ Poland
+        - Canal+
+   Disney Hotstar:
+    smart_filter:
+    url_poster:
+      any:
+        network: Disney+ Hotstar
+   France TV:
+    smart_filter:
+    url_poster:
+      any:
+        network: 
+        - France 2
+        - France 3
+        - France 4
+   HBO:
+    smart_filter:
+    url_poster:
+      any:
+        network: 
+        - HBO
+        - HBO España
+        - HBO Asia
+        - HBO Max
+        - HBO Latin America
+        - HBO Europe
+        - HBO Nordic
+   Netflix:
+    smart_filter:
+    url_poster:
+      any:
+        network: Netflix 
+   Rai:
+    smart_filter:
+    url_poster:
+      any:
+        network: 
+        - Rai 1
+        - Rai 2
+        - RaiPlay
+   RTL:
+    smart_filter:
+    url_poster:
+      any:
+        network:  
+        - RTL
+        - RTL 4
+        - RTL 5
+        - RTL+
+   Sky:
+    smart_filter:
+    url_poster:
+      any:
+        network:   
+        - Sky 1
+        - Sky One
+        - Sky Atlantic
+        - Sky Atlantic 
+        - Sky Cinema
+   Telemundo:
+    smart_filter:
+    url_poster:
+      any:
+        network: Telemundo        
+   TNT:
+    smart_filter:
+    url_poster:
+      any:
+        network:   
+        - TNT
+        - TNT Serie
+        - TNT España
+   Youtube:
+    smart_filter:
+    url_poster:
+      any:
+        network: Youtube        
