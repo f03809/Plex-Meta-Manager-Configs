@@ -2,7 +2,7 @@ collections:
    Recently Added:
    url_poster:
     smart_filter:
-    sort_by: date_added.desc
+     sort_by: date_added.desc
       all:
         added: 7
    Recently Released:
