@@ -1,7 +1,7 @@
 collections:
    Recently Added:
-   url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Movie/Recently%20Added%20Movies.jpg
-   smart_filter:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Movie/Recently%20Added%20Movies.jpg
+    smart_filter:
      sort_by: date_added.desc
      all:
         added: 7
