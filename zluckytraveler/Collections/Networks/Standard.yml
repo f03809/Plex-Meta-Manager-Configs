@@ -212,8 +212,8 @@ collections:
         - History
         - History Canada
    Hulu:
-   url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Hulu.jpg
-   smart_filter:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Hulu.jpg
+    smart_filter:
       any:
         studio: Hulu
         network: Hulu
