@@ -4,7 +4,7 @@ collections:
     smart_filter:
       all:
         genre: Action
-        genre.not:	
+        genre.not:
         - Animation
         - Children
         - Family
@@ -243,4 +243,4 @@ collections:
         genre.not:
         - Animation
         - Children
-        - Family                   																																																																																																																																																																																																					
+        - Family   																																																																																																																																																																																																					
