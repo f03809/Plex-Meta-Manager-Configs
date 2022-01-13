@@ -37,8 +37,8 @@ collections:
         - Children
         - Family
   Comedy:
-   url_poster: https://theposterdb.com/api/assets/69200
-   smart_filter:
+    url_poster: https://theposterdb.com/api/assets/69200
+    smart_filter:
       all:
         genre: Comedy
         genre.not:
