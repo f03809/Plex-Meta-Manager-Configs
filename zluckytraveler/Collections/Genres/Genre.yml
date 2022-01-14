@@ -234,8 +234,7 @@ collections:
         genre: Sport
         genre.not:
         - Animation
-        - Children
-        - Family        
+        - Children     
   Thriller:
     url_poster: https://theposterdb.com/api/assets/69226
     sort_title: #1Thriller
