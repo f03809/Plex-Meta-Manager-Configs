@@ -22,7 +22,7 @@ collections:
         - ABC
   Adult Swim: 
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Adult%20Swim.jpg
-    sort_title: #2NAdult Swim
+    sort_title: #2Adult Swim
     smart_filter:
       sort_by: title.asc
       any:
