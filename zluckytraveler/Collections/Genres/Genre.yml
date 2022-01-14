@@ -2,6 +2,7 @@ collections:
   Action:
     url_poster: https://theposterdb.com/api/assets/69196
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Action
         genre.not:
@@ -11,6 +12,7 @@ collections:
   Adventure:
     url_poster: https://theposterdb.com/api/assets/69197
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Adventure
         genre.not:
@@ -20,16 +22,19 @@ collections:
   Animation:
     url_poster: https://theposterdb.com/api/assets/69198
     smart_filter: 
+      sort_by: title.asc      
       all:
         genre: Animation
   Anime:
     url_poster: https://theposterdb.com/api/assets/126754
     smart_filter:
+      sort_by: title.asc  
       all:
         genre: Anime
   Biography:
     url_poster: https://theposterdb.com/api/assets/69199
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Biography
         genre.not:
@@ -39,6 +44,7 @@ collections:
   Comedy:
     url_poster: https://theposterdb.com/api/assets/69200
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Comedy
         genre.not:
@@ -48,6 +54,7 @@ collections:
   Cooking:
     url_poster: https://theposterdb.com/api/assets/69202
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Cooking
         genre.not:
@@ -57,6 +64,7 @@ collections:
   Crime:
     url_poster: https://theposterdb.com/api/assets/69203
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Crime
         genre.not:
@@ -66,6 +74,7 @@ collections:
   Documentary:
     url_poster: https://theposterdb.com/api/assets/69204
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Documentary
         genre.not:
@@ -74,6 +83,7 @@ collections:
   Drama:
     url_poster: https://theposterdb.com/api/assets/69205
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Drama
         genre.not:
@@ -83,11 +93,13 @@ collections:
   Family:
     url_poster: https://theposterdb.com/api/assets/69208
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Family
   Fantasy:
     url_poster: https://theposterdb.com/api/assets/69210
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Fantasy
         genre.not:
@@ -97,6 +109,7 @@ collections:
   Film-Noir:
     url_poster: https://theposterdb.com/api/assets/161218
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Film-Noir
         genre.not:
@@ -106,6 +119,7 @@ collections:
   History:
     url_poster: https://theposterdb.com/api/assets/69212
     smart_filter:
+      sort_by: title.asc
       all:
         genre: History
         genre.not:
@@ -115,6 +129,7 @@ collections:
   Horror:
     url_poster: https://theposterdb.com/api/assets/69213
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Horror
         genre.not:
@@ -124,6 +139,7 @@ collections:
   Martial Arts:
     url_poster: https://theposterdb.com/api/assets/69216
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Martial Arts
         genre.not:
@@ -133,6 +149,7 @@ collections:
   Music:
     url_poster: https://theposterdb.com/api/assets/69217
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Music
         genre.not:
@@ -143,6 +160,7 @@ collections:
   Musicical:
     url_poster: https://theposterdb.com/api/assets/69218
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Musicical
         genre.not:
@@ -151,6 +169,7 @@ collections:
   Mystery:
     url_poster: https://theposterdb.com/api/assets/69219
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Mystery
         genre.not:
@@ -160,6 +179,7 @@ collections:
   Romance:
     url_poster: https://theposterdb.com/api/assets/69221
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Romance
         genre.not:
@@ -169,6 +189,7 @@ collections:
   Romantic Comedy:
     url_poster: https://theposterdb.com/api/assets/69201
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Romantic Comedy
         genre.not:
@@ -178,6 +199,7 @@ collections:
   Romantic Drama:
     url_poster: https://theposterdb.com/api/assets/69222
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Romantic Drama
         genre.not:
@@ -187,6 +209,7 @@ collections:
   Sci-Fi:
     url_poster: https://theposterdb.com/api/assets/69223
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Science Fiction
         genre.not:
@@ -196,12 +219,14 @@ collections:
   Shorts:
     url_poster: https://theposterdb.com/api/assets/69224
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Short
         genre.not:     
   Sports:
     url_poster: https://theposterdb.com/api/assets/69225
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Sport
         genre.not:
@@ -211,6 +236,7 @@ collections:
   Thriller:
     url_poster: https://theposterdb.com/api/assets/69226
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Thriller
         genre.not:
@@ -220,6 +246,7 @@ collections:
   Travel:
     url_poster: https://theposterdb.com/poster/127402
     smart_filter:
+      sort_by: title.asc
       all: 
         genre: Travel
         genre.not:
@@ -229,6 +256,7 @@ collections:
   War:
     url_poster: https://theposterdb.com/api/assets/69227
     smart_filter:
+      sort_by: title.asc
       all:
         genre: War
         genre.not:
@@ -238,6 +266,7 @@ collections:
   Western:
     url_poster: https://theposterdb.com/api/assets/69228
     smart_filter:
+      sort_by: title.asc
       all:
         genre: Western
         genre.not:
