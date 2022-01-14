@@ -1,7 +1,7 @@
 collections:
   Action:
     url_poster: https://theposterdb.com/api/assets/69196
-    sort_title: #1Action
+    sort_title: 1Action
     smart_filter:
       sort_by: title.asc
       all:
@@ -12,7 +12,7 @@ collections:
         - Family
   Adventure:
     url_poster: https://theposterdb.com/api/assets/69197
-    sort_title: #1Adventure
+    sort_title: 1Adventure
     smart_filter:
       sort_by: title.asc
       all:
@@ -23,21 +23,21 @@ collections:
         - Family
   Animation:
     url_poster: https://theposterdb.com/api/assets/69198
-    sort_title: #1Animation
+    sort_title: 1Animation
     smart_filter: 
       sort_by: title.asc      
       all:
         genre: Animation
   Anime:
     url_poster: https://theposterdb.com/api/assets/126754
-    sort_title: #1Anime
+    sort_title: 1Anime
     smart_filter:
       sort_by: title.asc  
       all:
         genre: Anime
   Biography:
     url_poster: https://theposterdb.com/api/assets/69199
-    sort_title: #1Biography
+    sort_title: 1Biography
     smart_filter:
       sort_by: title.asc
       all:
@@ -48,7 +48,7 @@ collections:
         - Family
   Comedy:
     url_poster: https://theposterdb.com/api/assets/69200
-    sort_title: #1Comedy
+    sort_title: 1Comedy
     smart_filter:
       sort_by: title.asc
       all:
@@ -59,7 +59,7 @@ collections:
         - Family
   Cooking:
     url_poster: https://theposterdb.com/api/assets/69202
-    sort_title: #1Cooking
+    sort_title: 1Cooking
     smart_filter:
       sort_by: title.asc
       all:
@@ -70,7 +70,7 @@ collections:
         - Family
   Crime:
     url_poster: https://theposterdb.com/api/assets/69203
-    sort_title: #1Crime
+    sort_title: 1Crime
     smart_filter:
       sort_by: title.asc
       all:
@@ -81,7 +81,7 @@ collections:
         - Family
   Documentary:
     url_poster: https://theposterdb.com/api/assets/69204
-    sort_title: #1Documentary
+    sort_title: 1Documentary
     smart_filter:
       sort_by: title.asc
       all:
@@ -91,7 +91,7 @@ collections:
         - Children
   Drama:
     url_poster: https://theposterdb.com/api/assets/69205
-    sort_title: #1Drama
+    sort_title: 1Drama
     smart_filter:
       sort_by: title.asc
       all:
@@ -102,14 +102,14 @@ collections:
         - Family
   Family:
     url_poster: https://theposterdb.com/api/assets/69208
-    sort_title: #1Family
+    sort_title: 1Family
     smart_filter:
       sort_by: title.asc
       all:
         genre: Family
   Fantasy:
     url_poster: https://theposterdb.com/api/assets/69210
-    sort_title: #1Fantasy
+    sort_title: 1Fantasy
     smart_filter:
       sort_by: title.asc
       all:
@@ -120,7 +120,7 @@ collections:
         - Family
   Film-Noir:
     url_poster: https://theposterdb.com/api/assets/161218
-    sort_title: #1Film-Noir
+    sort_title: 1Film-Noir
     smart_filter:
       sort_by: title.asc
       all:
@@ -131,7 +131,7 @@ collections:
         - Family
   History:
     url_poster: https://theposterdb.com/api/assets/69212
-    sort_title: #1History
+    sort_title: 1History
     smart_filter:
       sort_by: title.asc
       all:
@@ -142,7 +142,7 @@ collections:
         - Family
   Horror:
     url_poster: https://theposterdb.com/api/assets/69213
-    sort_title: #1Horror
+    sort_title: 1Horror
     smart_filter:
       sort_by: title.asc
       all:
@@ -153,7 +153,7 @@ collections:
         - Family
   Martial Arts:
     url_poster: https://theposterdb.com/api/assets/69216
-    sort_title: #1Martial Arts
+    sort_title: 1Martial Arts
     smart_filter:
       sort_by: title.asc
       all:
@@ -164,7 +164,7 @@ collections:
         - Family
   Music:
     url_poster: https://theposterdb.com/api/assets/69217
-    sort_title: #1Music
+    sort_title: 1Music
     smart_filter:
       sort_by: title.asc
       all:
@@ -176,7 +176,7 @@ collections:
         - Musical
   Musicical:
     url_poster: https://theposterdb.com/api/assets/69218
-    sort_title: #1Musical
+    sort_title: 1Musical
     smart_filter:
       sort_by: title.asc
       all:
@@ -186,7 +186,7 @@ collections:
         - Children
   Mystery:
     url_poster: https://theposterdb.com/api/assets/69219
-    sort_title: #1Mystery
+    sort_title: 1Mystery
     smart_filter:
       sort_by: title.asc
       all:
@@ -197,7 +197,7 @@ collections:
         - Family
   Romance:
     url_poster: https://theposterdb.com/api/assets/69221
-    sort_title: #1Romance
+    sort_title: 1Romance
     smart_filter:
       sort_by: title.asc
       all:
@@ -208,7 +208,7 @@ collections:
         - Family
   Sci-Fi:
     url_poster: https://theposterdb.com/api/assets/69223
-    sort_title: #1Sci-Fi
+    sort_title: 1Sci-Fi
     smart_filter:
       sort_by: title.asc
       all:
@@ -219,7 +219,7 @@ collections:
         - Family
   Shorts:
     url_poster: https://theposterdb.com/api/assets/69224
-    sort_title: #1Shorts
+    sort_title: 1Shorts
     smart_filter:
       sort_by: title.asc
       all:
@@ -227,7 +227,7 @@ collections:
         genre.not:     
   Sports:
     url_poster: https://theposterdb.com/api/assets/69225
-    sort_title: #1Sports
+    sort_title: 1Sports
     smart_filter:
       sort_by: title.asc
       all:
@@ -237,7 +237,7 @@ collections:
         - Children     
   Thriller:
     url_poster: https://theposterdb.com/api/assets/69226
-    sort_title: #1Thriller
+    sort_title: 1Thriller
     smart_filter:
       sort_by: title.asc
       all:
@@ -248,7 +248,7 @@ collections:
         - Family        
   Travel:
     url_poster: https://theposterdb.com/poster/127402
-    sort_title: #1Travel
+    sort_title: 1Travel
     smart_filter:
       sort_by: title.asc
       all: 
@@ -259,7 +259,7 @@ collections:
         - Family        
   War:
     url_poster: https://theposterdb.com/api/assets/69227
-    sort_title: #1War
+    sort_title: 1War
     smart_filter:
       sort_by: title.asc
       all:
@@ -270,7 +270,7 @@ collections:
         - Family 
   Western:
     url_poster: https://theposterdb.com/api/assets/69228
-    sort_title: #1Westerns
+    sort_title: 1Westerns
     smart_filter:
       sort_by: title.asc
       all:
