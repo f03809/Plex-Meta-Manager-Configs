@@ -1,15 +1,15 @@
 collections: 
   Recently Added:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Added%20TV.jpg
-    sort_title: #0Recently Added
+    sort_title: 0Recently Added
     smart_filter:
-      sort_by: date_added.desc
+      sort_by: added.desc
       all:
         added: 30
   Recently Released Episodes:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Released%20Episodes.jpg
-    sort_title: #0Recently Released Episodes
+    sort_title: 0Recently Released Episodes
     smart_filter:
-      sort_by: date_added.desc
+      sort_by: added.desc
       all:
         last_episode_aired: 14
