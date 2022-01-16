@@ -6,7 +6,7 @@ collections:
       sort_by: added.desc
       all:
         added: 30
-  Recently Released Episodes:
+  Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Released%20Episodes.jpg
     sort_title: 0Recently Released Episodes
     smart_filter:
