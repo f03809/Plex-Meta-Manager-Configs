@@ -10,6 +10,6 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Released%20Episodes.jpg
     sort_title: 0Recently Released
     smart_filter:
-      sort_by: added.desc
+      sort_by: episode_added.desc
       all:
         last_episode_aired: 14
