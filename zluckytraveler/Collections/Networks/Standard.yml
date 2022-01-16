@@ -479,7 +479,7 @@ collections:
         - Smithsonian   
         - Smithsonian Channel (CA)
   Spike:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Spiike.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Spike.jpg
     sort_title: 2Spike
     smart_filter:
       sort_by: title.asc
