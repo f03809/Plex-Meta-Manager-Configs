@@ -255,8 +255,7 @@ collections:
         genre: Travel
         genre.not:
         - Animation
-        - Children
-        - Family        
+        - Children      
   War:
     url_poster: https://theposterdb.com/api/assets/69227
     sort_title: 1War
