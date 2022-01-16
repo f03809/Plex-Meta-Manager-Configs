@@ -247,7 +247,7 @@ collections:
         - Children
         - Family        
   Travel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Standard%201/Travel.png
+    url_poster: https://theposterdb.com/api/assets/127402
     sort_title: 1Travel
     smart_filter:
       sort_by: title.asc
