@@ -10,6 +10,6 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Movie/Recently%20Released%20Movies.jpg
     sort_title: 0Recently Released
     smart_filter:
-      sort_by: added.desc
+      sort_by: release.desc
       all:
         release: 30
