@@ -140,7 +140,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Musicical
+        genre: Musical
   Mystery:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Mystery%202.jpg
     sort_title: 1Mystery
