@@ -174,7 +174,7 @@ collections:
         - Children
         - Family
         - Musical
-  Musicical:
+  Musical:
     url_poster: https://theposterdb.com/api/assets/69218
     sort_title: 1Musical
     smart_filter:
