@@ -63,11 +63,10 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Cooking
+        genre: Food
         genre.not:
         - Animation
         - Children
-        - Family
   Crime:
     url_poster: https://theposterdb.com/api/assets/69203
     sort_title: 1Crime
@@ -172,7 +171,6 @@ collections:
         genre.not:
         - Animation
         - Children
-        - Family
         - Musical
   Musical:
     url_poster: https://theposterdb.com/api/assets/69218
@@ -223,8 +221,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Short
-        genre.not:     
+        genre: Short   
   Sports:
     url_poster: https://theposterdb.com/api/assets/69225
     sort_title: 1Sports
