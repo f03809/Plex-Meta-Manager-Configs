@@ -11,6 +11,6 @@ collections:
     sort_title: 0Recently Released
     type: episodes
       smart_filter:
-        sort_by: episode_added.desc
+        sort_by: added.desc
         all:
           last_episode_aired: 14
