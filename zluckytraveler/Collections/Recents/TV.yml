@@ -13,4 +13,4 @@ collections:
       type: episodes
       sort_by: added.desc
       all:
-        last_episode_aired: 14
+        episode_air_date: 14
