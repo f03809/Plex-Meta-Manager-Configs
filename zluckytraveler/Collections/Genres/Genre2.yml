@@ -65,7 +65,7 @@ collections:
     sort_title: 1Cooking
     smart_filter:
       sort_by: title.asc
-      any:
+      all:
         genre: Food
         genre.not:
         - Animation
