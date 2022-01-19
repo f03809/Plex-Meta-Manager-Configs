@@ -66,8 +66,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        genre: 
-        - Food
+        genre: Food
         genre.not:
         - Animation
         - Children
@@ -195,7 +194,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Musicical
+        genre: Musical
         genre.not:
         - Animation
         - Children
