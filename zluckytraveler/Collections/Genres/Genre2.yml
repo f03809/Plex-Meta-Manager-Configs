@@ -260,7 +260,7 @@ collections:
     smart_filter:
       sort_by: title.asc      
   Sports:
-    url_https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Sports%203.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Sports%203.jpg
     sort_title: 1Sports
     smart_filter:
       sort_by: title.asc
