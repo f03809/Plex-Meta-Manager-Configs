@@ -49,7 +49,7 @@ collections:
     sort_title: 1Cooking
     smart_filter:
       sort_by: title.asc
-      any:
+      all:
         genre: Food
   Crime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Crime%203.jpg
