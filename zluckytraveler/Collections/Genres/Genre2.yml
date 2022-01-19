@@ -60,7 +60,7 @@ collections:
         - Animation
         - Children
         - Family
-  Culinary:
+  Cooking:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Cooking%201.jpg
     sort_title: 1Cooking
     smart_filter:
@@ -135,6 +135,16 @@ collections:
         - Animation
         - Children
         - Family
+  Food:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Food%201.jpg
+    sort_title: 1Food
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Food
+        genre.not:
+        - Animation
+        - Children    
   Gangster:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
     sort_title: 1Gangster
@@ -210,9 +220,33 @@ collections:
         - Animation
         - Children
         - Family
+  News:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/News.jpg
+    sort_title: 1News
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: News      
+  Politics:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Politics.jpg
+    sort_title: 1Politics
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Politics
   Pandemic:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Pandemic%203.jpg
-    sort_title: 1Pandemic      
+    sort_title: 1Pandemic  
+  Reality:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Reality.jpg
+    sort_title: 1Reality
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Reality
+        genre.not: 
+        - Animation
+        - Children
   Romance:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Romance%204.jpg
     sort_title: 1Romance
@@ -242,6 +276,13 @@ collections:
       sort_by: title.asc
       all:
         genre: Short
+  Soap Opera:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Soap%20Opera.jpg
+    sort_title: 1Soap Opera
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Soap
   Space:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Space%202.jpg
     sort_title: 1Space   
@@ -274,7 +315,16 @@ collections:
         genre.not:
         - Animation
         - Children
-        - Family        
+        - Family 
+  Talk Show:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Talk%20Show.jpg
+    sort_title: 1Talk Show
+    smart_filter:
+      sort_by: title.asc
+      any:
+        genre: 
+        - Talk Show
+        - Talk
   Travel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Travel%201.jpg
     sort_title: 1Travel
