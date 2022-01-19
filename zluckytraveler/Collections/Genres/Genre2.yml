@@ -67,7 +67,6 @@ collections:
       sort_by: title.asc
       any:
         genre: 
-        - Cooking
         - Food
         genre.not:
         - Animation
@@ -190,7 +189,7 @@ collections:
         - Children
         - Family
         - Musical
-  Musicical:
+  Musical:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Musical%201.jpg
     sort_title: 1Musical
     smart_filter:
