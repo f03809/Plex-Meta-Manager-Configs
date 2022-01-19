@@ -1,0 +1,260 @@
+collections:
+  Action:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Action%201.jpg
+    sort_title: 1Action
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Action
+  Adventure:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Adventure%202.jpg
+    sort_title: 1Adventure
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Adventure
+  Animation:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Animation%204.jpg
+    sort_title: 1Animation
+    smart_filter: 
+      sort_by: title.asc      
+      all:
+        genre: Animation
+  Anime:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Anime%203.jpg
+    sort_title: 1Anime
+    smart_filter:
+      sort_by: title.asc  
+      all:
+        genre: Anime
+  Apocalypse:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Apocalypse%202.jpg
+    sort_title: 1Apocalypse
+  Biography:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Biography%202.jpg
+    sort_title: 1Biography
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Biography
+  Comedy:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Comedy%201.jpg
+    sort_title: 1Comedy
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Comedy
+  Cooking:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Cooking%201-2.jpg
+    sort_title: 1Cooking
+    smart_filter:
+      sort_by: title.asc
+      any:
+        genre: 
+        - Cooking
+        - Food
+  Crime:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Crime%203.jpg
+    sort_title: 1Crime
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Crime
+  Documentary:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Documentary%201.jpg
+    sort_title: 1Documentary
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Documentary
+  Drama:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Drama%201.jpg
+    sort_title: 1Drama
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Drama
+  Family:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Family%203.jpg
+    sort_title: 1Family
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Family
+  Fan Edit:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
+    sort_title: 1Fan Edit
+  Fantasy:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fantasy%203.jpg
+    sort_title: 1Fantasy
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Fantasy
+  Film-Noir:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Noir%201.jpg
+    sort_title: 1Film-Noir
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Film-Noir
+  Gangster:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
+    sort_title: 1Gangster
+  Heist:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Heist%202.jpg
+    sort_title: 1Heist
+  History:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/History%201.jpg
+    sort_title: 1History
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: History
+  Horror:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Horror%201.jpg
+    sort_title: 1Horror
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Horror
+  LGBTQ+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/LGBTQ%2B%201.jpg
+    sort_title: 1LGBTQ+  
+  Martial Arts:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Martial%20Arts%202.jpg
+    sort_title: 1Martial Arts
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Martial Arts
+  Music:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Music%202.jpg
+    sort_title: 1Music
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Music
+        genre.not: Musical
+  Musicical:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Musical%201.jpg
+    sort_title: 1Musical
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Musicical
+  Mystery:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Mystery%202.jpg
+    sort_title: 1Mystery
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Mystery
+  News:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/News.jpg
+    sort_title: 1News
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: News      
+  Politics:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Politics.jpg
+    sort_title: 1Politics
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Politics
+  Pandemic:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Pandemic%203.jpg
+    sort_title: 1Pandemic  
+  Reality:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Reality.jpg
+    sort_title: 1Reality
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Reality
+  Romance:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Romance%204.jpg
+    sort_title: 1Romance
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Romance
+  Sci-Fi:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Sci-Fi%202.jpg
+    sort_title: 1Sci-Fi
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Science Fiction
+  Shorts:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Short%203.jpg
+    sort_title: 1Shorts
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Short
+  Soap Opera:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Soap%20Opera.jpg
+    sort_title: 1Soap Opera
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Soap
+  Space:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Space%202.jpg
+    sort_title: 1Space   
+  Sports:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Sports%203.jpg
+    sort_title: 1Sports
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Sport
+  Spy:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Spy%201.jpg
+    sort_title: 1Spy
+  Stand Up:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Stand%20Up%202.jpg
+    sort_title: 1Stand Up
+  Super Hero:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Super%20Hero%202.jpg
+    sort_title: 1Super Hero           
+  Thriller:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Thriller%202.jpg
+    sort_title: 1Thriller
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Thriller
+  Talk Show:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Talk%20Show.jpg
+    sort_title: 1Talk Show
+    smart_filter:
+      sort_by: title.asc
+      any:
+        genre: 
+        - Talk Show
+        - Talk
+  Travel:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Travel%201.jpg
+    sort_title: 1Travel
+    smart_filter:
+      sort_by: title.asc
+      all: 
+        genre: Travel 
+  War:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/War%202.jpg
+    sort_title: 1War
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: War
+  Western:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Western%203.jpg
+    sort_title: 1Westerns
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Western
