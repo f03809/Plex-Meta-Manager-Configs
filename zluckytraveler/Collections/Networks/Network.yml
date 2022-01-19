@@ -176,8 +176,25 @@ collections:
         - Discovery Channel (CA)
         - Discovery Channel (AU)
         - Discovery Channel   
-  Disney+:
+  Disney:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney.jpg
+    sort_title: 2Disney
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: 
+        - Disney Television Studios
+        - Disney Channel
+        - Disney Enterprises
+        - Disney Television Animation
+        - Walt Disney Animation Studios
+        - Walt Disney Television
+        network.is: 
+        - Disney Channel
+        - Disney XD
+        - Toon Disney
+  Disney+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney%2B.jpg
     sort_title: 2Disney+
     smart_filter:
       sort_by: title.asc
@@ -494,17 +511,17 @@ collections:
       any:
         studio: Starz
         network: Starz        
-  Sundance:
+  Sundance TV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/SundanceTV.jpg
-    sort_title: 2Sundance
+    sort_title: 2Sundance TV
     smart_filter:
       sort_by: title.asc
       any:
         studio: Sundance
         network: SundanceTV    
-  SYFY:
+  SyFy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/SYFY.jpg
-    sort_title: 2SYFY
+    sort_title: 2SyFy
     smart_filter:
       sort_by: title.asc
       any:
@@ -562,13 +579,13 @@ collections:
         - TNT (US)
         - TNT Serie
         - TNT España
-  Travel:
+  Travel Channel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Travel%20Channel.jpg
-    sort_title: 2Travel
+    sort_title: 2Travel Channel
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Travel
+        studio: Travel Channel
         network:
         - Travel Channel United Kingdom
         - Travel Channel
