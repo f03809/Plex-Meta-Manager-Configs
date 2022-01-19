@@ -50,9 +50,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        genre: 
-        - Cooking
-        - Food
+        genre: Food
   Crime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Crime%203.jpg
     sort_title: 1Crime
@@ -136,7 +134,7 @@ collections:
       all:
         genre: Music
         genre.not: Musical
-  Musicical:
+  Musical:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Musical%201.jpg
     sort_title: 1Musical
     smart_filter:
