@@ -178,7 +178,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Musicical
+        genre: Musical
         genre.not:
         - Animation
         - Children
