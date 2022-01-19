@@ -61,16 +61,17 @@ collections:
         - Children
         - Family
   Cooking:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Cooking%201.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Cooking%201-2.jpg
     sort_title: 1Cooking
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Cooking
+        genre: 
+        - Cooking
+        - Food
         genre.not:
         - Animation
         - Children
-        - Family
   Crime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Crime%203.jpg
     sort_title: 1Crime
@@ -135,16 +136,6 @@ collections:
         - Animation
         - Children
         - Family
-  Food:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Food%201.jpg
-    sort_title: 1Food
-    smart_filter:
-      sort_by: title.asc
-      all:
-        genre: Food
-        genre.not:
-        - Animation
-        - Children    
   Gangster:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
     sort_title: 1Gangster
