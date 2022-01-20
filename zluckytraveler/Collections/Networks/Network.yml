@@ -189,7 +189,7 @@ collections:
         - Disney Television Animation
         - Walt Disney Animation Studios
         - Walt Disney Television
-        network.is: 
+        network: 
         - Disney Channel
         - Disney XD
         - Toon Disney
@@ -200,7 +200,7 @@ collections:
       sort_by: title.asc
       any:
         studio: Disney+
-        network.is: Disney+
+        network: Disney+
   Disney Hotstar:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney%20Hotstar.jpg
     sort_title: 2Disney Hotsar
