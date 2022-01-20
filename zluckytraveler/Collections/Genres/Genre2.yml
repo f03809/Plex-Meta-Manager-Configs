@@ -39,7 +39,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Apocalypse%202.jpg
     sort_title: 1Apocalypse
   Biography:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Biography%202.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Biography%202.jpeg
     sort_title: 1Biography
     smart_filter:
       sort_by: title.asc
@@ -61,7 +61,7 @@ collections:
         - Children
         - Family
   Cooking:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Cooking%201-2.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Cooking%201.jpeg
     sort_title: 1Cooking
     smart_filter:
       sort_by: title.asc
@@ -103,7 +103,7 @@ collections:
         - Children
         - Family
   Family:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Family%203.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Family%203.jpeg
     sort_title: 1Family
     smart_filter:
       sort_by: title.asc
@@ -141,7 +141,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Heist%202.jpg
     sort_title: 1Heist
   History:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/History%201.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/History%201.jpeg
     sort_title: 1History
     smart_filter:
       sort_by: title.asc
@@ -259,7 +259,7 @@ collections:
         - Children
         - Family
   Shorts:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Short%203.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Short%203.jpeg
     sort_title: 1Shorts
     smart_filter:
       sort_by: title.asc
