@@ -306,7 +306,7 @@ collections:
         - Children
         - Family 
   Talk Show:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Talk%20Show.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Talk%20Show.jpeg
     sort_title: 1Talk Show
     smart_filter:
       sort_by: title.asc
