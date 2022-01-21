@@ -33,9 +33,7 @@ collections:
     #revert_overlay: true   
 
   4K-DV:
-    plex_search:
-      all:
-        resolution: 4K
+    plex_all: true
     filters:
       filepath: MoviesDV
     item_overlay: 4K-Dolby
