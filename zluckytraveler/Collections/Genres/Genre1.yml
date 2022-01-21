@@ -1,3 +1,8 @@
+######################################################
+#                       GENRES                       #
+######################################################
+
+
 collections:
   Action:
     url_poster: https://theposterdb.com/api/assets/69196
@@ -10,6 +15,7 @@ collections:
         - Animation
         - Children
         - Family
+  
   Adventure:
     url_poster: https://theposterdb.com/api/assets/69197
     sort_title: 1Adventure
@@ -21,6 +27,7 @@ collections:
         - Animation
         - Children
         - Family
+  
   Animation:
     url_poster: https://theposterdb.com/api/assets/69198
     sort_title: 1Animation
@@ -28,6 +35,7 @@ collections:
       sort_by: title.asc      
       all:
         genre: Animation
+  
   Anime:
     url_poster: https://theposterdb.com/api/assets/126754
     sort_title: 1Anime
@@ -35,7 +43,8 @@ collections:
       sort_by: title.asc  
       all:
         genre: Anime
-  Biography:
+ 
+ Biography:
     url_poster: https://theposterdb.com/api/assets/69199
     sort_title: 1Biography
     smart_filter:
@@ -46,6 +55,7 @@ collections:
         - Animation
         - Children
         - Family
+  
   Comedy:
     url_poster: https://theposterdb.com/api/assets/69200
     sort_title: 1Comedy
@@ -57,7 +67,8 @@ collections:
         - Animation
         - Children
         - Family
-  Cooking:
+ 
+ Cooking:
     url_poster: https://theposterdb.com/api/assets/69202
     sort_title: 1Cooking
     smart_filter:
@@ -67,7 +78,8 @@ collections:
         genre.not:
         - Animation
         - Children
-  Crime:
+ 
+ Crime:
     url_poster: https://theposterdb.com/api/assets/69203
     sort_title: 1Crime
     smart_filter:
@@ -78,7 +90,8 @@ collections:
         - Animation
         - Children
         - Family
-  Documentary:
+ 
+ Documentary:
     url_poster: https://theposterdb.com/api/assets/69204
     sort_title: 1Documentary
     smart_filter:
@@ -88,7 +101,8 @@ collections:
         genre.not:
         - Animation
         - Children
-  Drama:
+ 
+ Drama:
     url_poster: https://theposterdb.com/api/assets/69205
     sort_title: 1Drama
     smart_filter:
@@ -99,14 +113,16 @@ collections:
         - Animation
         - Children
         - Family
-  Family:
+ 
+ Family:
     url_poster: https://theposterdb.com/api/assets/69208
     sort_title: 1Family
     smart_filter:
       sort_by: title.asc
       all:
         genre: Family
-  Fantasy:
+ 
+ Fantasy:
     url_poster: https://theposterdb.com/api/assets/69210
     sort_title: 1Fantasy
     smart_filter:
@@ -117,7 +133,8 @@ collections:
         - Animation
         - Children
         - Family
-  Film-Noir:
+ 
+ Film-Noir:
     url_poster: https://theposterdb.com/api/assets/161218
     sort_title: 1Film-Noir
     smart_filter:
@@ -128,6 +145,7 @@ collections:
         - Animation
         - Children
         - Family
+  
   History:
     url_poster: https://theposterdb.com/api/assets/69212
     sort_title: 1History
@@ -139,6 +157,7 @@ collections:
         - Animation
         - Children
         - Family
+  
   Horror:
     url_poster: https://theposterdb.com/api/assets/69213
     sort_title: 1Horror
@@ -150,7 +169,8 @@ collections:
         - Animation
         - Children
         - Family
-  Martial Arts:
+ 
+ Martial Arts:
     url_poster: https://theposterdb.com/api/assets/69216
     sort_title: 1Martial Arts
     smart_filter:
@@ -161,7 +181,8 @@ collections:
         - Animation
         - Children
         - Family
-  Music:
+ 
+ Music:
     url_poster: https://theposterdb.com/api/assets/69217
     sort_title: 1Music
     smart_filter:
@@ -172,7 +193,8 @@ collections:
         - Animation
         - Children
         - Musical
-  Musical:
+ 
+ Musical:
     url_poster: https://theposterdb.com/api/assets/69218
     sort_title: 1Musical
     smart_filter:
@@ -182,7 +204,8 @@ collections:
         genre.not:
         - Animation
         - Children
-  Mystery:
+ 
+ Mystery:
     url_poster: https://theposterdb.com/api/assets/69219
     sort_title: 1Mystery
     smart_filter:
@@ -193,7 +216,8 @@ collections:
         - Animation
         - Children
         - Family
-  Romance:
+ 
+ Romance:
     url_poster: https://theposterdb.com/api/assets/69221
     sort_title: 1Romance
     smart_filter:
@@ -204,7 +228,8 @@ collections:
         - Animation
         - Children
         - Family
-  Sci-Fi:
+ 
+ Sci-Fi:
     url_poster: https://theposterdb.com/api/assets/69223
     sort_title: 1Sci-Fi
     smart_filter:
@@ -215,6 +240,7 @@ collections:
         - Animation
         - Children
         - Family
+  
   Shorts:
     url_poster: https://theposterdb.com/api/assets/69224
     sort_title: 1Shorts
@@ -222,6 +248,7 @@ collections:
       sort_by: title.asc
       all:
         genre: Short   
+  
   Sports:
     url_poster: https://theposterdb.com/api/assets/69225
     sort_title: 1Sports
@@ -232,6 +259,7 @@ collections:
         genre.not:
         - Animation
         - Children     
+  
   Thriller:
     url_poster: https://theposterdb.com/api/assets/69226
     sort_title: 1Thriller
@@ -243,6 +271,7 @@ collections:
         - Animation
         - Children
         - Family        
+  
   Travel:
     url_poster: https://theposterdb.com/api/assets/127402
     sort_title: 1Travel
@@ -253,6 +282,7 @@ collections:
         genre.not:
         - Animation
         - Children      
+  
   War:
     url_poster: https://theposterdb.com/api/assets/69227
     sort_title: 1War
@@ -264,6 +294,7 @@ collections:
         - Animation
         - Children
         - Family 
+  
   Western:
     url_poster: https://theposterdb.com/api/assets/69228
     sort_title: 1Westerns
