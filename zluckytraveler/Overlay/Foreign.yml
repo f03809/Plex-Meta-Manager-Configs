@@ -15,7 +15,7 @@ collections:
       - MoviesBollywood4K
     item_overlay: 4K
     build_collection: false
-    revert_overlay: true  
+    #revert_overlay: true  
 
   4K-HDR:
     plex_search:
@@ -28,4 +28,4 @@ collections:
       - MoviesBollywood4K
     item_overlay: 4K-HDR
     build_collection: false
-    revert_overlay: true
+    #revert_overlay: true
