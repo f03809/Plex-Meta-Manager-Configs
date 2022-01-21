@@ -4,10 +4,11 @@
 
 
 collections: 
-  4K Overlay:
+  4K-UHD:
     plex_search:
       all:
         resolution: 4K
+        hdr: false
     filters:
       filepath.not: 
       - MoviesDV
@@ -17,7 +18,7 @@ collections:
     build_collection: false
     #revert_overlay: true  
 
-  4K-HDR Overlay:
+  4K-HDR:
     plex_search:
       all:
         resolution: 4K
@@ -31,7 +32,7 @@ collections:
     build_collection: false
     #revert_overlay: true   
 
-  4K-Dolby:
+  4K-DV:
     plex_search:
       all:
         resolution: 4K
