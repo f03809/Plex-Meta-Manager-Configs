@@ -8,6 +8,16 @@ collections:
     item_overlay: 4K
     build_collection: false
     #revert_overlay: true
+  4K-HDR Overlay:
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: true
+    filters:
+      filepath.not: TVDV
+    item_overlay: 4K-HDR
+    build_collection: false
+    #revert_overlay: true
   4K-Dolby:
     plex_all: true
     filters:
