@@ -1,0 +1,31 @@
+######################################################
+#                 OVERLAYS - FOREIGN                 #
+######################################################
+
+
+collections: 
+  4K-UHD:
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: false
+    filters:
+      filepath:
+      - Indian4K
+      - MoviesBollywood4K
+    item_overlay: 4K
+    build_collection: false
+    #revert_overlay: true  
+
+  4K-HDR:
+    plex_search:
+      all:
+        resolution: 4K
+        hdr: true
+    filters:
+      filepath:
+      - Indian4K
+      - MoviesBollywood4K
+    item_overlay: 4K-HDR
+    build_collection: false
+    #revert_overlay: true
