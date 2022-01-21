@@ -1,5 +1,5 @@
 ######################################################
-#                     OVERLAYS                       #
+#                    OVERLAYS - 4K                   #
 ######################################################
 
 
@@ -9,11 +9,6 @@ collections:
       all:
         resolution: 4K
         hdr: false
-    filters:
-      filepath.not: 
-      - MoviesDV
-      - MoviesBollywood
-      - MoviesForeign
     item_overlay: 4K
     build_collection: false
     #revert_overlay: true  
@@ -23,19 +18,6 @@ collections:
       all:
         resolution: 4K
         hdr: true
-    filters:
-      filepath.not:
-      - MoviesDV
-      - MoviesBollywood
-      - MoviesForeign
     item_overlay: 4K-HDR
-    build_collection: false
-    #revert_overlay: true   
-
-  4K-DV:
-    plex_all: true
-    filters:
-      filepath: MoviesDV
-    item_overlay: 4K-Dolby
     build_collection: false
     #revert_overlay: true
