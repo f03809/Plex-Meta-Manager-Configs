@@ -10,8 +10,7 @@ collections:
         resolution: 4K
         hdr: false
     filters:
-      filepath.not: 
-      - MoviesDV
+      filepath.not: MoviesDV
     item_overlay: 4K
     build_collection: false
     revert_overlay: true  
@@ -22,8 +21,7 @@ collections:
         resolution: 4K
         hdr: true
     filters:
-      filepath.not: 
-      - MoviesDV
+      filepath.not: MoviesDV
     item_overlay: 4K-HDR
     build_collection: false
     revert_overlay: true   
