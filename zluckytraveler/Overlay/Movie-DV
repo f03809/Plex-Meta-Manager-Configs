@@ -1,0 +1,13 @@
+######################################################
+#           OVERLAYS - MOVIES DOLBY VISION           #
+######################################################
+
+
+collections:   
+  4K-DV:
+    plex_all: true
+    filters:
+      filepath: MoviesDV
+    item_overlay: 4K-Dolby
+    build_collection: false
+    #revert_overlay: true
