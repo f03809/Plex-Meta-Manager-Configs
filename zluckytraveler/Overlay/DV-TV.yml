@@ -10,4 +10,4 @@ collections:
       filepath: TVDV
     item_overlay: 4K-Dolby
     build_collection: false
-    revert_overlay: true
+    #revert_overlay: true
