@@ -8,6 +8,8 @@ collections:
     plex_all: true
     filters:
       filepath: TVDV
-    item_overlay: 4K-Dolby
+    item_overlay: 
+      name: 4K
+      url:  4K-Dolby
     build_collection: false
     #revert_overlay: true
