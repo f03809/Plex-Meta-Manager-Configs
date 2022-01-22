@@ -8,6 +8,8 @@ collections:
     plex_all: true
     filters:
       filepath: MoviesDV
-    item_overlay: 4K-Dolby
+    item_overlay: 
+      name: 4K-Dolby
+      url:  https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/4K-DV.png
     build_collection: false
-    #revert_overlay: true
+    revert_overlay: true
