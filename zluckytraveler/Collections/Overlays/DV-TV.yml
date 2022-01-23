@@ -10,6 +10,6 @@ collections:
       filepath: TVDV
     item_overlay: 
       name: 4K-Dolby
-      url:  https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/4K-DV.png
+      url:  https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-DV.png
     build_collection: false
     #revert_overlay: true
