@@ -9,7 +9,9 @@ collections:
       all:
         resolution: 4K
         hdr: true
-    item_overlay: 4K-HDR
+    item_overlay:
+      name: 4K-HDR
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-HDR.png
     build_collection: false
     #revert_overlay: true
   
@@ -18,6 +20,8 @@ collections:
       all:
         resolution: 4K
         hdr: false
-    item_overlay: 4K
+    item_overlay: 
+      name: 4K
+      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Stock/4K-UHD.png
     build_collection: false
     #revert_overlay: true  
