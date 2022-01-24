@@ -70,6 +70,7 @@ collections:
       sort_by: title.asc  
       any:
         network: Apple TV+
+      validate: false  
   BBC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BBC.png
     sort_title: 2BBC
@@ -92,6 +93,7 @@ collections:
         - BBC HD
         - BBC Choice
         - BBC America
+      validate: false  
   BET:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BET.png
     sort_title: 2BET
@@ -102,6 +104,7 @@ collections:
         network:
         - BET
         - BET+
+      validate: false  
   Bravo:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo.png
     sort_title: 2Bravo
@@ -110,6 +113,7 @@ collections:
       any:
         studio: Bravo
         network: Bravo
+      validate: false  
   Canal+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Canal.png
     sort_title: 2Canal+
@@ -280,6 +284,7 @@ collections:
         network:
         - FX
         - FXX
+      validate: false  
   Hallmark:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hallmark.png
     sort_title: 2Hallmark
