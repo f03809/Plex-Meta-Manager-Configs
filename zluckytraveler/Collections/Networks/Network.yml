@@ -167,7 +167,7 @@ collections:
       any:
         studio: Cinemax
         network: Cinemax
-     validate: false
+      validate: false
      
   Comedy Central:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comedy%20Central.png
