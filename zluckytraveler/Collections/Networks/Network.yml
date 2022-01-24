@@ -7,7 +7,7 @@ collections:
       any:
         studio: A&E
         network: A&E
-    validate: false
+      validate: false
   ABC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ABC.png
     sort_title: 2ABC
@@ -22,7 +22,7 @@ collections:
         - ABC Comedy
         - ABC Kids
         - ABC
-    validate: false
+      validate: false
   Adult Swim: 
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
     sort_title: 2Adult Swim
@@ -31,7 +31,7 @@ collections:
       any:
         studio: Adult Swim
         network: Adult Swim
-    validate: false
+      validate: false
   Amazon:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
     sort_title: 2Amazon
@@ -42,7 +42,7 @@ collections:
         network: 
         - Amazon
         - Amazon Prime Video
-    validate: false
+      validate: false
   AMC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC.png
     sort_title: 2AMC
@@ -53,7 +53,7 @@ collections:
         network:
         - AMC
         - AMC+
-    validate: false
+      validate: false
   Animal Planet:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet.png
     sort_title: 2Animal Planet
@@ -62,7 +62,7 @@ collections:
       any:
         studio: Animal Planet
         network: Animal Planet
-    validate: false  
+      validate: false
   Apple TV+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 2Apple TV+
