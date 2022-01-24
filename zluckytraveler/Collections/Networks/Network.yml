@@ -19,6 +19,7 @@ collections:
         - ABC Me
         - ABC (US)
         - ABC Comedy
+        - ABC Kids
         - ABC
   Adult Swim: 
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
@@ -35,7 +36,9 @@ collections:
       sort_by: title.asc
       any:
         studio: Amazon
-        network: Amazon
+        network: 
+        - Amazon
+        - Amazon Prime Video
   AMC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC.png
     sort_title: 2AMC
@@ -106,11 +109,13 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: canal+
+        studio: Canal+
         network: 
         - Canale 5
         - Canal+ Poland
         - Canal+
+        - Canal Panda
+        - Canal+ Family
   Cartoon Network:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cartoon%20Network.png
     sort_title: 2Cartoon Network
@@ -158,10 +163,8 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Discovery
         network: 
         - Discovery
-        - discovery+
         - Discovery UK
         - Discovery Turbo
         - Discovery Real Time
@@ -171,7 +174,16 @@ collections:
         - Discovery Health Channel
         - Discovery Channel (CA)
         - Discovery Channel (AU)
-        - Discovery Channel   
+        - Discovery Channel
+        - Discovery Family
+  Discovery+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery+.png
+    sort_title: 2Discovery+
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Discovery+
+        network: discovery+      
   Disney:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney.png
     sort_title: 2Disney
@@ -182,6 +194,8 @@ collections:
         - Disney Channel
         - Disney XD
         - Toon Disney
+        - Disney Junior
+        - Playhouse Disney
   Disney+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
     sort_title: 2Disney+
@@ -411,6 +425,7 @@ collections:
         network: 
         - Nickelodeon
         - Nick Jr.
+        - Nicktoons
   Oxygen:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Oxygen.png
     sort_title: 2Oxygen
@@ -436,7 +451,9 @@ collections:
       sort_by: title.asc
       any:
         studio: PBS
-        network: PBS         
+        network: 
+        - PBS
+        - PBS Kids
   Peacock:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
     sort_title: 2Peacock
@@ -455,6 +472,7 @@ collections:
         - Rai 1
         - Rai 2
         - RaiPlay
+        - Rai YoYo
   RTL:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTL.png
     sort_title: 2RTL
@@ -658,5 +676,6 @@ collections:
         studio: YouTube
         network:  
         - YouTube Premium
-        - YouTube      
+        - YouTube
+        - Youtube Kids
 
