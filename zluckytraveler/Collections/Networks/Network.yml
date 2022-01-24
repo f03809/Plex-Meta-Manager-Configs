@@ -51,6 +51,7 @@ collections:
         - AMC+
   Animal Planet:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet.png
+    sort_title: 2Animal Planet
     smart_filter:
       sort_by: title.asc
       any:
