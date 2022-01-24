@@ -1,6 +1,6 @@
 collections:
   A&E:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/A%26E.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/A%26E.png
     sort_title: 2A&E
     smart_filter:
       sort_by: title.asc
@@ -8,7 +8,7 @@ collections:
         studio: A&E
         network: A&E
   ABC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/ABC.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ABC.png
     sort_title: 2ABC
     smart_filter:
       sort_by: title.asc
@@ -21,7 +21,7 @@ collections:
         - ABC Comedy
         - ABC
   Adult Swim: 
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Adult%20Swim.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
     sort_title: 2Adult Swim
     smart_filter:
       sort_by: title.asc
@@ -29,18 +29,15 @@ collections:
         studio: Adult Swim
         network: Adult Swim
   Amazon:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Amazon.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
     sort_title: 2Amazon
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - Amazon
-        - Amazon Studios
-        - Amazon Prime Video
+        studio: Amazon
         network: Amazon
   AMC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/AMC.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC.png
     sort_title: 2AMC
     smart_filter:
       sort_by: title.asc
@@ -50,23 +47,21 @@ collections:
         - AMC
         - AMC+
   Animal Planet:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Animal%20Planet.jpg  
-    sort_title: 2Animal PLanet
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet.png
     smart_filter:
       sort_by: title.asc
       any:
         studio: Animal Planet
         network: Animal Planet
   Apple TV+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Apple%20TV.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 2Apple TV+
     smart_filter: 
       sort_by: title.asc  
       any:
-        studio: Apple
         network: Apple TV+
   BBC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/BBC.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BBC.png
     sort_title: 2BBC
     smart_filter:
       sort_by: title.asc
@@ -88,7 +83,7 @@ collections:
         - BBC Choice
         - BBC America
   BET:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/BET.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BET.png
     sort_title: 2BET
     smart_filter:
       sort_by: title.asc
@@ -98,7 +93,7 @@ collections:
         - BET
         - BET+
   Bravo:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Bravo.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo.png
     sort_title: 2Bravo
     smart_filter:
       sort_by: title.asc
@@ -106,24 +101,26 @@ collections:
         studio: Bravo
         network: Bravo
   Canal+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Canal.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Canal.png
     sort_title: 2Canal+
     smart_filter:
       sort_by: title.asc
       any:
+        studio: canal+
         network: 
         - Canale 5
         - Canal+ Poland
         - Canal+
   Cartoon Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Cartoon%20Network.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cartoon%20Network.png
     sort_title: 2Cartoon Network
     smart_filter:
       sort_by: title.asc
       any:
+        studio: Cartoon Network
         network: Cartoon Network
   CBS:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/CBS.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CBS.png
     sort_title: 2CBS
     smart_filter:
       sort_by: title.asc
@@ -131,7 +128,7 @@ collections:
         studio: CBS
         network: CBS
   Cinemax:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Cinemax.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cinemax.png
     sort_title: 2Cinemax
     smart_filter:
       sort_by: title.asc
@@ -139,7 +136,7 @@ collections:
         studio: Cinemax
         network: Cinemax
   Comedy Central:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Comedy%20Central.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comedy%20Central.png
     sort_title: 2Comedy Central
     smart_filter:
       sort_by: title.asc
@@ -149,15 +146,14 @@ collections:
         - Comedy Central
         - Comedy Central (UK)
   DC Universe:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/DC%20Universe.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/DC%20Universe.png
     sort_title: 2DC Universe
     smart_filter:
       sort_by: title.asc
       any:
-        studio: DC Universe
         network: DC Universe
   Discovery:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Discovery.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery.png
     sort_title: 2Discovery
     smart_filter:
       sort_by: title.asc
@@ -177,24 +173,17 @@ collections:
         - Discovery Channel (AU)
         - Discovery Channel   
   Disney:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney.png
     sort_title: 2Disney
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - Disney Television Studios
-        - Disney Channel
-        - Disney Enterprises
-        - Disney Television Animation
-        - Walt Disney Animation Studios
-        - Walt Disney Television
         network: 
         - Disney Channel
         - Disney XD
         - Toon Disney
   Disney+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney%2B.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
     sort_title: 2Disney+
     smart_filter:
       sort_by: title.asc
@@ -202,26 +191,24 @@ collections:
         studio: Disney+
         network: Disney+
   Disney Hotstar:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Disney%20Hotstar.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%20Hotstar.png
     sort_title: 2Disney Hotsar
     smart_filter: 
       sort_by: title.asc
       any:
         network: Disney+ Hotstar
   ESPN:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/ESPN.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ESPN.png
     sort_title: 2ESPN
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - ESPN
-        - ESPN Films
+        studio: ESPN
         network: 
         - ESPN
         - ESPN+
   Food Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Food%20Network.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Food%20Network.png
     sort_title: 2Food Network
     smart_filter:
       sort_by: title.asc
@@ -229,7 +216,7 @@ collections:
         studio: Food Network
         network: Food Network
   FOX:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/FOX.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FOX.png
     sort_title: 2FOX
     smart_filter:
       sort_by: title.asc
@@ -241,8 +228,9 @@ collections:
         - Fox Action Movies
         - Fox Kids
         - Fox Nation
+        - Fox Sports 1
   France TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/France.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/France.png
     sort_title: 2France TV
     smart_filter:
       sort_by: title.asc
@@ -252,7 +240,7 @@ collections:
         - France 3
         - France 4        
   FX:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/FX.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
     sort_title: 2FX
     smart_filter:
       sort_by: title.asc
@@ -261,13 +249,22 @@ collections:
         network:
         - FX
         - FXX
+  Hallmark:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hallmark.png
+    sort_title: 2Hallmark
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Hallmark
+        network:
+        - Hallmark Channel
+        - Hallmark Movies Now
   HBO:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/HBO.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
     sort_title: 2HBO
     smart_filter:
       sort_by: title.asc
       any:
-        studio: HBO
         network:
         - HBO
         - HBO Asia
@@ -277,15 +274,14 @@ collections:
         - HBO España
         - HBO Latin America
   HBO Max:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/HBO%20Max.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max.png
     sort_title: 2HBO Max
     smart_filter:
       sort_by: title.asc
       any:
-        studio: HBO Max
         network: HBO Max
   HGTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/HGTV.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HGTV.png
     sort_title: 2HGTV
     smart_filter:
       sort_by: title.asc
@@ -295,17 +291,19 @@ collections:
         - HGTV
         - HGTV Canada
   History:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/History.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History.png
     sort_title: 2History
     smart_filter:
       sort_by: title.asc
       any:
-        studio: History
+        studio.is: 
+        - History
+        - History Channel
         network:
         - History
         - History Canada
   Hulu:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Hulu.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
     sort_title: 2Hulu
     smart_filter:
       sort_by: title.asc
@@ -313,15 +311,29 @@ collections:
         studio: Hulu
         network: Hulu
   IFC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/IFC.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/IFC.png
     sort_title: 2IFC
     smart_filter:
       sort_by: title.asc
       any:
         studio: IFC TV
         network: IFC
+  ITV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/itv.png
+    sort_title: 2ITV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: ITV
+        network:
+        - ITV
+        - ITV Encore
+        - ITV1
+        - ITV2
+        - ITV4
+        - ITVBe      
   Lifetime:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Lifetime.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Lifetime.png
     sort_title: 2Lifetime
     smart_filter:
       sort_by: title.asc
@@ -330,8 +342,15 @@ collections:
         network:
         - Lifetime
         - Lifetime Movies
+  Marvel:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Marvel.png
+    sort_title: 2Marvel
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Marvel
   MasterClass:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Master%20Class.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MasterClass.png
     sort_title: 2MasterClass
     smart_filter:
       sort_by: title.asc
@@ -339,21 +358,21 @@ collections:
         title: MasterClass
         network: MasterClass      
   MTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/MTV.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV.png
     sort_title: 2MTV
     smart_filter:
       sort_by: title.asc
       any:
         studio:
-        - MTV Entertainment Studios
-        - MTV Studios
+        - MTV
+        - Music Television (MTV)
         network:
         - MTV
         - MTV2
         - MTV3
         - MTV (UK)
   National Geographic:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/National%20Geographic.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/National%20Geographic.png
     sort_title: 2National Geographic
     smart_filter:
       sort_by: title.asc
@@ -364,7 +383,7 @@ collections:
         - National Geographic Channel
         - Nat Geo Wild
   NBC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/NBC.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/NBC.png
     sort_title: 2NBC
     smart_filter:
       sort_by: title.asc
@@ -375,7 +394,7 @@ collections:
         - CNBC
         - NBCSN
   Netflix:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Netflix.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
     sort_title: 2Netflix
     smart_filter:
       sort_by: title.asc
@@ -383,7 +402,7 @@ collections:
         studio: Netflix
         network: Netflix
   Nickelodeon:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Nickelodeon.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nickelodeon.png
     sort_title: 2Nicelodeon
     smart_filter:
       sort_by: title.asc
@@ -393,7 +412,7 @@ collections:
         - Nickelodeon
         - Nick Jr.
   Oxygen:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Oxygen.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Oxygen.png
     sort_title: 2Oxygen
     smart_filter:
       sort_by: title.asc
@@ -401,7 +420,7 @@ collections:
         studio: Oxygen
         network: Oxygen
   Paramount+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Paramount.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
     sort_title: 2Paramount+
     smart_filter:
       sort_by: title.asc
@@ -411,7 +430,7 @@ collections:
         - CBS All Access
         - Paramount+
   PBS:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/PBS.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/PBS.png
     sort_title: 2PBS
     smart_filter:
       sort_by: title.asc
@@ -419,7 +438,7 @@ collections:
         studio: PBS
         network: PBS         
   Peacock:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Peacock.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
     sort_title: 2Peacock
     smart_filter:
       sort_by: title.asc
@@ -427,7 +446,7 @@ collections:
         studio: Peacock
         network: Peacock
   RAI:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Rai.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Rai.png
     sort_title: 2RAI
     smart_filter:
       sort_by: title.asc
@@ -437,7 +456,7 @@ collections:
         - Rai 2
         - RaiPlay
   RTL:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/RTL.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTL.png
     sort_title: 2RTL
     smart_filter:
       sort_by: title.asc
@@ -448,7 +467,7 @@ collections:
         - RTL 5
         - RTL+      
   Science Channel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Science%20Channel.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Science%20Channel.png
     sort_title: 2Science Channel
     smart_filter:
       sort_by: title.asc
@@ -458,7 +477,7 @@ collections:
         - Science Channel
         - Science
   Showtime:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Showtime.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
     sort_title: 2Showtime
     smart_filter:
       sort_by: title.asc
@@ -466,7 +485,7 @@ collections:
         studio: Showtime
         network: Showtime     
   Sky:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Sky.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky.png
     sort_title: 2Sky
     smart_filter:
       sort_by: title.asc
@@ -484,9 +503,11 @@ collections:
         - Sky Atlantic 
         - Sky Atlantic
         - Sky Arts
-        - Sky Cinema      
+        - Sky Cinema
+        - Sky Sports
+        - Sky Sports F1
   Smithsonian:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Smithsonian%20Channel.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Smithsonian%20Channel.png
     sort_title: 2Smithsonian
     smart_filter:
       sort_by: title.asc
@@ -496,7 +517,7 @@ collections:
         - Smithsonian   
         - Smithsonian Channel (CA)
   Spike:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Spike.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Spike.png
     sort_title: 2Spike
     smart_filter:
       sort_by: title.asc
@@ -504,7 +525,7 @@ collections:
         studio: Spike
         network: Spike   
   Starz:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Starz.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz.png
     sort_title: 2Starz
     smart_filter:
       sort_by: title.asc
@@ -512,7 +533,7 @@ collections:
         studio: Starz
         network: Starz        
   Sundance TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/SundanceTV.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SundanceTV.png
     sort_title: 2Sundance TV
     smart_filter:
       sort_by: title.asc
@@ -520,7 +541,7 @@ collections:
         studio: Sundance
         network: SundanceTV    
   SyFy:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/SYFY.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SYFY.png
     sort_title: 2SyFy
     smart_filter:
       sort_by: title.asc
@@ -528,7 +549,7 @@ collections:
         studio: Syfy
         network: Syfy        
   TBS:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/TBS.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TBS.png
     sort_title: 2TBS
     smart_filter:
       sort_by: title.asc
@@ -536,14 +557,14 @@ collections:
         studio: TBS
         network: TBS
   Telemundo:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Telemundo.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Telemundo.png
     sort_title: 2Telemundo
     smart_filter:
       sort_by: title.asc
       any:
         network: Telemundo    
   The CW:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/CW.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/The%20CW.png
     sort_title: 2The CW
     smart_filter:
       sort_by: title.asc
@@ -551,14 +572,14 @@ collections:
         studio: CW
         network: The CW 
   The WB:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/WB.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WB.png
     sort_title: 2The WB
     smart_filter:
       sort_by: title.asc
       any:
         network: The WB                                            
   TLC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/TLC.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TLC.png
     sort_title: 2TLC
     smart_filter:
       sort_by: title.asc
@@ -568,7 +589,7 @@ collections:
         - TLC
         - TLC Go
   TNT:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/TNT.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TNT.png
     sort_title: 2TNT
     smart_filter:
       sort_by: title.asc
@@ -580,7 +601,7 @@ collections:
         - TNT Serie
         - TNT España
   Travel Channel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Travel%20Channel.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Travel%20Channel.png
     sort_title: 2Travel Channel
     smart_filter:
       sort_by: title.asc
@@ -590,25 +611,24 @@ collections:
         - Travel Channel United Kingdom
         - Travel Channel
   truTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/truTV.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/truTV.png
     sort_title: 2truTV
     smart_filter:
       sort_by: title.asc
       any:
         network: truTV   
   USA:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/USA.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/USA.png
     sort_title: 2USA
     smart_filter:
       sort_by: title.asc
       any:
         studio: 
         - USATV
-        - USA Network
-        - USA Pictures
+        - USA
         network: USA Network       
   VH1:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/VH1.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/VH1.png
     sort_title: 2VH1
     smart_filter:
       sort_by: title.asc
@@ -618,31 +638,19 @@ collections:
         - VH1 Classic
         - VH1
   Vice:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Vice.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
     sort_title: 2Vice
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - Vice TV
-        - Vice Studios
-        - Vice Media
-        - VICE Media
-        - Vice Studio Canada
+        studio: Vice
         network:   
         - Vice TV
         - Vice on TV (US)
-  Viceland:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Viceland.jpg
-    sort_title: 2Viceland
-    smart_filter:
-      sort_by: title.asc
-      any:
-        network:
         - Viceland  
         - Viceland (US)
   YouTube:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Standard/Youtube.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
     sort_title: 2Youtube
     smart_filter:
       sort_by: title.asc
