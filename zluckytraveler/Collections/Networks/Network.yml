@@ -314,7 +314,7 @@ collections:
         network:
         - HGTV
         - HGTV Canada
-  History:
+  History Chanel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History.png
     sort_title: 2History
     smart_filter:
