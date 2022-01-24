@@ -168,7 +168,7 @@ collections:
         studio: Cinemax
         network: Cinemax
       validate: false
-     
+      
   Comedy Central:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comedy%20Central.png
     sort_title: 2Comedy Central
@@ -799,6 +799,7 @@ collections:
         - VH1 Classic
         - VH1
       validate: false
+
   Vice:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
     sort_title: 2Vice
