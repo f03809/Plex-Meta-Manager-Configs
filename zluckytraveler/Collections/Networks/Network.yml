@@ -177,7 +177,7 @@ collections:
         - Discovery Channel
         - Discovery Family
   Discovery+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery+.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery%2B.png
     sort_title: 2Discovery+
     smart_filter:
       sort_by: title.asc
@@ -211,6 +211,16 @@ collections:
       sort_by: title.asc
       any:
         network: Disney+ Hotstar
+  Epix:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Epix.png
+    sort_title: 2Epix
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: 
+        - Epix (I)
+        - Epix Film Production 
+        network: Epix
   ESPN:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ESPN.png
     sort_title: 2ESPN
@@ -333,7 +343,7 @@ collections:
         studio: IFC TV
         network: IFC
   ITV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/itv.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ITV.png
     sort_title: 2ITV
     smart_filter:
       sort_by: title.asc
