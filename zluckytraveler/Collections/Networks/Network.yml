@@ -209,7 +209,7 @@ collections:
         - Discovery Channel (AU)
         - Discovery Channel
         - Discovery Family
-     validate: false
+      validate: false
         
   Discovery+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery%2B.png
