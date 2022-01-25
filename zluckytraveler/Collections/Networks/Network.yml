@@ -573,7 +573,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio: RAI
         network: 
+        - Rai
         - Rai 1
         - Rai 2
         - RaiPlay
