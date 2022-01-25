@@ -567,7 +567,7 @@ collections:
         network: Peacock
       validate: false
         
-  RAI:
+  Rai:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Rai.png
     sort_title: 2RAI
     smart_filter:
