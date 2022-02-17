@@ -41,7 +41,10 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Amazon
+        studio.is: 
+        - Amazon
+        - Amazon Studios
+        - Amazon Prime Video
         network: 
         - Amazon
         - Amazon Prime Video
@@ -120,7 +123,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Bravo
+        studio.is: Bravo
         network: Bravo
       validate: false
       
@@ -132,10 +135,8 @@ collections:
       any:
         studio: Canal+
         network: 
-        - Canale 5
         - Canal+ Poland
         - Canal+
-        - Canal Panda
         - Canal+ Family
       validate: false
       
@@ -165,10 +166,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - Channel 4
-        - Channel 4 Television
-        - Channel 4 Television Corporation
+        studio: Channel 4
         network: Channel 4
       validate: false
       
@@ -178,7 +176,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Channel Five
+        studio.is: Channel Five
         network: 
         - Channel 5
         - Channel 5 (UK)
@@ -222,6 +220,13 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio.is: 
+        - Discovery Networks Sweden
+        - Discovery Channel
+        - Discovery Channel Productions
+        - Discovery Network
+        - Discovery Studios
+        - Discovery UK
         network: 
         - Discovery
         - Discovery UK
@@ -286,9 +291,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - Epix (I)
-        - Epix Film Production 
+        studio: Epix
         network: Epix
       validate: false
 
@@ -347,6 +350,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio: France Télévisions
         network: 
         - France 2
         - France 3
@@ -361,9 +365,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - Freeform Productions
-        - Freeform Studios
+        studio: Freeform
         network: Freeform
       validate: false
       
@@ -397,6 +399,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio: HBO
         network:
         - HBO
         - HBO Asia
@@ -458,7 +461,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: IFC TV
+        studio: IFC
         network: IFC
       validate: false
   
@@ -525,9 +528,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio:
-        - MTV
-        - Music Television (MTV)
+        studio: MTV
         network:
         - MTV
         - MTV2
@@ -542,7 +543,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: National Geographic
+        studio: 
+        - National Geographic
+        - Nat Geo
         network: 
         - National Geographic
         - National Geographic Channel
@@ -578,7 +581,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Nickelodeon
+        studio: 
+        - Nickelodeon
+        - Nick Jr.
         network: 
         - Nickelodeon
         - Nick Jr.
@@ -591,7 +596,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Oxygen
+        studio.is: Oxygen
         network: Oxygen
       validate: false
         
@@ -601,7 +606,6 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Paramount Network
         network: 
         - CBS All Access
         - Paramount+
@@ -660,7 +664,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio:
+        studio.is:
         - RTÉ
         - Raidió Teilifís Éireann (RTÉ)
         network:
@@ -675,6 +679,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio: RTL
         network:  
         - RTL
         - RTL 4
@@ -688,7 +693,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
+        studio.is: 
         - Seven Network
         - Seven Studios
         network: 
@@ -760,7 +765,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Spike
+        studio.is: Spike
         network: Spike   
       validate: false
         
@@ -810,6 +815,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio: Telemundo
         network: Telemundo 
       validate: false
       
