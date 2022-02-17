@@ -204,6 +204,7 @@ collections:
         network:
         - Comedy Central
         - Comedy Central (UK)
+        - Comedy Central Latinoamérica
       validate: false
       
   DC Universe:
@@ -336,6 +337,8 @@ collections:
         - Fox Kids
         - Fox Nation
         - Fox Sports 1
+        - FOX España
+        - Fox Premium Series
       validate: false
         
   France TV:
@@ -348,6 +351,8 @@ collections:
         - France 2
         - France 3
         - France 4
+        - France TV Slash
+        - France.tv
       validate: false
   
   Freeform:
@@ -528,6 +533,7 @@ collections:
         - MTV2
         - MTV3
         - MTV (UK)
+        - MTV Latin America
       validate: false
         
   National Geographic:
