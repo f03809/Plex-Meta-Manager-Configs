@@ -41,10 +41,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is: 
-        - Amazon
-        - Amazon Studios
-        - Amazon Prime Video
+        studio: Amazon
         network: 
         - Amazon
         - Amazon Prime Video
@@ -606,6 +603,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio.is: 101 Studios
         network: 
         - CBS All Access
         - Paramount+
@@ -729,6 +727,13 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio.is: 
+        - Sky
+        - Sky 1
+        - Sky Arts
+        - Sky Atlantic
+        - Sky Sports
+        - Sky UK
         network:
         - Sky1
         - Sky Witness
