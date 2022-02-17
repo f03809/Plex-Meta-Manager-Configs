@@ -158,6 +158,31 @@ collections:
         studio: CBS
         network: CBS
       validate: false
+  
+  Channel 4:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%20N4.png
+    sort_title: 2Channel 4
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: 
+        - Channel 4
+        - Channel 4 Television
+        - Channel 4 Television Corporation
+        network: Channel 4
+      validate: false
+      
+  Channel 5:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%20N5.png
+    sort_title: 2Channel 5
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Channel Five
+        network: 
+        - Channel 5
+        - Channel 5 (UK)
+      validate: false
       
   Cinemax:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cinemax.png
@@ -265,7 +290,16 @@ collections:
         - Epix Film Production 
         network: Epix
       validate: false
-        
+
+  E!:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E!.png
+    sort_title: 2E!
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: E!
+      validate: false
+      
   ESPN:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ESPN.png
     sort_title: 2ESPN
@@ -314,6 +348,18 @@ collections:
         - France 2
         - France 3
         - France 4
+      validate: false
+  
+  Freeform:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/BlackFreeform.png
+    sort_title: 2Freeform
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: 
+        - Freeform Productions
+        - Freeform Studios
+        network: Freeform
       validate: false
       
   FX:
@@ -410,7 +456,17 @@ collections:
         studio: IFC TV
         network: IFC
       validate: false
-        
+  
+  Investigation Discovery:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Investigation%20Discovery.png
+    sort_title: 2Investigation Discovery
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Investigation Discovery
+        network: Investigation Discovery
+      validate: false
+  
   ITV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ITV.png
     sort_title: 2ITV
@@ -566,7 +622,17 @@ collections:
         studio: Peacock
         network: Peacock
       validate: false
-        
+  
+  Quibi:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Quibi.png
+    sort_title: 2Quibi
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Quibi
+        network: Quibi
+      validate: false
+      
   RAI:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Rai.png
     sort_title: 2RAI
@@ -581,7 +647,22 @@ collections:
         - RaiPlay
         - Rai YoYo
       validate: false
-        
+  
+  RTÉ:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTE.png
+    sort_title: 2RTE
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio:
+        - RTÉ
+        - Raidió Teilifís Éireann (RTÉ)
+        network:
+        - RTÉ One
+        - RTÉ Two
+        - RTÉ 2
+      validate: false
+      
   RTL:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTL.png
     sort_title: 2RTL
@@ -593,6 +674,20 @@ collections:
         - RTL 4
         - RTL 5
         - RTL+     
+      validate: false
+  
+  Seven Network:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Seven%20Network.png
+    sort_title: 2Seven Network
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: 
+        - Seven Network
+        - Seven Studios
+        network: 
+        - Seven Neywork
+        - 7Mate
       validate: false
       
   Science Channel:
