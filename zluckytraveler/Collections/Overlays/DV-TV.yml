@@ -2,7 +2,6 @@
 #            OVERLAYS - DOLBY VISION TV              #
 ######################################################
 
-
 collections:
   4K-DV:
     plex_all: true
