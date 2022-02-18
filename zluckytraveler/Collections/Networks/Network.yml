@@ -158,7 +158,7 @@ collections:
       validate: false
   
   Channel 4:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%20N4.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204.png
     sort_title: 2Channel 4
     smart_filter:
       sort_by: title.asc
@@ -168,7 +168,7 @@ collections:
       validate: false
       
   Channel 5:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%20N5.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205.png
     sort_title: 2Channel 5
     smart_filter:
       sort_by: title.asc
@@ -357,7 +357,7 @@ collections:
       validate: false
   
   Freeform:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/BlackFreeform.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Freeform.png
     sort_title: 2Freeform
     smart_filter:
       sort_by: title.asc
