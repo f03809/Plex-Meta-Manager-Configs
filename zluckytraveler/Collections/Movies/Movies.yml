@@ -1,6 +1,7 @@
 ######################################################
-#                Movie Collections                   #
+#                COLLECTIONS - MOVIES                #
 ######################################################
+
 templates:
   Collection:
     optional:
