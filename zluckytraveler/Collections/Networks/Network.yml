@@ -5,7 +5,10 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: A&E
+        studio.is: 
+        - A&E
+        - A+E Networks
+        - A&E Television Networks
         network: A&E
       validate: false
       
@@ -53,7 +56,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: AMC
+        studio.is: 
+        - AMC
+        - AMC Networks
         network:
         - AMC
         - AMC+
@@ -108,7 +113,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: BET
+        studio.is: 
+        - BET TV
+        - BET Networks
         network:
         - BET
         - BET+
@@ -120,8 +127,8 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is: Bravo
-        network: Bravo
+        studio: Bravo
+        network: bravo
       validate: false
       
   Canal+:
@@ -185,7 +192,6 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Cinemax
         network: Cinemax
       validate: false
       
@@ -200,6 +206,15 @@ collections:
         - Comedy Central
         - Comedy Central (UK)
         - Comedy Central Latinoamérica
+      validate: false
+  
+   Dave:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Dave.png
+    sort_title: 2Dave
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Dave
       validate: false
       
   DC Universe:
@@ -255,6 +270,11 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio.is:
+        - Disney Channel
+        - Disney Enterprises
+        - Disney Television Animation
+        - Walt Disney Animation Studios
         network: 
         - Disney Channel
         - Disney XD
@@ -830,7 +850,6 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: CW
         network: The CW 
       validate: false
         
@@ -896,9 +915,10 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
+        studio.is: 
+        - USA Network
+        - USA Pictures
         - USATV
-        - USA
         network: USA Network  
       validate: false
         
@@ -920,7 +940,13 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Vice
+        studio.is:
+        - Vice Europe TV Limited
+        - Vice Studio Canada
+        - Vice Studios
+        - VICE Media
+        - Vice Media
+        - Vice TV
         network:   
         - Vice TV
         - Vice on TV (US)
