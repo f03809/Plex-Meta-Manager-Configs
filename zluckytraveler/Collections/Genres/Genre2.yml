@@ -52,7 +52,7 @@ collections:
   Apocalypse:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Apocalypse%202.jpg
     sort_title: 1Apocalypse
-     validate: false
+      validate: false
       
   Biography:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Biography%202.jpeg
