@@ -180,7 +180,7 @@ collections:
         - CBS Television Network
         network: CBS
       validate: false
-  
+      
   Channel 4:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204.png
     sort_title: 2Channel 4
@@ -335,7 +335,7 @@ collections:
         - Epix (I)
         network: Epix
       validate: false
-
+      
   E!:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E!.png
     sort_title: 2E!
@@ -409,7 +409,7 @@ collections:
         - France TV Slash
         - France.tv
       validate: false
-  
+      
   Freeform:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Freeform.png
     sort_title: 2Freeform
@@ -526,7 +526,7 @@ collections:
         studio.is: IFC TV
         network: IFC
       validate: false
-  
+      
   Investigation Discovery:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Investigation%20Discovery.png
     sort_title: 2Investigation Discovery
@@ -536,7 +536,7 @@ collections:
         studio: Investigation Discovery
         network: Investigation Discovery
       validate: false
-  
+      
   ITV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ITV.png
     sort_title: 2ITV
@@ -702,7 +702,7 @@ collections:
       any:
         network: Peacock
       validate: false
-  
+      
   Quibi:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Quibi.png
     sort_title: 2Quibi
@@ -729,7 +729,7 @@ collections:
         - RaiPlay
         - Rai YoYo
       validate: false
-  
+      
   RTÉ:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTE.png
     sort_title: 2RTE
@@ -762,7 +762,7 @@ collections:
         - RTL Télé
         - Super RTL
       validate: false
-  
+      
   Seven Network:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Seven%20Network.png
     sort_title: 2Seven Network
@@ -914,7 +914,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        network: The CW 
+        network: The CW
       validate: false
         
   The WB:
@@ -944,7 +944,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: TNT
+        studio.is: TNT
         network:
         - TNT
         - TNT (US)
@@ -997,7 +997,7 @@ collections:
         - VH1 Classic
         - VH1
       validate: false
-
+      
   Vice:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
     sort_title: 2Vice
