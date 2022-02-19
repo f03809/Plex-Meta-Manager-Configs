@@ -52,7 +52,9 @@ collections:
   Apocalypse:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Apocalypse%202.jpg
     sort_title: 1Apocalypse
-    validate: false
+    smart_filter:
+      sort_by: title.asc  
+      validate: false
       
   Biography:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Biography%202.jpeg
@@ -173,11 +175,15 @@ collections:
   Gangster:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
     sort_title: 1Gangster
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Heist:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Heist%202.jpg
     sort_title: 1Heist
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   History:
@@ -209,6 +215,8 @@ collections:
   LGBTQ+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/LGBTQ%2B%201.jpg
     sort_title: 1LGBTQ+
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Martial Arts:
