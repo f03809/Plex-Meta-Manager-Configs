@@ -19,7 +19,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is: Adult Swim Amazon Prime Video
+        studio.is: Adult Swim
       validate: false
       
   Amazon:
