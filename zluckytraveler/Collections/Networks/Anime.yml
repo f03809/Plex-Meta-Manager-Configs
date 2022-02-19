@@ -114,7 +114,7 @@ collections:
         studio.is: P.A. Works
       validate: false
       
-  Studio Pierrot:
+  Pierrot:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Pierrot.png
     sort_title: 2Studio Pierrot
     smart_filter:
@@ -154,7 +154,7 @@ collections:
         studio.is: Studio Ghibli
       validate: false
       
-  Sunrise:
+  Sunrise Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Sunrise%20Animation.png
     sort_title: 2Sunrise
     smart_filter:
@@ -165,7 +165,7 @@ collections:
         - SUNRISE
       validate: false
       
-  Toei:
+  Toei Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Toei%20Animation.png
     sort_title: Toei
     smart_filter:
@@ -190,7 +190,7 @@ collections:
         - ufotable
       validate: false
       
-  White Fox:
+  White Fox Studios:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/White%20Fox.png
     sort_title: 2White Fox
     smart_filter:
