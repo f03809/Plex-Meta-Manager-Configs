@@ -228,6 +228,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
+        studio.is:
+        - DC Comics
+        - DC Entertainment
         network: DC Universe
       validate: false
         
