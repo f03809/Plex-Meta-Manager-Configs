@@ -1,1 +1,218 @@
+######################################################
+#                    ANIME STUDIOS                   #
+######################################################
 
+
+collections:
+  A-1 Pictures:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/A-1%20Pictures.png
+    sort_title: 2A-1 Pictures
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: A-1 Pictures
+      validate: false
+
+  Adult Swim:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
+    sort_title: 2Adult Swim
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Adult Swim Amazon Prime Video
+      validate: false
+      
+  Amazon:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
+    sort_title: 2Amazon
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Amazon Prime Video
+      validate: false
+      
+  Brains Base:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Brains%20Base.png
+    sort_title: 2Brains Base
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is:
+        - Brain's Base
+        - Brain`s Base
+      validate: false
+      
+  Gainax:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Gainax.png
+    sort_title: 2Gainax
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Gainax
+      validate: false
+      
+  Production I.G:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/I.G.%20Productions.png
+    sort_title: 2Production I.G
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Production I.G
+      validate: false
+      
+  J.C.Staff:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/J.C.%20Staff.png
+    sort_title: 2J.C.Staff
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: J.C.Staff
+      validate: false
+
+  Kyoto Animation:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Kyoto%20Animation.png
+    sort_title: 2Kyoto Animation
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Kyoto Animation
+      validate: false
+      
+  Madhouse:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Madhouse.png
+    sort_title: 2Madhouse
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Madhouse
+      validate: false
+      
+  MAPPA:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/MAPPA.png
+    sort_title: 2MAPPA
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: MAPPA
+      validate: false
+      
+  Netflix:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
+    sort_title: 2Netflix
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Netflix
+      validate: false
+      
+  P.A. Works:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/P.A.%20Works.png
+    sort_title: 2P.A. Works
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: P.A. Works
+      validate: false
+      
+  Studio Pierrot:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Pierrot.png
+    sort_title: 2Studio Pierrot
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: 
+        - Studio Pierrot
+        - Pierrot
+      validate: false
+      
+  Shaft:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Shaft.png
+    sort_title: 2Shaft
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: 
+        - Shaft
+        - SHAFT
+      validate: false
+      
+  Studio Deen:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Studio%20DEEN.png
+    sort_title: 2Studio Deen
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Studio Deen
+      validate: false
+      
+  Studio Ghibli:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Studio%20Ghibli.png
+    sort_title: 2Studio Ghibli
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Studio Ghibli
+      validate: false
+      
+  Sunrise:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Sunrise%20Animation.png
+    sort_title: 2Sunrise
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: 
+        - Sunrise
+        - SUNRISE
+      validate: false
+      
+  Toei:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Toei%20Animation.png
+    sort_title: Toei
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is:
+        - Toei Animation
+        - Toei Company
+        - Toei Agency
+        - Toei Douga
+        - Toei
+      validate: false
+
+  Ufotable:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/UFO%20Table.png
+    sort_title: 2Ufotable
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: 
+        - Ufotable
+        - ufotable
+      validate: false
+
+  White Fox:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/White%20Fox.png
+    sort_title: 2White Fox
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: White Fox
+      validate: false
+
+  Wit Studio:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/WIT%20Studio.png
+    sort_title: 2Wit Studio
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Wit Studio
+      validate: false
+
+  Youtube:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
+    sort_title: 2Youtube
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Youtube
+      validate: false
