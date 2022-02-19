@@ -4,14 +4,15 @@
 
 collections:
   Recently Added:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Event/Recently%20Added.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Sports/Recently%20Added%20(Events).png
     sort_title: 0Recently Added
     smart_filter:
       sort_by: added.desc
       all:
         added: 30
+        
   Recently Released:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Event/Recently%20Released.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Sports/Recently%20Released%20(Events).png
     sort_title: 0Recently Released
     smart_filter:
       sort_by: release.desc
