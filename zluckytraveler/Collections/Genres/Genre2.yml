@@ -144,8 +144,8 @@ collections:
   Fan Edit:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
     sort_title: 1Fan Edit
-      smart_filter:
-      sort_by: title.asc  
+    smart_filter:
+      sort_by: title.asc
       validate: false
       
   Fantasy:
@@ -177,14 +177,14 @@ collections:
   Gangster:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
     sort_title: 1Gangster
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
   Heist:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Heist%202.jpg
     sort_title: 1Heist
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
@@ -217,7 +217,7 @@ collections:
   LGBTQ+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/LGBTQ%2B%201.jpg
     sort_title: 1LGBTQ+
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
@@ -294,7 +294,7 @@ collections:
   Pandemic:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Pandemic%203.jpg
     sort_title: 1Pandemic
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
@@ -357,7 +357,7 @@ collections:
   Space:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Space%202.jpg
     sort_title: 1Space
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
@@ -376,21 +376,21 @@ collections:
   Spy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Spy%201.jpg
     sort_title: 1Spy
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
   Stand Up:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Stand%20Up%202.jpg
     sort_title: 1Stand Up
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
   Super Hero:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Super%20Hero%202.jpg
     sort_title: 1Super Hero
-      smart_filter:
+    smart_filter:
       sort_by: title.asc  
       validate: false
       
