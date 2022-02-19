@@ -38,7 +38,7 @@ collections:
       sort_by: title.asc
       any:
         studio.is:
-        - Brain's Base
+        - "Brain's Base"
         - Brain`s Base
       validate: false
       
