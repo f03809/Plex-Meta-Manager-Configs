@@ -2,23 +2,26 @@
 #                  RECENTS - SPORTS/TV               #
 ######################################################
 
+
 collections: 
   Recently Added Shows:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Added.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Sports/Recently%20Added%20(TV).jpg
     sort_title: 0Recently Added
     smart_filter:
       sort_by: added.desc
       all:
         added: 30
+        
   Recently Released Shows:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Released.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Sports/Recently%20Released%20(TV).jpg
     sort_title: 0Recently Released
     smart_filter:
       sort_by: release.desc
       all:
-        release: 60      
+        release: 60
+        
   Recently Aired Episodes:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Aired.jpg
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Sports/Recently%20Aired%20(TV).jpg
     sort_title: 0Recently Aired
     smart_filter:
       type: episodes
