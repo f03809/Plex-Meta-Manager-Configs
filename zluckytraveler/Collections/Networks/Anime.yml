@@ -167,7 +167,7 @@ collections:
       
   Toei Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Toei%20Animation.png
-    sort_title: Toei
+    sort_title: 2Toei
     smart_filter:
       sort_by: title.asc
       any:
