@@ -212,8 +212,8 @@ collections:
         - Comedy Central (UK)
         - Comedy Central Latinoamérica
       validate: false
-  
-   Dave:
+      
+  Dave:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Dave.png
     sort_title: 2Dave
     smart_filter:
