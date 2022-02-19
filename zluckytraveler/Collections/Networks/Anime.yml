@@ -12,7 +12,7 @@ collections:
       any:
         studio.is: A-1 Pictures
       validate: false
-
+      
   Adult Swim:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
     sort_title: 2Adult Swim
@@ -38,8 +38,8 @@ collections:
       sort_by: title.asc
       any:
         studio.is:
-        - "Brain's Base"
-        - Brain`s Base
+        - Brain's Base
+        - Brain`s Base 
       validate: false
       
   Gainax:
@@ -68,7 +68,7 @@ collections:
       any:
         studio.is: J.C.Staff
       validate: false
-
+      
   Kyoto Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Kyoto%20Animation.png
     sort_title: 2Kyoto Animation
@@ -178,7 +178,7 @@ collections:
         - Toei Douga
         - Toei
       validate: false
-
+      
   Ufotable:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/UFO%20Table.png
     sort_title: 2Ufotable
@@ -189,7 +189,7 @@ collections:
         - Ufotable
         - ufotable
       validate: false
-
+      
   White Fox:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/White%20Fox.png
     sort_title: 2White Fox
@@ -198,7 +198,7 @@ collections:
       any:
         studio.is: White Fox
       validate: false
-
+      
   Wit Studio:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/WIT%20Studio.png
     sort_title: 2Wit Studio
@@ -207,7 +207,7 @@ collections:
       any:
         studio.is: Wit Studio
       validate: false
-
+      
   Youtube:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
     sort_title: 2Youtube
