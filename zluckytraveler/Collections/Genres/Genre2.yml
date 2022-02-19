@@ -144,6 +144,8 @@ collections:
   Fan Edit:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
     sort_title: 1Fan Edit
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Fantasy:
@@ -292,6 +294,8 @@ collections:
   Pandemic:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Pandemic%203.jpg
     sort_title: 1Pandemic
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Reality:
@@ -353,6 +357,8 @@ collections:
   Space:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Space%202.jpg
     sort_title: 1Space
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Sports:
@@ -370,16 +376,22 @@ collections:
   Spy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Spy%201.jpg
     sort_title: 1Spy
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Stand Up:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Stand%20Up%202.jpg
     sort_title: 1Stand Up
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Super Hero:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Super%20Hero%202.jpg
     sort_title: 1Super Hero
+      smart_filter:
+      sort_by: title.asc  
       validate: false
       
   Thriller:
