@@ -655,7 +655,6 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Peacock
         network: Peacock
       validate: false
   
