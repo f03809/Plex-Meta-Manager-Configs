@@ -23,7 +23,12 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: ABC
+        studio.is: 
+        - ABC Entertainment
+        - ABC Family
+        - ABC News
+        - ABC Productions
+        - American Broadcasting Company (ABC)
         network:
         - ABC Family
         - ABC Me
@@ -49,7 +54,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Amazon
+        studio.is: 
+        - Amazon Prime Video
+        - Amazon Studios
         network: 
         - Amazon
         - Amazon Prime Video
@@ -132,7 +139,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Bravo
+        studio.is: 
+        - Bravo Cable
+        - Bravo!
         network: bravo
       validate: false
       
@@ -165,7 +174,10 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: CBS
+        studio.is:
+        - CBS News Productions
+        - CBS Productions
+        - CBS Television Network
         network: CBS
       validate: false
   
@@ -269,7 +281,9 @@ collections:
       sort_by: title.asc
       any:
         studio: Discovery+
-        network: discovery+
+        network: 
+        - discovery+
+        - Discovery+ (UK)
       validate: false
         
   Disney:
@@ -316,7 +330,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Epix
+        studio.is: 
+        - Epix Film Production
+        - Epix (I)
         network: Epix
       validate: false
 
@@ -357,7 +373,15 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: FOX
+        studio.is:
+        - Fox Television Animation
+        - 30th Century Fox Television
+        - 20th Century Fox
+        - Fox Alternative Entertainment
+        - Fox Family Channel
+        - Fox Productions
+        - Fox Television Studios
+        - Twentieth Century Fox
         network:
         - FOX
         - Fox Reality Channel
@@ -375,7 +399,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: France Télévisions
+        studio.is: 
+        - France Télévisions
+        - France 3
         network: 
         - France 2
         - France 3
@@ -400,7 +426,8 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: FX
+        studio.is:
+        - FX Productions
         network:
         - FX
         - FXX
@@ -424,7 +451,17 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: HBO
+        studio.is: 
+        - HBO
+        - HBO Asia
+        - HBO Animation
+        - HBO Documentary Films
+        - HBO Downtown Productions
+        - HBO Films
+        - HBO Independent Productions
+        - HBO Polska
+        - HBO Sports
+        - Home Box Office (HBO)
         network:
         - HBO
         - HBO Asia
@@ -486,7 +523,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: IFC
+        studio.is: IFC TV
         network: IFC
       validate: false
   
@@ -583,11 +620,19 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: NBC
+        studio.is: 
+        - NBC Entertainment
+        - NBC News
+        - NBC News Studios
+        - NBC Productions
+        - NBC Studios
+        - NBC Universal International Studios
+        - NBCUniversal
         network: 
         - NBC
         - CNBC
         - NBCSN
+        - MSNBC
       validate: false
         
   Netflix:
@@ -621,7 +666,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is: Oxygen
+        studio.is: Oxygen Network
         network: Oxygen
       validate: false
         
@@ -674,7 +719,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: RAI
+        studio.is: 
+        - RAI Radiotelevisione Italiana
+        - RAI
         network: 
         - Rai
         - Rai 1
@@ -704,12 +751,16 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: RTL
+        studio.is: 
+        - RTL Nederland Productions
+        - RTL
         network:  
         - RTL
         - RTL 4
         - RTL 5
-        - RTL+     
+        - RTL+
+        - RTL Télé
+        - Super RTL
       validate: false
   
   Seven Network:
@@ -721,9 +772,11 @@ collections:
         studio.is: 
         - Seven Network
         - Seven Studios
+        - Seven Productions
         network: 
         - Seven Neywork
         - 7Mate
+        - 7TWO
       validate: false
       
   Science Channel:
@@ -769,6 +822,8 @@ collections:
         - Sky One
         - Sky Max
         - Sky Living
+        - Sky Comedy
+        - Sky Nature
         - Sky Documentaries
         - Sky Crime
         - Sky Atlantic 
