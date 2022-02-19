@@ -872,7 +872,6 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Sundance
         network: SundanceTV    
       validate: false
         
@@ -892,7 +891,10 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: TBS
+        studio.is: 
+        - TBS Superstation
+        - TBS Productions Inc.
+        - TBS
         network: TBS
       validate: false
         
