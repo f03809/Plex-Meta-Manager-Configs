@@ -7,6 +7,6 @@ collections:
   Trending Movies:
     url poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Movies.png
     sort_title: 01Trending Movies
-    tmdb_trending_weekly: 50
+    tmdb_trending_weekly: 100
     collection_order: custom
     sync_mode: sync
