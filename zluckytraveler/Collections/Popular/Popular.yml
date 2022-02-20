@@ -1,7 +1,10 @@
+######################################################
+#                      Popular                       #
+######################################################
 
 
 collections:
   Trakt Popular:
-    trakt_popular: 100
+    trakt_popular: 50
     collection_order: title.asc
     sync_mode: sync
