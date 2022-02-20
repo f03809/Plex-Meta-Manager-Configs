@@ -1,1 +1,7 @@
 
+
+collections:
+  Trakt Popular:
+    trakt_popular: 100
+    collection_order: title.asc
+    sync_mode: sync
