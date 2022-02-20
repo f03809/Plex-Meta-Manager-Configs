@@ -1,0 +1,10 @@
+
+
+collections:
+  Popular Movies:
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      certification_country: US
+      certification.lte: PG
+      sort_by: popularity.desc
