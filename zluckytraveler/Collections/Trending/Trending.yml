@@ -1,1 +1,10 @@
+######################################################
+#                  TRENDING - TRAKT                  #
+######################################################
 
+
+collections:
+  Trakt Trending:
+    trakt_trending: 50
+    collection_order: populaity.desc
+    sync_mode: sync
