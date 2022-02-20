@@ -6,7 +6,7 @@
 collections:
   Trending Shows:
     url poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Shows.png
-    sort_title: 01Trending
+    sort_title: 01Trending Shows
     trakt_trending: 50
     collection_order: populaity.desc
     sync_mode: sync
