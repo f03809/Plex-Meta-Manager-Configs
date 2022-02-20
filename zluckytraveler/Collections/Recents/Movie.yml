@@ -5,14 +5,14 @@
 collections:
   Recently Added:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Movie/Recently%20Added%20Movies.jpg
-    sort_title: 0Recently Added
+    sort_title: 00Recently Added
     smart_filter:
       sort_by: added.desc
       all:
         added: 7
   Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Movie/Recently%20Released%20Movies.jpg
-    sort_title: 0Recently Released
+    sort_title: 00Recently Released
     smart_filter:
       sort_by: release.desc
       all:
