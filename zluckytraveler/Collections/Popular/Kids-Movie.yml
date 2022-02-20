@@ -13,4 +13,4 @@ collections:
       certification_country: US
       certification.lte: PG
       sort_by: popularity.desc
-      limit: 50
+      limit: 100
