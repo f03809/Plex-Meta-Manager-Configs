@@ -6,7 +6,7 @@
 collections:
   Action:
     url_poster: https://theposterdb.com/api/assets/69196
-    sort_title: 1Action
+    sort_title: 05Action
     smart_filter:
       sort_by: title.asc
       all:
@@ -18,7 +18,7 @@ collections:
   
   Adventure:
     url_poster: https://theposterdb.com/api/assets/69197
-    sort_title: 1Adventure
+    sort_title: 05Adventure
     smart_filter:
       sort_by: title.asc
       all:
@@ -30,7 +30,7 @@ collections:
   
   Animation:
     url_poster: https://theposterdb.com/api/assets/69198
-    sort_title: 1Animation
+    sort_title: 05Animation
     smart_filter: 
       sort_by: title.asc      
       all:
@@ -38,7 +38,7 @@ collections:
   
   Anime:
     url_poster: https://theposterdb.com/api/assets/126754
-    sort_title: 1Anime
+    sort_title: 05Anime
     smart_filter:
       sort_by: title.asc  
       all:
@@ -46,7 +46,7 @@ collections:
  
  Biography:
     url_poster: https://theposterdb.com/api/assets/69199
-    sort_title: 1Biography
+    sort_title: 05Biography
     smart_filter:
       sort_by: title.asc
       all:
@@ -58,7 +58,7 @@ collections:
   
   Comedy:
     url_poster: https://theposterdb.com/api/assets/69200
-    sort_title: 1Comedy
+    sort_title: 05Comedy
     smart_filter:
       sort_by: title.asc
       all:
@@ -70,7 +70,7 @@ collections:
  
  Cooking:
     url_poster: https://theposterdb.com/api/assets/69202
-    sort_title: 1Cooking
+    sort_title: 05Cooking
     smart_filter:
       sort_by: title.asc
       all:
@@ -81,7 +81,7 @@ collections:
  
  Crime:
     url_poster: https://theposterdb.com/api/assets/69203
-    sort_title: 1Crime
+    sort_title: 05Crime
     smart_filter:
       sort_by: title.asc
       all:
@@ -93,7 +93,7 @@ collections:
  
  Documentary:
     url_poster: https://theposterdb.com/api/assets/69204
-    sort_title: 1Documentary
+    sort_title: 05Documentary
     smart_filter:
       sort_by: title.asc
       all:
@@ -104,7 +104,7 @@ collections:
  
  Drama:
     url_poster: https://theposterdb.com/api/assets/69205
-    sort_title: 1Drama
+    sort_title: 05Drama
     smart_filter:
       sort_by: title.asc
       all:
@@ -116,7 +116,7 @@ collections:
  
  Family:
     url_poster: https://theposterdb.com/api/assets/69208
-    sort_title: 1Family
+    sort_title: 05Family
     smart_filter:
       sort_by: title.asc
       all:
@@ -124,7 +124,7 @@ collections:
  
  Fantasy:
     url_poster: https://theposterdb.com/api/assets/69210
-    sort_title: 1Fantasy
+    sort_title: 05Fantasy
     smart_filter:
       sort_by: title.asc
       all:
@@ -136,7 +136,7 @@ collections:
  
  Film-Noir:
     url_poster: https://theposterdb.com/api/assets/161218
-    sort_title: 1Film-Noir
+    sort_title: 05Film-Noir
     smart_filter:
       sort_by: title.asc
       all:
@@ -148,7 +148,7 @@ collections:
   
   History:
     url_poster: https://theposterdb.com/api/assets/69212
-    sort_title: 1History
+    sort_title: 05History
     smart_filter:
       sort_by: title.asc
       all:
@@ -160,7 +160,7 @@ collections:
   
   Horror:
     url_poster: https://theposterdb.com/api/assets/69213
-    sort_title: 1Horror
+    sort_title: 05Horror
     smart_filter:
       sort_by: title.asc
       all:
@@ -172,7 +172,7 @@ collections:
  
  Martial Arts:
     url_poster: https://theposterdb.com/api/assets/69216
-    sort_title: 1Martial Arts
+    sort_title: 05Martial Arts
     smart_filter:
       sort_by: title.asc
       all:
@@ -184,7 +184,7 @@ collections:
  
  Music:
     url_poster: https://theposterdb.com/api/assets/69217
-    sort_title: 1Music
+    sort_title: 05Music
     smart_filter:
       sort_by: title.asc
       all:
@@ -196,7 +196,7 @@ collections:
  
  Musical:
     url_poster: https://theposterdb.com/api/assets/69218
-    sort_title: 1Musical
+    sort_title: 05Musical
     smart_filter:
       sort_by: title.asc
       all:
@@ -207,7 +207,7 @@ collections:
  
  Mystery:
     url_poster: https://theposterdb.com/api/assets/69219
-    sort_title: 1Mystery
+    sort_title: 05Mystery
     smart_filter:
       sort_by: title.asc
       all:
@@ -219,7 +219,7 @@ collections:
  
  Romance:
     url_poster: https://theposterdb.com/api/assets/69221
-    sort_title: 1Romance
+    sort_title: 05Romance
     smart_filter:
       sort_by: title.asc
       all:
@@ -231,7 +231,7 @@ collections:
  
  Sci-Fi:
     url_poster: https://theposterdb.com/api/assets/69223
-    sort_title: 1Sci-Fi
+    sort_title: 05Sci-Fi
     smart_filter:
       sort_by: title.asc
       all:
@@ -243,7 +243,7 @@ collections:
   
   Shorts:
     url_poster: https://theposterdb.com/api/assets/69224
-    sort_title: 1Shorts
+    sort_title: 05Shorts
     smart_filter:
       sort_by: title.asc
       all:
@@ -251,7 +251,7 @@ collections:
   
   Sports:
     url_poster: https://theposterdb.com/api/assets/69225
-    sort_title: 1Sports
+    sort_title: 05Sports
     smart_filter:
       sort_by: title.asc
       all:
@@ -262,7 +262,7 @@ collections:
   
   Thriller:
     url_poster: https://theposterdb.com/api/assets/69226
-    sort_title: 1Thriller
+    sort_title: 05Thriller
     smart_filter:
       sort_by: title.asc
       all:
@@ -274,7 +274,7 @@ collections:
   
   Travel:
     url_poster: https://theposterdb.com/api/assets/127402
-    sort_title: 1Travel
+    sort_title: 05Travel
     smart_filter:
       sort_by: title.asc
       all: 
@@ -285,7 +285,7 @@ collections:
   
   War:
     url_poster: https://theposterdb.com/api/assets/69227
-    sort_title: 1War
+    sort_title: 05War
     smart_filter:
       sort_by: title.asc
       all:
@@ -297,7 +297,7 @@ collections:
   
   Western:
     url_poster: https://theposterdb.com/api/assets/69228
-    sort_title: 1Westerns
+    sort_title: 05Westerns
     smart_filter:
       sort_by: title.asc
       all:
