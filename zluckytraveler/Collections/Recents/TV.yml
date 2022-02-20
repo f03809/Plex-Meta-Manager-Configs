@@ -2,6 +2,7 @@
 #                    RECENTS - TV                    #
 ######################################################
 
+
 collections: 
   Recently Added Shows:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/TV/Recently%20Added.jpg
