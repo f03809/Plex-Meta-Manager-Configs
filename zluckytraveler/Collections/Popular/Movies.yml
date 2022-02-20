@@ -8,5 +8,5 @@ collections:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
     sort_title: 01Popular Movies
     trakt_popular: 50
-    collection_order: populaity.desc
+    collection_order: title.asc
     sync_mode: sync
