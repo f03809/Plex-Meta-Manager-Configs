@@ -92,7 +92,6 @@ collections:
         genre.not:
         - Animation
         - Children
-      validate: false
       
   Crime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Crime%203.jpg
@@ -172,7 +171,6 @@ collections:
         - Animation
         - Children
         - Family
-      validate: false
       
   Gangster:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
@@ -308,7 +306,6 @@ collections:
         genre.not: 
         - Animation
         - Children
-      validate: false
       
   Romance:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Romance%204.jpg
@@ -454,4 +451,3 @@ collections:
         - Animation
         - Children
         - Family
-      validate: false
