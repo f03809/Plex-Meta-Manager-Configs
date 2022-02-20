@@ -12,4 +12,3 @@ collections:
     tmdb_discover:
       certification_country: US    
       sort_by: popularity.desc
-      limit: 50
