@@ -6,7 +6,7 @@
 collections:
   Popular Shows:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Shows.png
-    sort_title: 01Popular
+    sort_title: 01Popular Shows
     trakt_popular: 50
     collection_order: populaity.desc
     sync_mode: sync
