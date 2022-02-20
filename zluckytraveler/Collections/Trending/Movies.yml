@@ -8,5 +8,5 @@ collections:
     url poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Movies.png
     sort_title: 01Trending Movies
     trakt_trending: 50
-    collection_order: populaity.desc
+    collection_order: added.desc
     sync_mode: sync
