@@ -6,5 +6,5 @@
 collections:
   Trakt Popular:
     trakt_popular: 50
-    collection_order: title.asc
+    collection_order: populaity.desc
     sync_mode: sync
