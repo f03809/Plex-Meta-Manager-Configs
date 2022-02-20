@@ -6,7 +6,7 @@
 collections:
   A&E:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/A%26E.png
-    sort_title: 2A&E
+    sort_title: 06A&E
     smart_filter:
       sort_by: title.asc
       any:
@@ -19,7 +19,7 @@ collections:
       
   ABC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ABC.png
-    sort_title: 2ABC
+    sort_title: 06ABC
     smart_filter:
       sort_by: title.asc
       any:
@@ -40,7 +40,7 @@ collections:
       
   Adult Swim: 
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
-    sort_title: 2Adult Swim
+    sort_title: 06Adult Swim
     smart_filter:
       sort_by: title.asc
       any:
@@ -50,7 +50,7 @@ collections:
       
   Amazon:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
-    sort_title: 2Amazon
+    sort_title: 06Amazon
     smart_filter:
       sort_by: title.asc
       any:
@@ -64,7 +64,7 @@ collections:
       
   AMC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC.png
-    sort_title: 2AMC
+    sort_title: 06AMC
     smart_filter:
       sort_by: title.asc
       any:
@@ -78,7 +78,7 @@ collections:
       
   Animal Planet:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet.png
-    sort_title: 2Animal Planet
+    sort_title: 06Animal Planet
     smart_filter:
       sort_by: title.asc
       any:
@@ -88,7 +88,7 @@ collections:
       
   Apple TV+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
-    sort_title: 2Apple TV+
+    sort_title: 06Apple TV+
     smart_filter: 
       sort_by: title.asc  
       any:
@@ -97,7 +97,7 @@ collections:
       
   BBC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BBC.png
-    sort_title: 2BBC
+    sort_title: 06BBC
     smart_filter:
       sort_by: title.asc
       any:
@@ -121,7 +121,7 @@ collections:
       
   BET:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BET.png
-    sort_title: 2BET
+    sort_title: 06BET
     smart_filter:
       sort_by: title.asc
       any:
@@ -135,7 +135,7 @@ collections:
       
   Bravo:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo.png
-    sort_title: 2Bravo
+    sort_title: 06Bravo
     smart_filter:
       sort_by: title.asc
       any:
@@ -147,7 +147,7 @@ collections:
       
   Canal+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Canal.png
-    sort_title: 2Canal+
+    sort_title: 06Canal+
     smart_filter:
       sort_by: title.asc
       any:
@@ -160,7 +160,7 @@ collections:
       
   Cartoon Network:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cartoon%20Network.png
-    sort_title: 2Cartoon Network
+    sort_title: 06Cartoon Network
     smart_filter:
       sort_by: title.asc
       any:
@@ -170,7 +170,7 @@ collections:
       
   CBS:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CBS.png
-    sort_title: 2CBS
+    sort_title: 06CBS
     smart_filter:
       sort_by: title.asc
       any:
@@ -183,7 +183,7 @@ collections:
       
   Channel 4:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204.png
-    sort_title: 2Channel 4
+    sort_title: 06Channel 4
     smart_filter:
       sort_by: title.asc
       any:
@@ -193,7 +193,7 @@ collections:
       
   Channel 5:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205.png
-    sort_title: 2Channel 5
+    sort_title: 06Channel 5
     smart_filter:
       sort_by: title.asc
       any:
@@ -205,7 +205,7 @@ collections:
       
   Cinemax:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cinemax.png
-    sort_title: 2Cinemax
+    sort_title: 06Cinemax
     smart_filter:
       sort_by: title.asc
       any:
@@ -214,7 +214,7 @@ collections:
       
   Comedy Central:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comedy%20Central.png
-    sort_title: 2Comedy Central
+    sort_title: 06Comedy Central
     smart_filter:
       sort_by: title.asc
       any:
@@ -227,7 +227,7 @@ collections:
       
   Dave:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Dave.png
-    sort_title: 2Dave
+    sort_title: 06Dave
     smart_filter:
       sort_by: title.asc
       any:
@@ -236,7 +236,7 @@ collections:
       
   DC Universe:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/DC%20Universe.png
-    sort_title: 2DC Universe
+    sort_title: 06DC Universe
     smart_filter:
       sort_by: title.asc
       any:
@@ -248,7 +248,7 @@ collections:
         
   Discovery:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery.png
-    sort_title: 2Discovery
+    sort_title: 06Discovery
     smart_filter:
       sort_by: title.asc
       any:
@@ -276,7 +276,7 @@ collections:
         
   Discovery+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery%2B.png
-    sort_title: 2Discovery+
+    sort_title: 06Discovery+
     smart_filter:
       sort_by: title.asc
       any:
@@ -288,7 +288,7 @@ collections:
         
   Disney:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney.png
-    sort_title: 2Disney
+    sort_title: 06Disney
     smart_filter:
       sort_by: title.asc
       any:
@@ -307,7 +307,7 @@ collections:
         
   Disney+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
-    sort_title: 2Disney+
+    sort_title: 06Disney+
     smart_filter:
       sort_by: title.asc
       any:
@@ -317,7 +317,7 @@ collections:
         
   Disney Hotstar:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%20Hotstar.png
-    sort_title: 2Disney Hotsar
+    sort_title: 06Disney Hotsar
     smart_filter: 
       sort_by: title.asc
       any:
@@ -326,7 +326,7 @@ collections:
         
   Epix:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Epix.png
-    sort_title: 2Epix
+    sort_title: 06Epix
     smart_filter:
       sort_by: title.asc
       any:
@@ -338,7 +338,7 @@ collections:
       
   E!:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E!.png
-    sort_title: 2E!
+    sort_title: 06E!
     smart_filter:
       sort_by: title.asc
       any:
@@ -347,7 +347,7 @@ collections:
       
   ESPN:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ESPN.png
-    sort_title: 2ESPN
+    sort_title: 06ESPN
     smart_filter:
       sort_by: title.asc
       any:
@@ -359,7 +359,7 @@ collections:
         
   Food Network:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Food%20Network.png
-    sort_title: 2Food Network
+    sort_title: 06Food Network
     smart_filter:
       sort_by: title.asc
       any:
@@ -369,7 +369,7 @@ collections:
         
   FOX:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FOX.png
-    sort_title: 2FOX
+    sort_title: 06FOX
     smart_filter:
       sort_by: title.asc
       any:
@@ -395,7 +395,7 @@ collections:
         
   France TV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/France.png
-    sort_title: 2France TV
+    sort_title: 06France TV
     smart_filter:
       sort_by: title.asc
       any:
@@ -412,7 +412,7 @@ collections:
       
   Freeform:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Freeform.png
-    sort_title: 2Freeform
+    sort_title: 06Freeform
     smart_filter:
       sort_by: title.asc
       any:
@@ -422,7 +422,7 @@ collections:
       
   FX:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
-    sort_title: 2FX
+    sort_title: 06FX
     smart_filter:
       sort_by: title.asc
       any:
@@ -435,7 +435,7 @@ collections:
       
   Hallmark:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hallmark.png
-    sort_title: 2Hallmark
+    sort_title: 06Hallmark
     smart_filter:
       sort_by: title.asc
       any:
@@ -447,7 +447,7 @@ collections:
       
   HBO:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
-    sort_title: 2HBO
+    sort_title: 06HBO
     smart_filter:
       sort_by: title.asc
       any:
@@ -474,7 +474,7 @@ collections:
         
   HBO Max:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max.png
-    sort_title: 2HBO Max
+    sort_title: 06HBO Max
     smart_filter:
       sort_by: title.asc
       any:
@@ -483,7 +483,7 @@ collections:
         
   HGTV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HGTV.png
-    sort_title: 2HGTV
+    sort_title: 06HGTV
     smart_filter:
       sort_by: title.asc
       any:
@@ -495,7 +495,7 @@ collections:
         
   History Chanel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History.png
-    sort_title: 2History Channel
+    sort_title: 06History Channel
     smart_filter:
       sort_by: title.asc
       any:
@@ -509,7 +509,7 @@ collections:
         
   Hulu:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
-    sort_title: 2Hulu
+    sort_title: 06Hulu
     smart_filter:
       sort_by: title.asc
       any:
@@ -519,7 +519,7 @@ collections:
         
   IFC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/IFC.png
-    sort_title: 2IFC
+    sort_title: 06IFC
     smart_filter:
       sort_by: title.asc
       any:
@@ -529,7 +529,7 @@ collections:
       
   Investigation Discovery:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Investigation%20Discovery.png
-    sort_title: 2Investigation Discovery
+    sort_title: 06Investigation Discovery
     smart_filter:
       sort_by: title.asc
       any:
@@ -539,7 +539,7 @@ collections:
       
   ITV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ITV.png
-    sort_title: 2ITV
+    sort_title: 06ITV
     smart_filter:
       sort_by: title.asc
       any:
@@ -555,7 +555,7 @@ collections:
       
   Lifetime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Lifetime.png
-    sort_title: 2Lifetime
+    sort_title: 06Lifetime
     smart_filter:
       sort_by: title.asc
       any:
@@ -567,7 +567,7 @@ collections:
         
   Marvel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Marvel.png
-    sort_title: 2Marvel
+    sort_title: 06Marvel
     smart_filter:
       sort_by: title.asc
       any:
@@ -576,7 +576,7 @@ collections:
         
   MasterClass:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MasterClass.png
-    sort_title: 2MasterClass
+    sort_title: 06MasterClass
     smart_filter:
       sort_by: title.asc
       any:
@@ -586,7 +586,7 @@ collections:
         
   MTV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV.png
-    sort_title: 2MTV
+    sort_title: 06MTV
     smart_filter:
       sort_by: title.asc
       any:
@@ -601,7 +601,7 @@ collections:
         
   National Geographic:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/National%20Geographic.png
-    sort_title: 2National Geographic
+    sort_title: 06National Geographic
     smart_filter:
       sort_by: title.asc
       any:
@@ -616,7 +616,7 @@ collections:
         
   NBC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/NBC.png
-    sort_title: 2NBC
+    sort_title: 06NBC
     smart_filter:
       sort_by: title.asc
       any:
@@ -637,7 +637,7 @@ collections:
         
   Netflix:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
-    sort_title: 2Netflix
+    sort_title: 06Netflix
     smart_filter:
       sort_by: title.asc
       any:
@@ -647,7 +647,7 @@ collections:
         
   Nickelodeon:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nickelodeon.png
-    sort_title: 2Nicelodeon
+    sort_title: 06Nickelodeon
     smart_filter:
       sort_by: title.asc
       any:
@@ -662,7 +662,7 @@ collections:
         
   Oxygen:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Oxygen.png
-    sort_title: 2Oxygen
+    sort_title: 06Oxygen
     smart_filter:
       sort_by: title.asc
       any:
@@ -672,7 +672,7 @@ collections:
         
   Paramount+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
-    sort_title: 2Paramount+
+    sort_title: 06Paramount+
     smart_filter:
       sort_by: title.asc
       any:
@@ -684,7 +684,7 @@ collections:
         
   PBS:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/PBS.png
-    sort_title: 2PBS
+    sort_title: 06PBS
     smart_filter:
       sort_by: title.asc
       any:
@@ -696,7 +696,7 @@ collections:
         
   Peacock:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
-    sort_title: 2Peacock
+    sort_title: 06Peacock
     smart_filter:
       sort_by: title.asc
       any:
@@ -705,7 +705,7 @@ collections:
       
   Quibi:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Quibi.png
-    sort_title: 2Quibi
+    sort_title: 06Quibi
     smart_filter:
       sort_by: title.asc
       any:
@@ -715,7 +715,7 @@ collections:
       
   RAI:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Rai.png
-    sort_title: 2RAI
+    sort_title: 06RAI
     smart_filter:
       sort_by: title.asc
       any:
@@ -732,7 +732,7 @@ collections:
       
   RTÉ:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTE.png
-    sort_title: 2RTE
+    sort_title: 06RTE
     smart_filter:
       sort_by: title.asc
       any:
@@ -747,7 +747,7 @@ collections:
       
   RTL:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTL.png
-    sort_title: 2RTL
+    sort_title: 06RTL
     smart_filter:
       sort_by: title.asc
       any:
@@ -765,7 +765,7 @@ collections:
       
   Seven Network:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Seven%20Network.png
-    sort_title: 2Seven Network
+    sort_title: 06Seven Network
     smart_filter:
       sort_by: title.asc
       any:
@@ -781,7 +781,7 @@ collections:
       
   Science Channel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Science%20Channel.png
-    sort_title: 2Science Channel
+    sort_title: 06Science Channel
     smart_filter:
       sort_by: title.asc
       any:
@@ -793,7 +793,7 @@ collections:
         
   Showtime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
-    sort_title: 2Showtime
+    sort_title: 06Showtime
     smart_filter:
       sort_by: title.asc
       any:
@@ -803,7 +803,7 @@ collections:
         
   Sky:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky.png
-    sort_title: 2Sky
+    sort_title: 06Sky
     smart_filter:
       sort_by: title.asc
       any:
@@ -836,7 +836,7 @@ collections:
         
   Smithsonian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Smithsonian%20Channel.png
-    sort_title: 2Smithsonian
+    sort_title: 06Smithsonian
     smart_filter:
       sort_by: title.asc
       any:
@@ -848,7 +848,7 @@ collections:
         
   Spike:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Spike.png
-    sort_title: 2Spike
+    sort_title: 06Spike
     smart_filter:
       sort_by: title.asc
       any:
@@ -858,7 +858,7 @@ collections:
         
   Starz:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz.png
-    sort_title: 2Starz
+    sort_title: 06Starz
     smart_filter:
       sort_by: title.asc
       any:
@@ -868,7 +868,7 @@ collections:
         
   Sundance TV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SundanceTV.png
-    sort_title: 2Sundance TV
+    sort_title: 06Sundance TV
     smart_filter:
       sort_by: title.asc
       any:
@@ -877,7 +877,7 @@ collections:
         
   SyFy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SYFY.png
-    sort_title: 2SyFy
+    sort_title: 06SyFy
     smart_filter:
       sort_by: title.asc
       any:
@@ -887,7 +887,7 @@ collections:
         
   TBS:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TBS.png
-    sort_title: 2TBS
+    sort_title: 06TBS
     smart_filter:
       sort_by: title.asc
       any:
@@ -900,7 +900,7 @@ collections:
         
   Telemundo:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Telemundo.png
-    sort_title: 2Telemundo
+    sort_title: 06Telemundo
     smart_filter:
       sort_by: title.asc
       any:
@@ -910,7 +910,7 @@ collections:
       
   The CW:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/The%20CW.png
-    sort_title: 2The CW
+    sort_title: 06The CW
     smart_filter:
       sort_by: title.asc
       any:
@@ -919,7 +919,7 @@ collections:
         
   The WB:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WB.png
-    sort_title: 2The WB
+    sort_title: 06The WB
     smart_filter:
       sort_by: title.asc
       any:
@@ -928,7 +928,7 @@ collections:
         
   TLC:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TLC.png
-    sort_title: 2TLC
+    sort_title: 06TLC
     smart_filter:
       sort_by: title.asc
       any:
@@ -940,7 +940,7 @@ collections:
         
   TNT:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TNT.png
-    sort_title: 2TNT
+    sort_title: 06TNT
     smart_filter:
       sort_by: title.asc
       any:
@@ -954,7 +954,7 @@ collections:
         
   Travel Channel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Travel%20Channel.png
-    sort_title: 2Travel Channel
+    sort_title: 06Travel Channel
     smart_filter:
       sort_by: title.asc
       any:
@@ -966,7 +966,7 @@ collections:
         
   truTV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/truTV.png
-    sort_title: 2truTV
+    sort_title: 06truTV
     smart_filter:
       sort_by: title.asc
       any:
@@ -975,7 +975,7 @@ collections:
         
   USA:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/USA.png
-    sort_title: 2USA
+    sort_title: 06USA
     smart_filter:
       sort_by: title.asc
       any:
@@ -988,7 +988,7 @@ collections:
         
   VH1:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/VH1.png
-    sort_title: 2VH1
+    sort_title: 06VH1
     smart_filter:
       sort_by: title.asc
       any:
@@ -1000,7 +1000,7 @@ collections:
       
   Vice:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
-    sort_title: 2Vice
+    sort_title: 06Vice
     smart_filter:
       sort_by: title.asc
       any:
@@ -1020,7 +1020,7 @@ collections:
       
   YouTube:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
-    sort_title: 2Youtube
+    sort_title: 06Youtube
     smart_filter:
       sort_by: title.asc
       any:
