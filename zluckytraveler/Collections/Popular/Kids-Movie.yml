@@ -2,6 +2,7 @@
 #                POPULAR - KIDS MOVIE                #
 ######################################################
 
+
 collections:
   Popular Movies:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
