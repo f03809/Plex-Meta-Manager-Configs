@@ -21,14 +21,6 @@ collections:
       all:
         genre: Adventure
         
-  Animation:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Animation%204.jpg
-    sort_title: 05Animation
-    smart_filter: 
-      sort_by: title.asc      
-      all:
-        genre: Animation
-        
   Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Anime%203.jpg
     sort_title: 05Anime
