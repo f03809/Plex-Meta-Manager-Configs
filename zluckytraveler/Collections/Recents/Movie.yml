@@ -2,6 +2,7 @@
 #                  RECENTS - MOVIES                  #
 ######################################################
 
+
 collections:
   Recently Added:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Movie/Recently%20Added%20Movies.jpg
