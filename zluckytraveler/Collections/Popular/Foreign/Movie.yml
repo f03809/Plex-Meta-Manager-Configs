@@ -12,7 +12,7 @@ collections:
     tmdb_discover:
       sort_by: popularity.desc
       limit: 100
-      language:
+      with_original_language::
         - zh-cn
         - da-dk
         - nl-nl
