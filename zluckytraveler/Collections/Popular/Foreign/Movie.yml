@@ -13,12 +13,25 @@ collections:
       sort_by: popularity.desc
       limit: 100
       with_original_language::
-        - zh-cn
-        - da-dk
-        - nl-nl
-        - fr-fr
-        - de-de
-        - hi-in
-        - id-id
-        - it-it
-        - ja-jp
+        - zh
+        - da
+        - nl
+        - fr
+        - de
+        - hi
+        - id
+        - it
+        - ja
+        - ko
+        - ms
+        - ml
+        - no
+        - pa
+        - ru
+        - es
+        - sv
+        - ta
+        - te
+        - tl
+        - uk
+        - vi
