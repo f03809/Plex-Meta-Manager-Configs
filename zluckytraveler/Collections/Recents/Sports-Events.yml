@@ -6,7 +6,7 @@
 collections:
   Recently Added:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Sports/Recently%20Added%20(Events).jpg
-    sort_title: 00Recently Added
+    sort_title: 00-Recently Added
     smart_filter:
       sort_by: added.desc
       all:
@@ -14,7 +14,7 @@ collections:
         
   Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Sports/Recently%20Released%20(Events).jpg
-    sort_title: 00Recently Released
+    sort_title: 00-Recently Released
     smart_filter:
       sort_by: release.desc
       all:
