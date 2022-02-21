@@ -11,27 +11,7 @@ collections:
     sync_mode: sync
     tmdb_discover:
       sort_by: popularity.desc
-      limit: 100
-      with_original_language::
-        - zh
-        - da
-        - nl
-        - fr
-        - de
-        - hi
-        - id
-        - it
-        - ja
-        - ko
-        - ms
-        - ml
-        - no
-        - pa
-        - ru
-        - es
-        - sv
-        - ta
-        - te
-        - tl
-        - uk
-        - vi
+      limit: 250
+      language:: zh, da, nl, fr
+    filters:
+      max_size: 50
