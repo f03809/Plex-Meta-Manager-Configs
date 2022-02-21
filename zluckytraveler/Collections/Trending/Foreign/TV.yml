@@ -9,6 +9,9 @@ collections:
     sort_title: 01-Trending Shows
     collection_order: custom
     sync_mode: sync
-    tmdb_trending_daily: 500
+    tmdb_discover:
+      with_original_language: ar|as|ca|zh|cs|da|nl|dz|et|fi|fr|gl|ka|de|el|gu|he|hi|hu|is|id|it|ja|kn|kk|ko|ku|kj|lv|ln|ms|ml|mr|mn|nb|no|pa|fa|pl|ps|pt|qu|ro|ru|sr|sk|es|sw|sv|ta|te|th|bo|tl|tn|tr|ur|vi|wo|xh|zu|bn|ho
+      sort_by: vot_count.desc
+      limit: 250
     filters:
       max_size: 50
