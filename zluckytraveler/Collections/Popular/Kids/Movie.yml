@@ -13,6 +13,6 @@ collections:
       certification_country: US
       certification.lte: PG
       sort_by: popularity.desc
-      limit: 250
+      limit: 500
     filters:
       max_size: 50
