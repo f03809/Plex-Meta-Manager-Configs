@@ -1,0 +1,17 @@
+######################################################
+#                 POPULAR - FOREIGN TV               #
+######################################################
+
+
+collections:
+  Popular Shows - Foreign:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
+    sort_title: 01-Popular Shows
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      with_original_language: fr|de|hi
+      sort_by: popularity.desc
+      limit: 500
+    filters:
+      max_size: 50
