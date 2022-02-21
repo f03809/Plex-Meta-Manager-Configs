@@ -9,6 +9,8 @@ collections:
     sort_title: 01-Trending Shows
     collection_order: custom
     sync_mode: sync
-    tmdb_trending_daily: 250
+    tmdb_discover:
+      sort_by: vote_count.desc
+      limit: 250
     filters:
       max_size: 50
