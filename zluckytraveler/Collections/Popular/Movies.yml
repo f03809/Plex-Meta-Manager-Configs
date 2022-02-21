@@ -14,5 +14,5 @@ collections:
       limit: 1000
     smart_filter:
       all:
-        title:
+        year.gte: 1900
       limit: 100
