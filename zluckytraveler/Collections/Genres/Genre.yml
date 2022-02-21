@@ -425,7 +425,6 @@ collections:
         genre.not:
         - Animation
         - Children  
-      validate: false
       
   War:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/War%202.jpg
