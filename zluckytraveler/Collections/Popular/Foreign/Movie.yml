@@ -12,6 +12,6 @@ collections:
     tmdb_discover:
       sort_by: popularity.desc
       limit: 250
-      language: zh, da, nl, fr
+      language: de-DE, fr-FR
     filters:
       max_size: 50
