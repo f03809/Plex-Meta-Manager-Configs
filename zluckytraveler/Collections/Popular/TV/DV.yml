@@ -9,6 +9,8 @@ collections:
     sort_title: 01-Popular Shows
     collection_order: custom
     sync_mode: sync
-    tmdb_popular: 250
+    tmdb_discover:
+      sort_by: popularity.desc
+      limit: 250
     filters:
       max_size: 50
