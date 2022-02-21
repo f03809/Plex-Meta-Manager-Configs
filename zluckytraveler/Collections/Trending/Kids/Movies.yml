@@ -1,0 +1,12 @@
+######################################################
+#                TRENDING - KIDS MOVIES              #
+######################################################
+
+
+collections:
+  Trending Movies - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Shows.png
+    sort_title: 01-Trending Shows
+    tmdb_trending_weekly: 100
+    collection_order: custom
+    sync_mode: sync
