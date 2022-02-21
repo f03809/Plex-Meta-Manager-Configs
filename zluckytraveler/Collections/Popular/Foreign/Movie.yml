@@ -9,9 +9,6 @@ collections:
     sort_title: 01-Popular Movies
     collection_order: custom
     sync_mode: sync
-    tmdb_discover:
-      sort_by: popularity.desc
-      limit: 250
-      language: de-DE, fr-FR
+    mdblist_list: https://mdblist.com/lists/zluckytraveler/tmdb-popular-foreign-movies-250/
     filters:
       max_size: 50
