@@ -9,4 +9,6 @@ collections:
     sort_title: 01-Trending Movies
     collection_order: custom
     sync_mode: sync
-    tmdb_trending_weekly: 100
+    tmdb_trending_weekly: 250
+    filters:
+      max_size: 50
