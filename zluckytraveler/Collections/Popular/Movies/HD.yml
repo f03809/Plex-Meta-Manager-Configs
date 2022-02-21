@@ -1,5 +1,5 @@
 ######################################################
-#                  POPULAR - HD MOVIE                #
+#                  POPULAR - HD MOVIES                #
 ######################################################
 
 
@@ -11,3 +11,4 @@ collections:
     sync_mode: sync
     tmdb_discover:  
       sort_by: popularity.desc
+      limit: 100
