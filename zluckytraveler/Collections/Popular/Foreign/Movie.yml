@@ -13,12 +13,12 @@ collections:
       sort_by: popularity.desc
       limit: 100
       language:
-        - zh-CN
-        - da-DK
-        - nl-NL
-        - fr-FR
-        - de-DE
-        - hi-IN
-        - id-ID
-        - it-IT
-        - ja-JP
+        - zh-cn
+        - da-dk
+        - nl-nl
+        - fr-fr
+        - de-de
+        - hi-in
+        - id-id
+        - it-it
+        - ja-jp
