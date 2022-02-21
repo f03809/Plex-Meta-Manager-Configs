@@ -11,4 +11,5 @@ collections:
     sync_mode: sync
     tmdb_discover:  
       sort_by: popularity.desc
-      limit: 100
+      limit: 1000
+    smart_filter: 100
