@@ -9,29 +9,6 @@ collections:
     sort_title: 01-Popular Shows
     collection_order: custom
     sync_mode: sync
-    tmdb_discover:
-      sort_by: popularity.desc
-      limit: 100
-      language:
-        - ny
-        - da
-        - nl
-        - fr
-        - de
-        - hi
-        - id
-        - it
-        - ja
-        - ko
-        - ms
-        - ml
-        - no
-        - pa
-        - ru
-        - es
-        - sv
-        - ta
-        - te
-        - tl
-        - uk
-        - vi
+    mdblist_list: https://mdblist.com/lists/zluckytraveler/tmdb-popular-foreign-shows-250/
+    filters:
+      max_size: 50
