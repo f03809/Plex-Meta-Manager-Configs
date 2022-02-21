@@ -14,5 +14,5 @@ collections:
       certification.lte: PG
       sort_by: popularity.desc
       limit: 500
-      filters:
-        max_size: 50
+    filters:
+      max_size: 50
