@@ -1,0 +1,12 @@
+######################################################
+#              TRENDING - UHD TV SHOWS               #
+######################################################
+
+
+collections:
+  Trending Shows:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Trending/Trending%20Shows.png
+    sort_title: 01Trending Shows
+    tmdb_trending_weekly: 50
+    collection_order: custom
+    sync_mode: sync
