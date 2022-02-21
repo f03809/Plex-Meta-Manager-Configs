@@ -6,13 +6,8 @@
 collections:
   Popular Movies:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
-    sort_title: 01Popular Movies
-    smart_filter:
-      all:
-        year.gte: 1900
-      limit: 100
       collection_order: custom
       sync_mode: sync
       tmdb_discover:  
         sort_by: popularity.desc
-        limit: 1000
+        limit: 100
