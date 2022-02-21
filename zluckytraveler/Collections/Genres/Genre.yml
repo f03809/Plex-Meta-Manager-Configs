@@ -116,7 +116,6 @@ collections:
         genre.not:
         - Animation
         - Children
-      validate: false
       
   Drama:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Drama%201.jpg
