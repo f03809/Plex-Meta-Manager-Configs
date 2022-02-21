@@ -10,7 +10,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
-      sort_by: popularity.desc
-      limit: 250
+      sort_by: vote_count.desc
+      limit: 500
     filters:
       max_size: 50
