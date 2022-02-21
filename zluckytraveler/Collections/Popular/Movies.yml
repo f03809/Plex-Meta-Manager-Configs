@@ -12,5 +12,7 @@ collections:
     tmdb_discover:  
       sort_by: popularity.desc
       limit: 1000
-    smart_filter: 
+    smart_filter:
+      all:
+        title:
       limit: 100
