@@ -228,7 +228,6 @@ collections:
         - Animation
         - Children
         - Family
-      validate: false
       
   Music:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Music%202.jpg
