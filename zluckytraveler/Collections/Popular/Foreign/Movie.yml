@@ -13,25 +13,7 @@ collections:
       sort_by: popularity.desc
       limit: 100
       language:
-        - ny
-        - da
-        - nl
-        - fr
-        - de
-        - hi
-        - id
-        - it
-        - ja
-        - ko
-        - ms
-        - ml
-        - no
-        - pa
-        - ru
-        - es
-        - sv
-        - ta
-        - te
-        - tl
-        - uk
-        - vi
+        - zh-CN
+        - da-DK
+        - nl-NL
+        - fr-FR
