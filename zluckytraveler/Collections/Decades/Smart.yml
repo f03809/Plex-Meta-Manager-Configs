@@ -7,8 +7,8 @@ collections:
   1930's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1930.png
     sort_title: 04-1930
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 1930
         year.lte: 1940
@@ -17,8 +17,8 @@ collections:
   1940's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1940.png
     sort_title: 04-1940
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 1940
         year.lte: 1950
@@ -27,8 +27,8 @@ collections:
   1950's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1950.png
     sort_title: 04-1950
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 1950
         year.lte: 1960
@@ -37,8 +37,8 @@ collections:
   1960's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1960.png
     sort_title: 04-1960
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 1960
         year.lte: 1970
@@ -47,8 +47,8 @@ collections:
   1970's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1970.png
     sort_title: 04-1970
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 1970
         year.lte: 1980
@@ -57,8 +57,8 @@ collections:
   1980's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1980.png
     sort_title: 04-1980
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 1980
         year.lte: 1990
@@ -67,8 +67,8 @@ collections:
   1990's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1990.png
     sort_title: 04-1990
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 1990
         year.lte: 2000
@@ -77,8 +77,8 @@ collections:
   2000's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2000.png
     sort_title: 04-2000
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 2000
         year.lte: 2010
@@ -87,8 +87,8 @@ collections:
   2010's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2010.png
     sort_title: 04-2010
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 2010
         year.lte: 2020
@@ -97,8 +97,8 @@ collections:
   2020's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2020.png
     sort_title: 04-2020
-    smart filter:
-      sort by: audience_rating.desc
+    smart_filter:
+      sort_by: audience_rating.desc
       all:
         year.gte: 2020
         year.lte: 2030
