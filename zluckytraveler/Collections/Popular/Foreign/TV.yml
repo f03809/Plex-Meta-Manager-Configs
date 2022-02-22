@@ -10,7 +10,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
-      with_original_language: fr|de
+      with_original_language: en|fr
       sort_by: popularity.desc
       limit: 500
     filters:
