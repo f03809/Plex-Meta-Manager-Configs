@@ -21,14 +21,6 @@ collections:
       all:
         genre: Adventure
         
-  Anime:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Anime%203.jpg
-    sort_title: 06-Anime
-    smart_filter:
-      sort_by: title.asc  
-      all:
-        genre: Anime
-        
   Apocalypse:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Apocalypse%202.jpg
     sort_title: 06-Apocalypse
