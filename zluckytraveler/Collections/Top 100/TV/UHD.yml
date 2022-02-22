@@ -1,0 +1,17 @@
+######################################################
+#                 TOP 100 - UHD SHOWS                #
+######################################################
+
+
+collections:
+  Top 100 (UHD Shows):
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/Top%20100.png
+    sort_title: 02-Top 100
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      with_original_language: en
+      sort_by: vote_average.desc
+      limit: 1000
+    filters:
+      max_size: 100
