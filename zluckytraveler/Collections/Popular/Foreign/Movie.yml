@@ -10,6 +10,8 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
+      certification_country: US
+      certification.lte: R
       with_original_language: fr|de|ja|es
       sort_by: popularity.desc
       limit: 500
