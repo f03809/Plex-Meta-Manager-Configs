@@ -7,7 +7,7 @@
 collections:
   Action:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Action%201.jpg
-    sort_title: 05Action
+    sort_title: 06-Action
     smart_filter:
       sort_by: title.asc
       all:
@@ -20,7 +20,7 @@ collections:
       
   Adventure:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Adventure%202.jpg
-    sort_title: 05Adventure
+    sort_title: 06-Adventure
     smart_filter:
       sort_by: title.asc
       all:
@@ -33,7 +33,7 @@ collections:
       
   Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Animation%204.jpg
-    sort_title: 05Animation
+    sort_title: 06-Animation
     smart_filter: 
       sort_by: title.asc      
       all:
@@ -42,7 +42,7 @@ collections:
       
   Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Anime%203.jpg
-    sort_title: 05Anime
+    sort_title: 06-Anime
     smart_filter:
       sort_by: title.asc  
       all:
@@ -51,14 +51,14 @@ collections:
       
   Apocalypse:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Apocalypse%202.jpg
-    sort_title: 05Apocalypse
+    sort_title: 06-Apocalypse
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Biography:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Biography%202.jpeg
-    sort_title: 05Biography
+    sort_title: 06-Biography
     smart_filter:
       sort_by: title.asc
       all:
@@ -71,7 +71,7 @@ collections:
       
   Comedy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Comedy%201.jpg
-    sort_title: 05Comedy
+    sort_title: 06-Comedy
     smart_filter:
       sort_by: title.asc
       all:
@@ -84,7 +84,7 @@ collections:
       
   Cooking:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Cooking%201.jpeg
-    sort_title: 05Cooking
+    sort_title: 06-Cooking
     smart_filter:
       sort_by: title.asc
       all:
@@ -95,7 +95,7 @@ collections:
       
   Crime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Crime%203.jpg
-    sort_title: 05Crime
+    sort_title: 06-Crime
     smart_filter:
       sort_by: title.asc
       all:
@@ -108,7 +108,7 @@ collections:
       
   Documentary:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Documentary%201.jpg
-    sort_title: 05Documentary
+    sort_title: 06-Documentary
     smart_filter:
       sort_by: title.asc
       all:
@@ -119,7 +119,7 @@ collections:
       
   Drama:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Drama%201.jpg
-    sort_title: 05Drama
+    sort_title: 06-Drama
     smart_filter:
       sort_by: title.asc
       all:
@@ -132,7 +132,7 @@ collections:
       
   Family:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Family%203.jpeg
-    sort_title: 05Family
+    sort_title: 06-Family
     smart_filter:
       sort_by: title.asc
       all:
@@ -141,14 +141,14 @@ collections:
       
   Fan Edit:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
-    sort_title: 05Fan Edit
+    sort_title: 06-Fan Edit
     smart_filter:
       sort_by: title.asc
       validate: false
       
   Fantasy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fantasy%203.jpg
-    sort_title: 05Fantasy
+    sort_title: 06-Fantasy
     smart_filter:
       sort_by: title.asc
       all:
@@ -161,7 +161,7 @@ collections:
       
   Film-Noir:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Noir%201.jpg
-    sort_title: 05Film-Noir
+    sort_title: 06-Film-Noir
     smart_filter:
       sort_by: title.asc
       all:
@@ -173,21 +173,21 @@ collections:
       
   Gangster:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Fan%20Edit%201.jpg
-    sort_title: 05Gangster
+    sort_title: 06-Gangster
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Heist:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Heist%202.jpg
-    sort_title: 05Heist
+    sort_title: 06-Heist
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   History:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/History%201.jpeg
-    sort_title: 05History
+    sort_title: 06-History
     smart_filter:
       sort_by: title.asc
       all:
@@ -199,7 +199,7 @@ collections:
       
   Horror:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Horror%201.jpg
-    sort_title: 05Horror
+    sort_title: 06-Horror
     smart_filter:
       sort_by: title.asc
       all:
@@ -212,14 +212,14 @@ collections:
       
   LGBTQ+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/LGBTQ%2B%201.jpg
-    sort_title: 05LGBTQ+
+    sort_title: 06-LGBTQ+
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Martial Arts:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Martial%20Arts%202.jpg
-    sort_title: 05Martial Arts
+    sort_title: 06-Martial Arts
     smart_filter:
       sort_by: title.asc
       all:
@@ -231,7 +231,7 @@ collections:
       
   Music:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Music%202.jpg
-    sort_title: 05Music
+    sort_title: 06-Music
     smart_filter:
       sort_by: title.asc
       all:
@@ -245,7 +245,7 @@ collections:
       
   Musical:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Musical%201.jpg
-    sort_title: 05Musical
+    sort_title: 06-Musical
     smart_filter:
       sort_by: title.asc
       all:
@@ -257,7 +257,7 @@ collections:
       
   Mystery:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Mystery%202.jpg
-    sort_title: 05Mystery
+    sort_title: 06-Mystery
     smart_filter:
       sort_by: title.asc
       all:
@@ -270,7 +270,7 @@ collections:
       
   News:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/News.jpg
-    sort_title: 05News
+    sort_title: 06-News
     smart_filter:
       sort_by: title.asc
       all:
@@ -279,7 +279,7 @@ collections:
       
   Politics:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Politics.jpg
-    sort_title: 05Politics
+    sort_title: 06-Politics
     smart_filter:
       sort_by: title.asc
       all:
@@ -288,14 +288,14 @@ collections:
       
   Pandemic:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Pandemic%203.jpg
-    sort_title: 05Pandemic
+    sort_title: 06-Pandemic
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Reality:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Reality.jpg
-    sort_title: 05Reality
+    sort_title: 06-Reality
     smart_filter:
       sort_by: title.asc
       all:
@@ -306,7 +306,7 @@ collections:
       
   Romance:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Romance%204.jpg
-    sort_title: 05Romance
+    sort_title: 06-Romance
     smart_filter:
       sort_by: title.asc
       all:
@@ -319,7 +319,7 @@ collections:
       
   Sci-Fi:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Sci-Fi%202.jpg
-    sort_title: 05Sci-Fi
+    sort_title: 06-Sci-Fi
     smart_filter:
       sort_by: title.asc
       all:
@@ -332,7 +332,7 @@ collections:
       
   Shorts:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Short%203.jpeg
-    sort_title: 05Shorts
+    sort_title: 06-Shorts
     smart_filter:
       sort_by: title.asc
       all:
@@ -341,7 +341,7 @@ collections:
       
   Soap Opera:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Soap%20Opera.jpg
-    sort_title: 05Soap Opera
+    sort_title: 06-Soap Opera
     smart_filter:
       sort_by: title.asc
       all:
@@ -350,14 +350,14 @@ collections:
       
   Space:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Space%202.jpg
-    sort_title: 05Space
+    sort_title: 06-Space
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Sports:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Sports%203.jpg
-    sort_title: 05Sports
+    sort_title: 06-Sports
     smart_filter:
       sort_by: title.asc
       all:
@@ -369,28 +369,28 @@ collections:
       
   Spy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Spy%201.jpg
-    sort_title: 05Spy
+    sort_title: 06-Spy
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Stand Up:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Stand%20Up%202.jpg
-    sort_title: 05Stand Up
+    sort_title: 06-Stand Up
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Super Hero:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Super%20Hero%202.jpg
-    sort_title: 05Super Hero
+    sort_title: 06-Super Hero
     smart_filter:
       sort_by: title.asc  
       validate: false
       
   Thriller:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Thriller%202.jpg
-    sort_title: 05Thriller
+    sort_title: 06-Thriller
     smart_filter:
       sort_by: title.asc
       all:
@@ -403,7 +403,7 @@ collections:
       
   Talk Show:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Talk%20Show.jpeg
-    sort_title: 05Talk Show
+    sort_title: 06-Talk Show
     smart_filter:
       sort_by: title.asc
       any:
@@ -414,7 +414,7 @@ collections:
       
   Travel:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Travel%201.jpg
-    sort_title: 05Travel
+    sort_title: 06-Travel
     smart_filter:
       sort_by: title.asc
       all: 
@@ -425,7 +425,7 @@ collections:
       
   War:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/War%202.jpg
-    sort_title: 05War
+    sort_title: 06-War
     smart_filter:
       sort_by: title.asc
       all:
@@ -438,7 +438,7 @@ collections:
       
   Western:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Western%203.jpg
-    sort_title: 05Westerns
+    sort_title: 06-Westerns
     smart_filter:
       sort_by: title.asc
       all:
