@@ -279,6 +279,7 @@ collections:
       sort_by: title.asc
       all: 
         genre: Travel
+        
   War:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/War%202.jpg
     sort_title: 06-War
@@ -286,6 +287,7 @@ collections:
       sort_by: title.asc
       all:
         genre: War
+        
   Western:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Artwork/Western%203.jpg
     sort_title: 06-Westerns
