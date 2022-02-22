@@ -9,10 +9,6 @@ collections:
     sort_title: 02-Top 100
     collection_order: custom
     sync_mode: sync
-    tmdb_discover:
-      certification_country: US
-      certification.lte: PG
-      sort_by: vote_average.desc
-      limit: 500
+    mdblist_list: https://mdblist.com/lists/zluckytraveler/top-100-shows-kids/
     filters:
       max_size: 100
