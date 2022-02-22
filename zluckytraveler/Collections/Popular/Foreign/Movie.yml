@@ -14,6 +14,3 @@ collections:
       certification.lte: PG
       with_original_language: en|fr
       sort_by: popularity.desc
-      limit: 500
-    filters:
-      max_size: 50
