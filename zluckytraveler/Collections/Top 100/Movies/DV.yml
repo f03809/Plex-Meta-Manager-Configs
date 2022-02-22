@@ -1,10 +1,10 @@
 ######################################################
-#            TOP 100 - DOLBY VISION MOVIES           #
+#                  TOP 100 - DV MOVIES               #
 ######################################################
 
 
 collections:
-  Top 100 (DV Movies):
+  Top 100 Movies - DV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/Top%20100.png
     sort_title: 02-Top 100
     collection_order: custom
