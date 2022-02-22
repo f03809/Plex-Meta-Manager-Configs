@@ -11,6 +11,7 @@ collections:
     sync_mode: sync
     tmdb_discover:
       with_original_language: fr|de|ja|es
+      Sort_by: popularity.desc
       limit: 500
     filters:
       max_size: 50
