@@ -9,6 +9,6 @@ collections:
     sort_title: 01-Trending Shows
     collection_order: custom
     sync_mode: sync
-    tmdb_trending_daily: 500
+    tmdb_trending_daily: 1000
     filters:
       max_size: 50
