@@ -116,7 +116,7 @@ collections:
       
   Pierrot:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Pierrot.png
-    sort_title: 05-Studio Pierrot
+    sort_title: 05-Pierrot
     smart_filter:
       sort_by: title.asc
       any:
