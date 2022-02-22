@@ -10,8 +10,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     tmdb_discover:
-      with_original_language: ar|as|ca|zh|cs|da|nl|dz|et|fi|fr|gl|ka|de|el|gu|he|hi|hu|is|id|it|ja|kn|kk|ko|ku|kj|lv|ln|ms|ml|mr|mn|nb|no|pa|fa|pl|ps|pt|qu|ro|ru|sr|sk|es|sw|sv|ta|te|th|bo|tl|tn|tr|ur|vi|wo|xh|zu|bn|ho
-      sort_by: popularity.desc
+      with_original_language: zh|cs|da|nl|et|fi|fr|de|el|he|hi|hu|id|it|ja|ko|lv|ms|ml|no|pa|fa|pl|ps|pt|ro|ru|sr|sk|es|sv|ta|te|th|tl|tr|vi|
       limit: 500
     filters:
       max_size: 50
