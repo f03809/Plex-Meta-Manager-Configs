@@ -6,7 +6,7 @@
 collections:
   A-1 Pictures:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/A-1%20Pictures.png
-    sort_title: 06A-1 Pictures
+    sort_title: 05-A-1 Pictures
     smart_filter:
       sort_by: title.asc
       any:
@@ -15,7 +15,7 @@ collections:
       
   Adult Swim:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
-    sort_title: 06Adult Swim
+    sort_title: 05-Adult Swim
     smart_filter:
       sort_by: title.asc
       any:
@@ -24,7 +24,7 @@ collections:
       
   Amazon:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
-    sort_title: 06Amazon
+    sort_title: 05-Amazon
     smart_filter:
       sort_by: title.asc
       any:
@@ -33,7 +33,7 @@ collections:
       
   Brains Base:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Brains%20Base.png
-    sort_title: 06Brains Base
+    sort_title: 05-Brains Base
     smart_filter:
       sort_by: title.asc
       any:
@@ -44,7 +44,7 @@ collections:
       
   Gainax:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Gainax.png
-    sort_title: 06Gainax
+    sort_title: 05-Gainax
     smart_filter:
       sort_by: title.asc
       any:
@@ -53,7 +53,7 @@ collections:
       
   Production I.G:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/I.G.%20Productions.png
-    sort_title: 06Production I.G
+    sort_title: 05-Production I.G
     smart_filter:
       sort_by: title.asc
       any:
@@ -62,7 +62,7 @@ collections:
       
   J.C.Staff:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/J.C.%20Staff.png
-    sort_title: 06J.C.Staff
+    sort_title: 05-J.C.Staff
     smart_filter:
       sort_by: title.asc
       any:
@@ -71,7 +71,7 @@ collections:
       
   Kyoto Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Kyoto%20Animation.png
-    sort_title: 06Kyoto Animation
+    sort_title: 05-Kyoto Animation
     smart_filter:
       sort_by: title.asc
       any:
@@ -80,7 +80,7 @@ collections:
       
   Madhouse:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Madhouse.png
-    sort_title: 06Madhouse
+    sort_title: 05-Madhouse
     smart_filter:
       sort_by: title.asc
       any:
@@ -89,7 +89,7 @@ collections:
       
   MAPPA:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/MAPPA.png
-    sort_title: 06MAPPA
+    sort_title: 05-MAPPA
     smart_filter:
       sort_by: title.asc
       any:
@@ -98,7 +98,7 @@ collections:
       
   Netflix:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
-    sort_title: 06Netflix
+    sort_title: 05-Netflix
     smart_filter:
       sort_by: title.asc
       any:
@@ -107,7 +107,7 @@ collections:
       
   P.A. Works:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/P.A.%20Works.png
-    sort_title: 06P.A. Works
+    sort_title: 05-P.A. Works
     smart_filter:
       sort_by: title.asc
       any:
@@ -116,7 +116,7 @@ collections:
       
   Pierrot:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Pierrot.png
-    sort_title: 06Studio Pierrot
+    sort_title: 05-Studio Pierrot
     smart_filter:
       sort_by: title.asc
       any:
@@ -127,7 +127,7 @@ collections:
       
   Shaft:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Shaft.png
-    sort_title: 06Shaft
+    sort_title: 05-Shaft
     smart_filter:
       sort_by: title.asc
       any:
@@ -138,7 +138,7 @@ collections:
       
   Studio Deen:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Studio%20DEEN.png
-    sort_title: 06Studio Deen
+    sort_title: 05-Studio Deen
     smart_filter:
       sort_by: title.asc
       any:
@@ -147,7 +147,7 @@ collections:
       
   Studio Ghibli:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Studio%20Ghibli.png
-    sort_title: 06Studio Ghibli
+    sort_title: 05-Studio Ghibli
     smart_filter:
       sort_by: title.asc
       any:
@@ -156,7 +156,7 @@ collections:
       
   Sunrise Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Sunrise%20Animation.png
-    sort_title: 06Sunrise
+    sort_title: 05-Sunrise
     smart_filter:
       sort_by: title.asc
       any:
@@ -167,7 +167,7 @@ collections:
       
   Toei Animation:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Toei%20Animation.png
-    sort_title: 06Toei
+    sort_title: 05-Toei
     smart_filter:
       sort_by: title.asc
       any:
@@ -181,7 +181,7 @@ collections:
       
   Ufotable:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/UFO%20Table.png
-    sort_title: 06Ufotable
+    sort_title: 05-Ufotable
     smart_filter:
       sort_by: title.asc
       any:
@@ -192,7 +192,7 @@ collections:
       
   White Fox Studios:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/White%20Fox.png
-    sort_title: 06White Fox
+    sort_title: 05-White Fox
     smart_filter:
       sort_by: title.asc
       any:
@@ -201,7 +201,7 @@ collections:
       
   Wit Studio:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/WIT%20Studio.png
-    sort_title: 06Wit Studio
+    sort_title: 05-Wit Studio
     smart_filter:
       sort_by: title.asc
       any:
@@ -210,7 +210,7 @@ collections:
       
   Youtube:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
-    sort_title: 06Youtube
+    sort_title: 05-Youtube
     smart_filter:
       sort_by: title.asc
       any:
