@@ -1,1 +1,18 @@
+######################################################
+#                TOP 100 - KIDS SHOWS                #
+######################################################
 
+
+collections:
+  Top 100 Shows - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Popular/Popular%20Movies.png
+    sort_title: 01-Popular Movies
+    collection_order: custom
+    sync_mode: sync
+    tmdb_discover:
+      certification_country: US
+      certification.lte: PG
+      sort_by: vote_average.desc
+      limit: 500
+    filters:
+      max_size: 100
