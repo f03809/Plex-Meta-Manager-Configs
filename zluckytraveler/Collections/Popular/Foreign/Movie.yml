@@ -11,6 +11,6 @@ collections:
     sync_mode: sync
     tmdb_discover:
       with_original_language: zh|da|nl|fi|fr|de|hi|hu|id|it|ja|ko|ms|no|pa|fa|pl|ps|pt|ro|ru|sr|es|sv|ta|te|th|tl|tr|vi
-      limit: 500
+      limit: 5000
     filters:
       max_size: 50
