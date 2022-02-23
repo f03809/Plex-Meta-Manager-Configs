@@ -1,13 +1,13 @@
 ######################################################
-#                    AWARDS - OSCARS                 #
+#                AWARDS - OSCARS MOVIES              #
 ######################################################
 
 
 collections:
-  Oscar Winners:
+  Oscar Winners Movies - HD:
     url_poster: 
     sort_title: 03-Awards Oscars
     collection_order: custom
     sync_mode: sync
     imdb_list: 
-      url: 
+      url: https://www.imdb.com/search/title/?title_type=feature&groups=oscar_winner&sort=alpha,asc
