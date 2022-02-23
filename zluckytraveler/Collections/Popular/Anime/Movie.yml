@@ -9,6 +9,6 @@ collections:
     sort_title: 01-Popular
     collection_order: custom
     sync_mode: sync
-    anilist_popular: 500
+    anilist_popular: 1000
     filters:
       max_size: 50
