@@ -1,1 +1,13 @@
+######################################################
+#                    AWARDS - OSCARS                 #
+######################################################
 
+
+collections:
+  Oscar Winners:
+    url_poster: 
+    sort_title: 03-Awards Oscars
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: 
