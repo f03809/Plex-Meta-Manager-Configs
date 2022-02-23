@@ -6,8 +6,8 @@
 collections:
   Emmy Winners - UHD:
     url_poster: 
-    sort_title: 03-Awards Oscars
+    sort_title: 03-Awards Emmy
     collection_order: custom
     sync_mode: sync
     imdb_list: 
-      url: https://www.imdb.com/search/title/?title_type=feature&groups=oscar_winner&sort=alpha,asc
+      url: https://www.imdb.com/search/title/?title_type=tv_series&groups=emmy_winner&sort=alpha,asc
