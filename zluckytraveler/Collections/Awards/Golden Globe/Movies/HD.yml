@@ -4,7 +4,7 @@
 
 
 collections:
-  Golden Globes Movies:
+  Golden Globes Movies -HD:
     url_poster: 
     sort_title: 03-Awards Golden Globes
     collection_order: custom
