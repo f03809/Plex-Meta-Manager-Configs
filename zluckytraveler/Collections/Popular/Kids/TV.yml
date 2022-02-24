@@ -12,6 +12,5 @@ collections:
     tmdb_discover:
       with_genres: 10751, 10762
       sort_by: popularity.desc
-      limit: 1000
-    filters:
-      max_size: 50
+      limit: 500
+    limit: 50
