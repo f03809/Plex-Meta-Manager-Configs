@@ -11,5 +11,4 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&user_rating=5.0,10.0&num_votes=10000,&sort=user_rating,desc
-    filters:
-      max_size: 100
+    limit: 100
