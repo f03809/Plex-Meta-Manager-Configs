@@ -3,8 +3,7 @@
 ######################################################
 
 
-collections:
-      
+collections:  
   2010's Test:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2010.png
     sort_title: 04-2010
