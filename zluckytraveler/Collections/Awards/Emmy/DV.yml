@@ -5,7 +5,7 @@
 
 collections:
   Emmy Winners - DV:
-    url_poster: 
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy%20Award%20Winners.png
     sort_title: 03-Awards Emmy
     collection_order: custom
     sync_mode: sync
