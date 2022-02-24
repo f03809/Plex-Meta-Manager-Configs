@@ -4,7 +4,7 @@
 
 
 collections:
-  2010's:
+  2010's Test:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2010.png
     sort_title: 04-2010
     smart_filter:
@@ -15,7 +15,7 @@ collections:
       limit: 100
     limit: 100  
       
-  2020's:
+  2020's Test:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2020.png
     sort_title: 04-2020
     smart_filter:
