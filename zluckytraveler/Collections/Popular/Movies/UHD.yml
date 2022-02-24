@@ -11,6 +11,5 @@ collections:
     sync_mode: sync
     tmdb_discover:
       sort_by: popularity.desc
-      limit: 1000
-    filters:
-      max_size: 50
+      limit: 500
+    limit: 50
