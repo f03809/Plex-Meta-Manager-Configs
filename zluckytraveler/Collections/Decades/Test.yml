@@ -3,26 +3,24 @@
 ######################################################
 
 
-collections:  
-  2010's Test:
+collections:
+  2010's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2010.png
     sort_title: 04-2010
-    collection_order: custom
-    sync_mode: sync
-    tmdb_discover:
-      sort_by: vote_average.desc
-      release_date.gte: 01/01/2010
-      release_date.lte: 12/31/2019
+    smart_filter:
+      sort_by: audience_rating.desc
+      all:
+        year.gte: 2010
+        year.lte: 2020
       limit: 100
     limit: 100  
       
-  2020's Test:
+  2020's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2020.png
     sort_title: 04-2020
-    collection_order: custom
-    sync_mode: sync
-    tmdb_discover:
-      sort_by: vote_average.desc
-      release_date.gte: 01/01/2020
-      release_date.lte: 12/31/2029
+    smart_filter:
+      sort_by: audience_rating.desc
+      all:
+        year.gte: 2020
+        year.lte: 2030
     limit: 100
