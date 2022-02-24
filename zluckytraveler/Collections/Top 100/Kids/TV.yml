@@ -9,6 +9,5 @@ collections:
     sort_title: 02-Top 100
     collection_order: custom
     sync_mode: sync
-    mdblist_list: https://mdblist.com/lists/zluckytraveler/top-100-shows-kids/
-    filters:
-      max_size: 100
+    imdb_list: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&user_rating=6.0,&num_votes=1000,&genres=family&languages=en&sort=user_rating,desc
+    limit: 100
