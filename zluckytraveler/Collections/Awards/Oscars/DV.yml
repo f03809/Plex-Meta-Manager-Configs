@@ -4,7 +4,7 @@
 
 
 collections:
-  Oscar Winners Movies - DV:
+  Oscar Winners - DV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Oscar%20Award%20Winners.png
     sort_title: 03-Awards Oscars
     collection_order: custom
