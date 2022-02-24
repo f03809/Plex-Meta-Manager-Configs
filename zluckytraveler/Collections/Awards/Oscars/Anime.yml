@@ -1,0 +1,13 @@
+######################################################
+#                AWARDS - OSCARS MOVIES              #
+######################################################
+
+
+collections:
+  Oscar Winners - Anime:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Oscar%20Award%20Winners.png
+    sort_title: 03-Awards Oscars
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,short&groups=oscar_winner&sort=alpha,asc
