@@ -9,5 +9,5 @@ collections:
     sort_title: 01-Trending Movies
     collection_order: custom
     sync_mode: sync
-    tmdb_trending_daily: 1000
+    tmdb_trending_daily: 1500
     limit: 50
