@@ -4,7 +4,7 @@
 
 
 collections:
-  Golden Globe TV Show:
+  Golden Globe TV Shows:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe%20Winners.png
     sort_title: 03-Awards Golden Globes
     collection_order: custom
