@@ -14,7 +14,9 @@ collections:
         - A&E
         - A+E Networks
         - A&E Television Networks
-        network: A&E
+        network: 
+        - Planète+ A&E
+        - A&E
       validate: false
       
   ABC:
@@ -36,6 +38,16 @@ collections:
         - ABC Comedy
         - ABC Kids
         - ABC
+      validate: false
+  
+  Acorn TV: 
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Acorn%20TV.png
+    sort_title: 05-Acorn TV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Acorn TV
+        network: Acorn TV
       validate: false
       
   Adult Swim: 
@@ -101,7 +113,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: BBC
+        studio: 
+        - BBC
+        - CBeebies
         network:
         - BBC
         - BBC One
@@ -118,6 +132,7 @@ collections:
         - BBC Choice
         - BBC America
         - CBBC
+        - CBeebies
       validate: false
       
   BET:
@@ -422,6 +437,16 @@ collections:
         network: Disney+ Hotstar
       validate: false
   
+  DIY Network:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/DIY%20Network.png
+    sort_title: 05-E4
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: DIY networks
+        network: DIY Network
+      validate: false
+      
   E!:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E!.png
     sort_title: 05-E!
@@ -574,6 +599,29 @@ collections:
       any:
         network: FXX
       validate: false
+  
+  G4:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/G4.png
+    sort_title: 05-G4
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: G4 Media
+        network: 
+        - G4TechTV
+        - G4
+        - TechTV
+      validate: false
+  
+  Global:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Global.png
+    sort_title: 05-Global
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Global Television Network
+        network: Global TV
+      validate: false
       
   Hallmark:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hallmark.png
@@ -581,7 +629,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: Hallmark
+        studio: Hallmark 
         network:
         - Hallmark Channel
         - Hallmark Movies Now
@@ -714,6 +762,18 @@ collections:
         - ITV4
         - ITVBe   
       validate: false
+  
+  Lifestyle:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Lifestyle.png
+    sort_title: 05-Lifestyle
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Lifestyle 
+        network:
+        - Lifestyle FOOD
+        - Lifestyle
+      validate: false
       
   Lifetime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Lifetime.png
@@ -752,8 +812,12 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is: MotorTrend Group
-        network: MotorTrend
+        studio.is: 
+        - MotorTrend Group
+        - Velocity Channel
+        network: 
+        - MotorTrend
+        - Velocity
       validate: false
       
   MTV:
@@ -915,6 +979,15 @@ collections:
       any:
         network: Pop
       validate: false
+  
+  Quest:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Quest.png
+    sort_title: 05-Quest
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Quest
+      validate: false
       
   Quibi:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Quibi.png
@@ -941,6 +1014,15 @@ collections:
         - Rai 2
         - RaiPlay
         - Rai YoYo
+      validate: false
+  
+  Roku Channel:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Roku%20Channel.png
+    sort_title: 05-Roku Channel
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: The Roku Channel
       validate: false
       
   RTÉ:
@@ -1189,7 +1271,7 @@ collections:
       any:
         network: The CW
       validate: false
-        
+      
   The WB:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WB.png
     sort_title: 05-The WB
@@ -1246,6 +1328,28 @@ collections:
         network: truTV
       validate: false
   
+  TV Land:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TV%20Land.png
+    sort_title: 05-TV Land
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: TV Land
+      validate: false
+  
+  TVNZ:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TVNZ.png
+    sort_title: 05-TVNZ
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: TVNZ
+        network: 
+        - TVNZ
+        - TVNZ 1
+        - TVNZ 2
+      validate: false
+      
   UPN:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/UPN.png
     sort_title: 05-UPN
@@ -1279,6 +1383,16 @@ collections:
         - VH1 Classic
         - VH1
       validate: false
+  
+  Viaplay:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Viaplay.png
+    sort_title: 05-VH1
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Viaplay
+        network: Viaplay
+      validate: false
       
   Vice:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
@@ -1298,6 +1412,28 @@ collections:
         - Vice on TV (US)
         - Viceland  
         - Viceland (US)
+      validate: false
+  
+  WE tv:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WE%20tv.png
+    sort_title: 05-WE tv
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: WE tv
+      validate: false WWE Network
+  
+  WWE:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WWE%20.png
+    sort_title: 05-WWE
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is:
+        - World Wrestling Entertainment (WWE)
+        - WWE Home Video
+        - WWE Studios
+        network: WWE Network
       validate: false
       
   YouTube:
