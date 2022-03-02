@@ -838,7 +838,31 @@ collections:
         - Nickelodeon
         - Nicktoons
       validate: false
-        
+  
+  Nine Network:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nine%20Network.png
+    sort_title: 05-Nine Network
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is:
+        - Nine Network Australia
+        - Nine Film & TV Pty
+        network: Nine Network
+      validate: false
+  
+  Oprah Winfrey Network:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Oprah%20Winfrey%20Network%202.png
+    sort_title: 05-Oprah Winfrey Network
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Oprah
+        network: 
+        - Oprah Winfrey Network
+        - OWN
+      validate: false
+      
   Oxygen:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Oxygen.png
     sort_title: 05-Oxygen
@@ -880,6 +904,15 @@ collections:
       sort_by: title.asc
       any:
         network: Peacock
+      validate: false
+  
+  Pop:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/POP.png
+    sort_title: 05-Pop
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Pop
       validate: false
       
   Quibi:
@@ -969,7 +1002,16 @@ collections:
         - Science Channel
         - Science
       validate: false
-        
+  
+  Showcase:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showcase.png
+    sort_title: 05-Showcase
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Showcase
+      validate: false
+      
   Showtime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
     sort_title: 05-Showtime
@@ -979,7 +1021,16 @@ collections:
         studio: Showtime
         network: Showtime
       validate: false
-        
+  
+  Shudder:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Shudder.png
+    sort_title: 05-Shudder
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Shudder
+      validate: false
+      
   Sky:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky.png
     sort_title: 05-Sky
@@ -988,31 +1039,63 @@ collections:
       any:
         studio.is: 
         - Sky
-        - Sky 1
-        - Sky Arts
-        - Sky Atlantic
         - Sky Sports
         - Sky UK
+        - Sky Cinema
+        - Sky Deutschland
+        - Sky Italia
         network:
-        - Sky1
         - Sky Witness
+        - Sky History
+        - Sky Max
         - Sky Sports F1
         - Sky Sports
-        - Sky One
-        - Sky Max
         - Sky Living
         - Sky Comedy
         - Sky Nature
         - Sky Documentaries
         - Sky Crime
-        - Sky Atlantic 
-        - Sky Atlantic
-        - Sky Arts
         - Sky Cinema
         - Sky Sports
         - Sky Sports F1
       validate: false
-        
+  
+  Sky Arts:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20Arts.png
+    sort_title: 05-Sky Arts
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Sky Arts
+        network: Sky Arts
+      validate: false
+  
+  Sky Atlantic:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20AAtlantic.png
+    sort_title: 05-Sky Atlantic
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Sky Atlantic
+        network: 
+        - Sky Atlantic
+        - Sky Atlantic
+      validate: false
+      
+  Sky One:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20One.png
+    sort_title: 05-Sky One
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: 
+        - Sky One
+        - Sky 1
+        network: 
+        - Sky1
+        - Sky One
+      validate: false
+      
   Smithsonian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Smithsonian%20Channel.png
     sort_title: 05-Smithsonian
@@ -1034,7 +1117,17 @@ collections:
         studio.is: Spike
         network: Spike   
       validate: false
-        
+  
+  Stan:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Stan.png
+    sort_title: 05-Stan
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Stan Australia
+        network: Stan  
+      validate: false
+      
   Starz:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz.png
     sort_title: 05-Starz
@@ -1151,7 +1244,16 @@ collections:
       any:
         network: truTV
       validate: false
-        
+  
+  UPN:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/UPN.png
+    sort_title: 05-UPN
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: UPN
+      validate: false
+      
   USA:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/USA.png
     sort_title: 05-USA
