@@ -570,7 +570,7 @@ collections:
         studio: Freeform
         network: Freeform
       validate: false
-  
+      
   Fuji TV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Fuji%20TV.png
     sort_title: 05-Fuji TV
