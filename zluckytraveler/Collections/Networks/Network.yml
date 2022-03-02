@@ -438,7 +438,7 @@ collections:
       validate: false
   
   DIY Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/DIY%20Network.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/DIY.png
     sort_title: 05-E4
     smart_filter:
       sort_by: title.asc
