@@ -1154,7 +1154,7 @@ collections:
       validate: false
       
   Sky Atlantic:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20AAtlantic.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20Atlantic.png
     sort_title: 05-Sky Atlantic
     smart_filter:
       sort_by: title.asc
