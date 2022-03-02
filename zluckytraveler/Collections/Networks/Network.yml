@@ -117,6 +117,7 @@ collections:
         - BBC HD
         - BBC Choice
         - BBC America
+        - CBBC
       validate: false
       
   BET:
