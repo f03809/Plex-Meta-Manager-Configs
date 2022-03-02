@@ -493,7 +493,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
+        studio.is: 
         - ESPN Nederland
         - ESPN
         network: ESPN
@@ -897,11 +897,17 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: 
-        - Nickelodeon
-        network: 
-        - Nickelodeon
-        - Nicktoons
+        studio: Nickelodeon
+        network: Nickelodeon
+      validate: false
+      
+  Nick Toons.:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nicktoons.png
+    sort_title: 05-Nick Jr.
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Nicktoons
       validate: false
       
   Nine Network:
@@ -1351,7 +1357,7 @@ collections:
       validate: false
       
   UPN:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/UPN.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/UPN%202.png
     sort_title: 05-UPN
     smart_filter:
       sort_by: title.asc
