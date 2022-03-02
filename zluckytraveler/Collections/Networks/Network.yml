@@ -77,7 +77,7 @@ collections:
       validate: false
       
   Animal Planet:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet5202.png
     sort_title: 05-Animal Planet
     smart_filter:
       sort_by: title.asc
@@ -132,6 +132,15 @@ collections:
         - BET
         - BET+
       validate: false
+  
+  Boomerang:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Boomerang.png
+    sort_title: 05-Boomerang
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Boomerang
+      validate: false
       
   Bravo:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo.png
@@ -166,6 +175,21 @@ collections:
       any:
         studio: Cartoon Network
         network: Cartoon Network
+      validate: false
+  
+  CBC:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CBC.png
+    sort_title: 05-CBC
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is:
+        - Canadian Broadcasting Corporation (CBC)
+        - CBC
+        network: 
+        - CBC Television
+        - CBC Gem
+        - CBC (CA)
       validate: false
       
   CBS:
@@ -211,6 +235,36 @@ collections:
       any:
         network: Cinemax
       validate: false
+  
+  City:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/City.png
+    sort_title: 05-City
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: City
+      validate: false
+   
+  CMT:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CMT%201.png
+    sort_title: 05-CMT
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: CMT
+      validate: false
+      
+  CNN:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CNN.png
+    sort_title: 05-CNN
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is:
+        - Cable News Network (CNN)
+        - CNN Films
+        network: CNN
+      validate: false
       
   Comedy Central:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comedy%20Central.png
@@ -223,6 +277,40 @@ collections:
         - Comedy Central
         - Comedy Central (UK)
         - Comedy Central Latinoamérica
+      validate: false
+  
+  Comic-Con HQ:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comic%20Con%20HQ%20.png
+    sort_title: 05-Comic-Con HQ
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Comic-Con HQ
+      validate: false
+  
+  Crackle:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Crackle.png
+    sort_title: 05-Crackle
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Crackle
+      validate: false
+  
+  CTV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CTV.png
+    sort_title: 05-CTV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is:
+        - CTV
+        - CTV Television Network
+        network:
+        - CTV Comedy Channel
+        - CTV Comedy
+        - CTV Two
+        - CTV
       validate: false
       
   Dave:
@@ -285,26 +373,35 @@ collections:
         - discovery+
         - Discovery+ (UK)
       validate: false
-        
-  Disney:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney.png
-    sort_title: 05-Disney
+  
+  Disney Channel:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%202.png
+    sort_title: 05-Disney Channel
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is:
-        - Disney Channel
-        - Disney Enterprises
-        - Disney Television Animation
-        - Walt Disney Animation Studios
-        network: 
-        - Disney Channel
-        - Disney XD
-        - Toon Disney
-        - Disney Junior
-        - Playhouse Disney
+        studio.is: Disney Channel
+        network: Disney Channel
       validate: false
-        
+  
+  Disney Junior:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%20Junior.png
+    sort_title: 05-Disney Junior
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Disney Junior
+      validate: false
+  
+  Disney XD:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%20XD.png
+    sort_title: 05-Disney XD
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Disney XD
+      validate: false
+      
   Disney+:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
     sort_title: 05-Disney+
@@ -323,7 +420,26 @@ collections:
       any:
         network: Disney+ Hotstar
       validate: false
-        
+  
+  E!:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E!.png
+    sort_title: 05-E!
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: E!
+      validate: false
+  
+   E4:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E4.png
+    sort_title: 05-E4
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: E4productions
+        network: E4
+      validate: false
+      
   Epix:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Epix.png
     sort_title: 05-Epix
@@ -335,14 +451,14 @@ collections:
         - Epix (I)
         network: Epix
       validate: false
-      
-  E!:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E!.png
-    sort_title: 05-E!
+  
+  ESPN+:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ESPN%2B.png
+    sort_title: 05-ESPN+
     smart_filter:
       sort_by: title.asc
       any:
-        network: E!
+        network: ESPN+
       validate: false
       
   ESPN:
@@ -351,12 +467,21 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio: ESPN
-        network: 
+        studio: 
+        - ESPN Nederland
         - ESPN
-        - ESPN+
+        network: ESPN
       validate: false
-        
+  
+  Facebook Watch:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Facebook%20Watch.png
+    sort_title: 05-Facebook Watch
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: Facebook Watch
+      validate: false
+      
   Food Network:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Food%20Network.png
     sort_title: 05-Food Network
@@ -419,18 +544,34 @@ collections:
         studio: Freeform
         network: Freeform
       validate: false
-      
+  
+  Fuji TV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Fuji%20TV.png
+    sort_title: 05-Fuji TV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Fuji Television Network
+        network: Fuji TV
+      validate: false
+  
   FX:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
     sort_title: 05-FX
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is:
-        - FX Productions
-        network:
-        - FX
-        - FXX
+        studio.is: FX Productions
+        network: FX
+      validate: false
+  
+  FXX:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FXX.png
+    sort_title: 05-FXX
+    smart_filter:
+      sort_by: title.asc
+      any:
+        network: FXX
       validate: false
       
   Hallmark:
@@ -506,7 +647,17 @@ collections:
         - History
         - History Canada
       validate: false
-        
+  
+  HLN:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HLN.png
+    sort_title: 05-HLN
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: HLN
+        network: HLN
+      validate: false
+      
   Hulu:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
     sort_title: 05-Hulu
@@ -525,6 +676,16 @@ collections:
       any:
         studio.is: IFC TV
         network: IFC
+      validate: false
+  
+  IMDb TV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/IMDB%20TV.png
+    sort_title: 05-IMDb TV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: IMDb TV
+        network: IMDb TV
       validate: false
       
   Investigation Discovery:
@@ -583,7 +744,17 @@ collections:
         title: MasterClass
         network: MasterClass
       validate: false
-        
+  
+  MotorTrend:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Motor%20Trend.png
+    sort_title: 05-MotorTrend
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: MotorTrend Group
+        network: MotorTrend
+      validate: false
+      
   MTV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV.png
     sort_title: 05-MTV
@@ -644,7 +815,17 @@ collections:
         studio: Netflix
         network: Netflix
       validate: false
-        
+  
+  Nick Jr.:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nick%20Jr.png
+    sort_title: 05-Nick Jr.
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Nick Jr. Productions
+        network: Nick Jr.
+      validate: false
+      
   Nickelodeon:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nickelodeon.png
     sort_title: 05-Nickelodeon
@@ -653,10 +834,8 @@ collections:
       any:
         studio: 
         - Nickelodeon
-        - Nick Jr.
         network: 
         - Nickelodeon
-        - Nick Jr.
         - Nicktoons
       validate: false
         
