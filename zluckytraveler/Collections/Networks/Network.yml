@@ -89,7 +89,7 @@ collections:
       validate: false
       
   Animal Planet:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet5202.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet%202.png
     sort_title: 05-Animal Planet
     smart_filter:
       sort_by: title.asc
@@ -296,7 +296,7 @@ collections:
       validate: false
       
   Comic-Con HQ:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comic%20Con%20HQ%20.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comic%20Con%20HQ.png
     sort_title: 05-Comic-Con HQ
     smart_filter:
       sort_by: title.asc
@@ -728,7 +728,7 @@ collections:
       validate: false
       
   IMDb TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/IMDB%20TV.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/IMDb%20TV.png
     sort_title: 05-IMDb TV
     smart_filter:
       sort_by: title.asc
@@ -1017,7 +1017,7 @@ collections:
       validate: false
       
   Roku Channel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Roku%20Channel.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Roku.png
     sort_title: 05-Roku Channel
     smart_filter:
       sort_by: title.asc
@@ -1424,7 +1424,7 @@ collections:
       validate: false WWE Network
       
   WWE:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WWE%20.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WWE.png
     sort_title: 05-WWE
     smart_filter:
       sort_by: title.asc
