@@ -115,7 +115,7 @@ collections:
         - Greek
         - Ancient Greek
       validate: false
-  
+      
   Hebrew:
     url_poster:
     sort_title: 05-Hebrew
@@ -214,7 +214,7 @@ collections:
       any:
         audio_language: Malay
       validate: false
-  
+      
   Norwegian:
     url_poster:
     sort_title: 05-Norwegian
