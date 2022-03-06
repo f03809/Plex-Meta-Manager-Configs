@@ -257,8 +257,8 @@ collections:
         audio_language: Polish
       validate: false
       
-  Portuguese: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Portuguese-Portugal.png
-    url_poster:
+  Portuguese: 
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Portuguese-Portugal.png
     sort_title: 05-Portuguese
     smart_filter:
       sort_by: title.asc
