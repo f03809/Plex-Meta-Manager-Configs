@@ -13,7 +13,7 @@ collections:
         audio_language: 
         - Arabic
         - Urdu
-      
+      validate: false
       
   Bangla:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Bangla-Bengali.png
@@ -22,6 +22,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Bangla
+      validate: false  
       
   Chinese:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Chinese-China.png
@@ -34,7 +35,7 @@ collections:
         - Tibetan
         - Chinese (Taiwan)
         - Mongolian
-
+      validate: false
       
   Czech:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Czech-Czech%20Republic.png
@@ -43,7 +44,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Czech
-      
+      validate: false
       
   Danish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Danish-Denmark.png
@@ -52,7 +53,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Danish
-      
+      validate: false
       
   Dutch:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Dutch-Netherlands.png
@@ -63,7 +64,7 @@ collections:
         audio_language: 
         - Dutch
         - dutch
-      
+      validate: false
       
   Estonian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Estonian-Estonia.png
@@ -72,7 +73,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Estonian
-      
+      validate: false
       
   Filipino:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Filipino-Phillipines.png
@@ -84,7 +85,7 @@ collections:
         - Filipino
         - Cebuano
         - phi
-      
+      validate: false
       
   Finnish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Finnish-Finland.png
@@ -93,7 +94,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Finnish
-      
+      validate: false
       
   French:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/French-France.png
@@ -102,7 +103,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: French
-      
+      validate: false
       
   German:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/German-Germany.png
@@ -111,7 +112,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: German
-      
+      validate: false
       
   Greek:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Greek-Greece.png
@@ -122,7 +123,7 @@ collections:
         audio_language: 
         - Greek
         - Ancient Greek
-      
+      validate: false
       
   Hebrew:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Hebrew-Israel.png
@@ -131,7 +132,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Hebrew
-      
+      validate: false
       
   Hungarian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Hungarian-Hungary.png
@@ -140,7 +141,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Hungarian
-      
+      validate: false
       
   Icelandic:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Icelandic-Iceland.png
@@ -149,7 +150,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Icelandic
-      
+      validate: false
       
   Indian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Indian-India.png
@@ -167,7 +168,7 @@ collections:
         - Assamese
         - Kannada
         - telugu
-      
+      validate: false
       
   Indonesian:
     url_poster: https://github.com/zluckytraveler/Plex-Meta-Manager-Configs/blob/master/zluckytraveler/Posters/Languages/Foreign/Indonesian-Indonesia.png
@@ -176,7 +177,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Indonesian
-      
+      validate: false
       
   Italian:
     url_poster: https://github.com/zluckytraveler/Plex-Meta-Manager-Configs/blob/master/zluckytraveler/Posters/Languages/Foreign/Italian-Italy.png
@@ -185,7 +186,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Italian
-      
+      validate: false
       
   Japanese:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Japanese-Japan.png
@@ -194,7 +195,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Japanese
-      
+      validate: false
       
   Korean:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Korean-South%20Korea.png
@@ -203,7 +204,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Korean
-      
+      validate: false
       
   Latvian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Latvian-Latvia.png
@@ -212,7 +213,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Latvian
-      
+      validate: false
       
   Malaysian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Malay-Malaysian.png
@@ -221,7 +222,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Malay
-      
+      validate: false
       
   Norwegian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Norwegian-Norway.png
@@ -233,7 +234,7 @@ collections:
         - Norwegian
         - Norwegian Bokmål
         - Norwegian Nynorsk
-      
+      validate: false
       
   Persian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Persian-Iran.png
@@ -245,7 +246,7 @@ collections:
         - Persian
         - Kurdish
         - Pashto
-      
+      validate: false
       
   Polish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Polish-Poland.png
@@ -254,7 +255,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Polish
-      
+      validate: false
       
   Portuguese: 
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Portuguese-Portugal.png
@@ -263,7 +264,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Portuguese
-      
+      validate: false
       
   Punjabi:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Punjabi-Pakistan.png
@@ -272,7 +273,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Punjabi
-      
+      validate: false
       
   Romanian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Romanian-Romania.png
@@ -281,7 +282,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Romanian
-      
+      validate: false
       
   Russian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Russian-Russia.png
@@ -290,7 +291,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Russian
-      
+      validate: false
       
   Serbian:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Serbian-Serbia.png
@@ -299,7 +300,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Serbian
-      
+      validate: false
       
   Spanish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Spanish-Spain.png
@@ -310,7 +311,7 @@ collections:
         audio_language: 
         - Spanish
         - Galician
-      
+      validate: false
       
   Swedish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Swedish-Sweden.png
@@ -319,7 +320,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Swedish
-      
+      validate: false
       
   Thai:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Thai-Thailand.png
@@ -328,7 +329,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Thai
-      
+      validate: false
       
   Turkish:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Turkish-Turkey.png
@@ -337,7 +338,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Turkish
-      
+      validate: false
       
   Vietnamese:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Vietnamese-Vietnam.png
@@ -346,4 +347,4 @@ collections:
       sort_by: title.asc
       any:
         audio_language: Vietnamese
-      
+      validate: false
