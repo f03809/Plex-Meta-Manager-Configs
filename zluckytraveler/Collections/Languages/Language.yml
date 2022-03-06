@@ -171,7 +171,7 @@ collections:
       validate: false
       
   Indonesian:
-    url_poster: https://github.com/zluckytraveler/Plex-Meta-Manager-Configs/blob/master/zluckytraveler/Posters/Languages/Foreign/Indonesian-Indonesia.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Indonesian-Indonesia.png
     sort_title: 05-Indonesian
     smart_filter:
       sort_by: title.asc
@@ -180,7 +180,7 @@ collections:
       validate: false
       
   Italian:
-    url_poster: https://github.com/zluckytraveler/Plex-Meta-Manager-Configs/blob/master/zluckytraveler/Posters/Languages/Foreign/Italian-Italy.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Italian-Italy.png
     sort_title: 05-Italian
     smart_filter:
       sort_by: title.asc
