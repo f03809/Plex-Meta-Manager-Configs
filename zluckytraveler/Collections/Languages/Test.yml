@@ -1,0 +1,10 @@
+collections:
+  Norwegian:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Norwegian-Norway.png
+    sort_title: 05-Norwegian
+    smart_filter:
+      sort_by: title.asc
+      any:
+        audio_language:
+        - nn
+      validate: false
