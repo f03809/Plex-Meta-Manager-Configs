@@ -11,8 +11,8 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
-        - Arabic
-        - Urdu
+        - ar
+        - ur
       validate: false
       
   Bangla:
@@ -21,7 +21,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Bangla
+        audio_language: bn
       validate: false  
       
   Chinese:
@@ -31,10 +31,10 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
-        - Chinese
-        - Tibetan
-        - Chinese (Taiwan)
-        - Mongolian
+        - zh-TW
+        - zh
+        - dz
+        - mn
       validate: false
       
   Czech:
@@ -43,7 +43,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Czech
+        audio_language: cs
       validate: false
       
   Danish:
@@ -52,7 +52,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Danish
+        audio_language: da
       validate: false
       
   Dutch:
@@ -61,9 +61,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
-        - Dutch
-        - dutch
+        audio_language: nl
       validate: false
       
   Estonian:
@@ -72,7 +70,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Estonian
+        audio_language: et
       validate: false
       
   Filipino:
@@ -82,8 +80,8 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
-        - Filipino
-        - Cebuano
+        - tl
+        - ceb
         - phi
       validate: false
       
@@ -93,7 +91,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Finnish
+        audio_language: fi
       validate: false
       
   French:
@@ -102,7 +100,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: French
+        audio_language: fr
       validate: false
       
   German:
@@ -111,7 +109,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: German
+        audio_language: de
       validate: false
       
   Greek:
@@ -121,8 +119,8 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
-        - Greek
-        - Ancient Greek
+        - el
+        - grc
       validate: false
       
   Hebrew:
@@ -131,7 +129,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Hebrew
+        audio_language: 
+        - he
+        - iw
       validate: false
       
   Hungarian:
@@ -140,7 +140,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Hungarian
+        audio_language: hu
       validate: false
       
   Icelandic:
@@ -149,7 +149,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Icelandic
+        audio_language: is
       validate: false
       
   Indian:
@@ -159,15 +159,14 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
-        - Hindi
-        - Telugu
-        - Tamil
-        - Malayalam
-        - Gujarati
-        - Marathi
-        - Assamese
-        - Kannada
-        - telugu
+        - hi
+        - te
+        - ta
+        - ml
+        - gu
+        - mr
+        - as
+        - kn
       validate: false
       
   Indonesian:
@@ -176,7 +175,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Indonesian
+        audio_language: id
       validate: false
       
   Italian:
@@ -185,7 +184,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Italian
+        audio_language: it
       validate: false
       
   Japanese:
@@ -194,7 +193,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Japanese
+        audio_language: ja
       validate: false
       
   Korean:
@@ -203,7 +202,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Korean
+        audio_language: ko
       validate: false
       
   Latvian:
@@ -212,7 +211,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Latvian
+        audio_language: lv
       validate: false
       
   Malaysian:
@@ -221,7 +220,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Malay
+        audio_language: ms
       validate: false
       
   Norwegian:
@@ -243,9 +242,9 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
-        - Persian
-        - Kurdish
-        - Pashto
+        - fa
+        - ku
+        - ps
       validate: false
       
   Polish:
@@ -254,7 +253,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Polish
+        audio_language: pl
       validate: false
       
   Portuguese: 
@@ -263,7 +262,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Portuguese
+        audio_language: pt
       validate: false
       
   Punjabi:
@@ -272,7 +271,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Punjabi
+        audio_language: pa
       validate: false
       
   Romanian:
@@ -281,7 +280,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Romanian
+        audio_language: ro
       validate: false
       
   Russian:
@@ -290,7 +289,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Russian
+        audio_language: ru
       validate: false
       
   Serbian:
@@ -299,7 +298,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Serbian
+        audio_language: sr
       validate: false
       
   Spanish:
@@ -309,8 +308,8 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
-        - Spanish
-        - Galician
+        - es
+        - gl
       validate: false
       
   Swedish:
@@ -319,7 +318,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Swedish
+        audio_language: sv
       validate: false
       
   Thai:
@@ -328,7 +327,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Thai
+        audio_language: th
       validate: false
       
   Turkish:
@@ -337,7 +336,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Turkish
+        audio_language: tr
       validate: false
       
   Vietnamese:
@@ -346,5 +345,5 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: Vietnamese
+        audio_language: vi
       validate: false
