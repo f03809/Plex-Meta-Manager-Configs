@@ -263,7 +263,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: pt
+        audio_language: 
+        - pt
+        - pt-BR
       validate: false
       
   Punjabi:
