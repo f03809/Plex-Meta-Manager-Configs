@@ -80,6 +80,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: 
+        - fil
         - tl
         - ceb
         - phi
