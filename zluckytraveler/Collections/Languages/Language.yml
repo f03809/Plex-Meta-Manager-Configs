@@ -231,9 +231,9 @@ collections:
       sort_by: title.asc
       any:
         audio_language:
-        - Norwegian
-        - Norwegian Bokmål
-        - Norwegian Nynorsk
+        - no
+        - nb
+        - nn
       validate: false
       
   Persian:
