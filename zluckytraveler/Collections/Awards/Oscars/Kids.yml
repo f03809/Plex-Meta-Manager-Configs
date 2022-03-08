@@ -5,7 +5,7 @@
 
 collections:
   Oscar Winners - Kids:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Oscar%20Award%20Winners.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
     sort_title: 03-Awards Oscars
     collection_order: custom
     sync_mode: sync
