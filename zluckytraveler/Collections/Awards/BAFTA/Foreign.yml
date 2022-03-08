@@ -7,6 +7,6 @@ collections:
   BAFTA Winners - Foreign:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
-    collection_order: custom
+    collection_order: title.asc
     sync_mode: sync
     trakt_list: https://trakt.tv/users/majeed_pk/lists/bafta-best-film-award-winners?sort=title,asc
