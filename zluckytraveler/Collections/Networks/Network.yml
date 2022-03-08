@@ -232,7 +232,7 @@ collections:
       validate: false
       
   Channel 5:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%206.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205.png
     sort_title: 06-Channel 5
     smart_filter:
       sort_by: title.asc
