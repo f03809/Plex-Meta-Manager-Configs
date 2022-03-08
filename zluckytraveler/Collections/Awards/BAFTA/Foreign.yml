@@ -10,4 +10,4 @@ collections:
     collection_order: custom
     sync_mode: sync
     trakt_list: 
-      url: https://trakt.tv/users/majeed_pk/lists/bafta-best-film-award-winners?sort=released,asc
+      url: https://trakt.tv/users/majeed_pk/lists/bafta-best-film-award-winners
