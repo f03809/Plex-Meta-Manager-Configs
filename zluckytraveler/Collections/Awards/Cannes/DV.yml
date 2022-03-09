@@ -1,0 +1,12 @@
+######################################################
+#                AWARDS - Cannes Movies              #
+######################################################
+
+
+collections:
+  Cannes Film Festival Winners - DV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
+    sort_title: 03-Awards Cannes
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/macmure/list/cannes-winners-palme-dor-grand-prix-jury/
