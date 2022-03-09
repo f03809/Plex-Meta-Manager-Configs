@@ -1,0 +1,14 @@
+######################################################
+#               AWARDS - Sundance Movies             #
+######################################################
+
+
+collections:
+  Sundance Winners - DV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
+    sort_title: 03-Awards Sundance
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/
+    letterboxd_list: https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/
+    letterboxd_list: https://letterboxd.com/glicose/list/winners-of-sundance/
