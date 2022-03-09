@@ -1,0 +1,13 @@
+######################################################
+#               AWARDS - Filmfare Movies             #
+######################################################
+
+
+collections:
+  Filmfare Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
+    sort_title: 03-Awards Filmfare
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/moviejohn/list/filmfare-awards-hindi-every-film-ever-to/
+    letterboxd_list: https://letterboxd.com/rukhaiyaaramrit/list/filmfare-critics-award-for-best-film/
