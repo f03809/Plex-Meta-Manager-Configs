@@ -1,0 +1,12 @@
+######################################################
+#               AWARDS - Berlinale Movies            #
+######################################################
+
+
+collections:
+  Berlinale Winners - Foreign:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
+    sort_title: 03-Awards Berlinale
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/hassan1/list/berlinale/
