@@ -27,7 +27,7 @@ collections:
     - https://letterboxd.com/moviewithus/list/cannes-winners/
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
     
-  Emmy Winners:
+  Emmy Movie Winners - Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: custom
