@@ -9,7 +9,7 @@ collections:
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
-    trakt_list: https://trakt.tv/users/majeed_pk/lists/bafta-best-film-award-winners?sort=title,asc
+    letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/
     
   Berlinale Winners - Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
@@ -38,7 +38,6 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/
     - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/
-    - https://letterboxd.com/rantonucci/list/european-film-awards/
     
   Golden Globe Movies - Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
