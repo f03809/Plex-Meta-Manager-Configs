@@ -9,14 +9,7 @@ collections:
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
-    tvdb_list: 
-    - https://thetvdb.com/awards/bafta-awards/276
-    - https://thetvdb.com/awards/bafta-awards/278
-    - https://thetvdb.com/awards/bafta-awards/281
-    - https://thetvdb.com/awards/bafta-awards/288
-    - https://thetvdb.com/awards/bafta-awards/282
-    - https://thetvdb.com/awards/bafta-awards/283
-    - https://thetvdb.com/awards/bafta-awards/290
+    imdb_list: https://www.imdb.com/list/ls538625886/?sort=alpha
     
   Critics Choice Award Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
@@ -24,13 +17,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
-    tvdb_list: 
-    - https://thetvdb.com/awards/critics-choice-awards/108
-    - https://thetvdb.com/awards/critics-choice-awards/93
-    - https://thetvdb.com/awards/critics-choice-awards/110
-    - https://thetvdb.com/awards/critics-choice-awards/92
-    - https://thetvdb.com/awards/critics-choice-awards/102
-    - https://thetvdb.com/awards/critics-choice-awards/109
+    imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
     
   Emmy Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
