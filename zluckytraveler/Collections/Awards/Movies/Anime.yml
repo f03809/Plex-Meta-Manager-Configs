@@ -65,7 +65,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     imdb_list: 
-      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,short&groups=oscar_winner&sort=alpha,asc
+      url: https://www.imdb.com/search/title/?groups=oscar_winner&sort=alpha,asc
       
   Sundance Winners - Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
