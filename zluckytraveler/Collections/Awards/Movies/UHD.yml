@@ -12,7 +12,7 @@ collections:
     sync_mode: sync
     trakt_list: https://trakt.tv/users/majeed_pk/lists/bafta-best-film-award-winners?sort=title,asc
     
-  Berlinale Winners - UUHD:
+  Berlinale Winners - UHD:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
