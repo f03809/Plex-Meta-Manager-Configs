@@ -24,7 +24,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
-    imdb_list: https://www.imdb.com/list/ls538625146/?ref_=tt_ov_wl_button_sm
+    imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
     
   Emmy Winners - Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
