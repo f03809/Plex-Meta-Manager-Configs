@@ -23,6 +23,7 @@ collections:
     sort_title: 03-Awards Critics Choice Award
     collection_order: title.asc
     sync_mode: sync
+    trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
     tvdb_list: 
     - https://thetvdb.com/awards/critics-choice-awards/108
     - https://thetvdb.com/awards/critics-choice-awards/93
