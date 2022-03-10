@@ -24,13 +24,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
-    tvdb_list: 
-    - https://thetvdb.com/awards/critics-choice-awards/108
-    - https://thetvdb.com/awards/critics-choice-awards/93
-    - https://thetvdb.com/awards/critics-choice-awards/110
-    - https://thetvdb.com/awards/critics-choice-awards/92
-    - https://thetvdb.com/awards/critics-choice-awards/102
-    - https://thetvdb.com/awards/critics-choice-awards/109
+    imdb_list: https://www.imdb.com/list/ls538625146/?ref_=tt_ov_wl_button_sm
     
   Emmy Winners - Anime:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
