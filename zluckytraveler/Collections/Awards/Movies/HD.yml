@@ -27,6 +27,14 @@ collections:
     letterboxd_list: 
     - https://letterboxd.com/moviewithus/list/cannes-winners/
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
+    
+  Emmy Movie Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
+    sort_title: 03-Awards Emmy
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
       
   European Film Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
@@ -40,6 +48,15 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/
     - https://letterboxd.com/rantonucci/list/european-film-awards/
+    
+  Filmfare Winners:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
+    sort_title: 03-Awards Filmfare
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: 
+    - https://letterboxd.com/moviejohn/list/filmfare-awards-hindi-every-film-ever-to/
+    - https://letterboxd.com/rukhaiyaaramrit/list/filmfare-critics-award-for-best-film/
     
   Golden Globe Movies:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
