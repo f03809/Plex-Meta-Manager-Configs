@@ -5,21 +5,21 @@
 
 
 collections:
-  BAFTA Winners - HD:
+  BAFTA Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
     trakt_list: https://trakt.tv/users/majeed_pk/lists/bafta-best-film-award-winners?sort=title,asc
     
-  Berlinale Winners - HD:
+  Berlinale Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/hassan1/list/berlinale/
     
-  Cannes Film Festival Winners - HD:
+  Cannes Film Festival Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
     sort_title: 03-Awards Cannes
     collection_order: title.asc
@@ -28,7 +28,7 @@ collections:
     - https://letterboxd.com/moviewithus/list/cannes-winners/
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
       
-  European Film Award Winners - HD:
+  European Film Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
     sort_title: 03-Awards European Film Awards
     collection_order: title.asc
@@ -41,7 +41,7 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/
     - https://letterboxd.com/rantonucci/list/european-film-awards/
     
-  Golden Globe Movies - HD:
+  Golden Globe Movies:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: custom
@@ -49,7 +49,7 @@ collections:
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,short&groups=golden_globe_winner&sort=alpha,asc
       
-  Locarno Film Festival Winners - HD:
+  Locarno Film Festival Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
     sort_title: 03-Awards Locarno Film Festival
     collection_order: title.asc
@@ -61,7 +61,7 @@ collections:
     - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/
     - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/
     
-  Oscar Winners - HD:
+  Oscar Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
     sort_title: 03-Awards Oscars
     collection_order: custom
@@ -69,7 +69,7 @@ collections:
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,short&groups=oscar_winner&sort=alpha,asc
       
-  Sundance Winners - HD:
+  Sundance Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
     sort_title: 03-Awards Sundance
     collection_order: title.asc
@@ -79,7 +79,7 @@ collections:
     - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/
     - https://letterboxd.com/glicose/list/winners-of-sundance/
     
-  Venice Film Festival Winners - HD:
+  Venice Film Festival Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
     sort_title: 03-Awards Venice Film Festival
     collection_order: title.asc
