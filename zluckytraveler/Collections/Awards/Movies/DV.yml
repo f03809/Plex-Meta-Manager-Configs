@@ -47,7 +47,7 @@ collections:
     collection_order: custom
     sync_mode: sync
     imdb_list: 
-      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,short&groups=golden_globe_winner&sort=alpha,asc
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=golden_globe_winner&sort=alpha,asc
       
   Locarno Film Festival Winners - DV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
