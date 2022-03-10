@@ -1,0 +1,46 @@
+######################################################
+#                     AWARDS - TV                    #
+######################################################
+
+
+collections:
+  BAFTA Winners - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
+    sort_title: 03-Awards BAFTA
+    collection_order: title.asc
+    sync_mode: sync
+    tvdb_list: https://thetvdb.com/awards/bafta-awards/276
+    tvdb_list: https://thetvdb.com/awards/bafta-awards/278
+    tvdb_list: https://thetvdb.com/awards/bafta-awards/281
+    tvdb_list: https://thetvdb.com/awards/bafta-awards/288
+    tvdb_list: https://thetvdb.com/awards/bafta-awards/282
+    tvdb_list: https://thetvdb.com/awards/bafta-awards/283
+    tvdb_list: https://thetvdb.com/awards/bafta-awards/290
+    
+  Critics Choice Award Winners - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
+    sort_title: 03-Awards Critics Choice Award
+    collection_order: title.asc
+    sync_mode: sync
+    tvdb_list: https://thetvdb.com/awards/critics-choice-awards/108
+    tvdb_list: https://thetvdb.com/awards/critics-choice-awards/93
+    tvdb_list: https://thetvdb.com/awards/critics-choice-awards/110
+    tvdb_list: https://thetvdb.com/awards/critics-choice-awards/92
+    tvdb_list: https://thetvdb.com/awards/critics-choice-awards/102
+    tvdb_list: https://thetvdb.com/awards/critics-choice-awards/109
+    
+  Emmy Winners - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
+    sort_title: 03-Awards Emmy
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_special,tv_miniseries,tv_short&groups=emmy_winner&sort=alpha,asc
+      
+  Golden Globe TV Shows - Kids:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
+    sort_title: 03-Awards Golden Globes
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=tv_series,tv_miniseries&groups=golden_globe_winner&sort=alpha,asc
