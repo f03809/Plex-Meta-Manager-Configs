@@ -27,7 +27,15 @@ collections:
     letterboxd_list: 
     - https://letterboxd.com/moviewithus/list/cannes-winners/
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
-      
+    
+  Emmy Movie Winners - Foreign:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
+    sort_title: 03-Awards Emmy
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
+    
   European Film Award Winners - Foreign:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
     sort_title: 03-Awards European Film Awards
