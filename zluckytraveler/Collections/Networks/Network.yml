@@ -1427,7 +1427,7 @@ collections:
       sort_by: title.asc
       any:
         network: WE tv
-      validate: false WWE Network
+      validate: false
       
   WWE:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WWE.png
