@@ -10,7 +10,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - ar
         - ur
       validate: false
@@ -22,7 +22,7 @@ collections:
       sort_by: title.asc
       any:
         audio_language: bn
-      validate: false  
+      validate: false
       
   Chinese:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Foreign/Languages/Chinese-China.png
@@ -30,7 +30,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - zh-TW
         - zh
         - dz
@@ -79,7 +79,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - fil
         - tl
         - ceb
@@ -119,7 +119,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - el
         - grc
       validate: false
@@ -130,7 +130,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - he
         - iw
       validate: false
@@ -159,7 +159,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - hi
         - te
         - ta
@@ -242,7 +242,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - fa
         - ku
         - ps
@@ -263,7 +263,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - pt
         - pt-BR
       validate: false
@@ -310,7 +310,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        audio_language: 
+        audio_language:
         - es
         - gl
       validate: false
