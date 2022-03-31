@@ -30,7 +30,7 @@ collections:
       any:
         studio.is: Amazon Prime Video
       validate: false
-  
+      
   AT-X:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/AT-X.png
     sort_title: 06-AT-X
@@ -50,7 +50,7 @@ collections:
         - Brain's Base
         - Brain`s Base 
       validate: false
-  
+      
   Diomedea:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Diomedea.png
     sort_title: 06-Diomedea
@@ -79,7 +79,7 @@ collections:
       any:
         studio.is: Gainax
       validate: false
-  
+      
   Gonzo:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Gonzo.png
     sort_title: 06-Gonzo
@@ -133,7 +133,7 @@ collections:
       any:
         studio.is: MAPPA
       validate: false
-  
+      
   MBS:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/MBS.png
     sort_title: 06-MBS
@@ -151,7 +151,7 @@ collections:
       any:
         studio.is: Netflix
       validate: false
-  
+      
   NHK:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/NHK.png
     sort_title: 06-NHK
@@ -160,7 +160,7 @@ collections:
       any:
         studio: NHK
       validate: false
-  
+      
   Nippon TV:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nippon%20TV.png
     sort_title: 06-Nippon TV
@@ -238,7 +238,7 @@ collections:
       any:
         studio: Toei
       validate: false
-  
+      
   Tokyo Broadcasting System:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Tokyo%20Broadcasting%20System.png
     sort_title: 06-Tokyo Broadcasting System
@@ -247,7 +247,7 @@ collections:
       any:
         studio: Tokyo Broadcasting System
       validate: false
-  
+      
   Tokyo MX:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Tokyo%20MX.png
     sort_title: 06-Tokyo MX
