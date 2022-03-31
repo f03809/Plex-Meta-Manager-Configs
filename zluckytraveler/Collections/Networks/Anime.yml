@@ -32,7 +32,7 @@ collections:
       validate: false
   
   AT-X:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AT-X.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/AT-X.png
     sort_title: 06-AT-X
     smart_filter:
       sort_by: title.asc
