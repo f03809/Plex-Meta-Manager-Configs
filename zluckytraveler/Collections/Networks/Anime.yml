@@ -30,6 +30,15 @@ collections:
       any:
         studio.is: Amazon Prime Video
       validate: false
+  
+  AT-X:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AT-X.png
+    sort_title: 06-AT-X
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: AT-X
+      validate: false
       
   Brains Base:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Brains%20Base.png
@@ -41,6 +50,24 @@ collections:
         - Brain's Base
         - Brain`s Base 
       validate: false
+  
+  Diomedea:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Diomedea.png
+    sort_title: 06-Diomedea
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Diomedea
+      validate: false
+      
+  Fuji TV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Fuji%20TV.png
+    sort_title: 06-Fuji TV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Fuji TV
+      validate: false
       
   Gainax:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Gainax.png
@@ -49,6 +76,15 @@ collections:
       sort_by: title.asc
       any:
         studio.is: Gainax
+      validate: false
+  
+  Gonzo:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Gonzo.png
+    sort_title: 06-Gonzo
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Gonzo
       validate: false
       
   Production I.G:
@@ -95,6 +131,15 @@ collections:
       any:
         studio.is: MAPPA
       validate: false
+  
+  MBS:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/MBS.png
+    sort_title: 06-MBS
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: MBS
+      validate: false
       
   Netflix:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
@@ -103,6 +148,24 @@ collections:
       sort_by: title.asc
       any:
         studio.is: Netflix
+      validate: false
+  
+  NHK:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/NHK.png
+    sort_title: 06-NHK
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: NHK
+      validate: false
+  
+  Nippon TV:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nippon%20TV.png
+    sort_title: 06-Nippon TV
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Nippon TV
       validate: false
       
   P.A. Works:
@@ -171,12 +234,43 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        studio.is:
-        - Toei Animation
-        - Toei Company
-        - Toei Agency
-        - Toei Douga
-        - Toei
+        studio: Toei
+      validate: false
+  
+  Tokyo Broadcasting System:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Tokyo%20Broadcasting%20System.png
+    sort_title: 06-Tokyo Broadcasting System
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Tokyo Broadcasting System
+      validate: false
+  
+  Tokyo MX:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Tokyo%20MX.png
+    sort_title: 06-Tokyo MX
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: Tokyo MX
+      validate: false
+      
+  TV Asahi:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/TV%20Asahi.png
+    sort_title: 06-TV Asahi
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: TV Asahi
+      validate: false
+      
+  TV Tokyo:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/TV%20Tokyo.png
+    sort_title: 06-TV Tokyo
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio: TV Tokyo
       validate: false
       
   Ufotable:
@@ -188,7 +282,7 @@ collections:
         studio.is: 
         - Ufotable
         - ufotable
-      validate: false
+      validate: false 
       
   White Fox Studios:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/White%20Fox.png
