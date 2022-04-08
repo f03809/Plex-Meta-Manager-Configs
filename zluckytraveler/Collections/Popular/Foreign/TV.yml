@@ -13,3 +13,4 @@ collections:
       sort_by: popularity.desc
       limit: 1000
     limit: 50
+    visible_library: true
