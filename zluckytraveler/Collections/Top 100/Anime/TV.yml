@@ -11,3 +11,4 @@ collections:
     sync_mode: sync
     anilist_top_rated: 1500
     limit: 100
+    visible_library: true
