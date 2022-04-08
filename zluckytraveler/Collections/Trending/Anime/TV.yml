@@ -11,3 +11,4 @@ collections:
     sync_mode: sync
     anilist_trending: 1000
     limit: 50
+    visible_library: true
