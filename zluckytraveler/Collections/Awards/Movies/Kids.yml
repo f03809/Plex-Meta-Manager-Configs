@@ -11,6 +11,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/
+    visible_library: true
     
   Berlinale Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
@@ -18,6 +19,7 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/hassan1/list/berlinale/
+    visible_library: true
     
   Cannes Film Festival Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
@@ -27,6 +29,7 @@ collections:
     letterboxd_list: 
     - https://letterboxd.com/moviewithus/list/cannes-winners/
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
+    visible_library: true
     
   Emmy Movie Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
@@ -35,6 +38,7 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
+    visible_library: true
     
   European Film Award Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
@@ -47,6 +51,7 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/
     - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/
+    visible_library: true
     
   Filmfare Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Filmfare.png
@@ -56,6 +61,7 @@ collections:
     letterboxd_list: 
     - https://letterboxd.com/moviejohn/list/filmfare-awards-hindi-every-film-ever-to/
     - https://letterboxd.com/rukhaiyaaramrit/list/filmfare-critics-award-for-best-film/
+    visible_library: true
     
   Golden Globe Movies - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
@@ -64,6 +70,7 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=golden_globe_winner&sort=alpha,asc
+    visible_library: true
       
   Locarno Film Festival Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
@@ -76,6 +83,7 @@ collections:
     - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/
     - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/
     - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/
+    visible_library: true
     
   Oscar Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
@@ -84,6 +92,7 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?groups=oscar_winner&sort=alpha,asc
+    visible_library: true
       
   Sundance Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
@@ -94,6 +103,7 @@ collections:
     - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/
     - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/
     - https://letterboxd.com/glicose/list/winners-of-sundance/
+    visible_library: true
     
   Venice Film Festival Winners - Kids:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
@@ -101,3 +111,4 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/
+    visible_library: true
