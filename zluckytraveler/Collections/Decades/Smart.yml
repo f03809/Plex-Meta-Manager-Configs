@@ -113,6 +113,4 @@ collections:
         year.gte: 1900
         year.lte: 2030
       limit: 100
-    visible_home: true
-    visible_shared: true
     visible_library: true
