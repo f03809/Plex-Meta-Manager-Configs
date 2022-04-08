@@ -11,6 +11,7 @@ collections:
       sort_by: added.desc
       all:
         added: 7
+    visible_library: true
         
   Recently Released:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
@@ -19,3 +20,4 @@ collections:
       sort_by: release.desc
       all:
         release: 30
+    visible_library: true
