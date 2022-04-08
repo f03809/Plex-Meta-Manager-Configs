@@ -11,3 +11,4 @@ collections:
     sync_mode: sync
     mdblist_list: https://mdblist.com/lists/zluckytraveler/top-100-movies-foreign/
     limit: 100
+    visible_library: true
