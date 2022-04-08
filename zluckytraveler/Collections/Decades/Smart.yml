@@ -13,7 +13,6 @@ collections:
         year.gte: 1930
         year.lte: 1940
       limit: 100
-    visible_library: true
       
   1940's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1940.png
@@ -24,7 +23,6 @@ collections:
         year.gte: 1940
         year.lte: 1950
       limit: 100
-    visible_library: true
       
   1950's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1950.png
@@ -35,7 +33,6 @@ collections:
         year.gte: 1950
         year.lte: 1960
       limit: 100
-    visible_library: true
       
   1960's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1960.png
@@ -46,7 +43,6 @@ collections:
         year.gte: 1960
         year.lte: 1970
       limit: 100
-    visible_library: true
       
   1970's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1970.png
@@ -57,7 +53,6 @@ collections:
         year.gte: 1970
         year.lte: 1980
       limit: 100
-    visible_library: true
       
   1980's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1980.png
@@ -68,7 +63,6 @@ collections:
         year.gte: 1980
         year.lte: 1990
       limit: 100
-    visible_library: true
       
   1990's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1990.png
@@ -79,7 +73,6 @@ collections:
         year.gte: 1990
         year.lte: 2000
       limit: 100
-    visible_library: true
       
   2000's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2000.png
@@ -90,7 +83,6 @@ collections:
         year.gte: 2000
         year.lte: 2010
       limit: 100
-    visible_library: true
       
   2010's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2010.png
@@ -101,7 +93,6 @@ collections:
         year.gte: 2010
         year.lte: 2020
       limit: 100
-    visible_library: true
       
   2020's:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2020.png
@@ -112,7 +103,6 @@ collections:
         year.gte: 2020
         year.lte: 2030
       limit: 100
-    visible_library: true
       
   Best of All Time:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/All%20Time.png
