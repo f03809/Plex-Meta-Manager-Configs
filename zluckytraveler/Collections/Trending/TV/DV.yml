@@ -11,3 +11,4 @@ collections:
     sync_mode: sync
     tmdb_trending_daily: 1000
     limit: 50
+    visible_library: true
