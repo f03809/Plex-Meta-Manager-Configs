@@ -203,7 +203,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Science Fiction
+        genre: 
+        - Science Fiction
+        - Sci-fi
         
   Shorts:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Short.png
