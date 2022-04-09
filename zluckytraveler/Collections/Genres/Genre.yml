@@ -322,7 +322,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Science Fiction
+        genre: 
+        - Science Fiction
+        - Sci-fi
         genre.not:
         - Animation
         - Children
