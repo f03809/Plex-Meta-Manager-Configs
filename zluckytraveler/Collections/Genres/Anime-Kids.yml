@@ -75,14 +75,6 @@ collections:
       sort_by: title.asc
       all:
         genre: Fantasy
-        
-  Film-Noir:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Noir.png
-    sort_title: 07-Film-Noir
-    smart_filter:
-      sort_by: title.asc
-      all:
-        genre: Film-Noir
   
   Game Show:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Game%20Show.png
@@ -148,6 +140,16 @@ collections:
       sort_by: title.asc
       all:
         genre: News
+        
+    Noir:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Noir.png
+    sort_title: 07-Noir
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: 
+        - Film-Noir
+        - Film Noir
         
   Politics:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Politics.png
