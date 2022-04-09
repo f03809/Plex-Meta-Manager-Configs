@@ -19,10 +19,6 @@ collections:
       sort_by: title.asc
       all:
         genre: Adventure
-        
-  Apocalypse:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Apocalypse.png
-    sort_title: 07-Apocalypse
     
   Biography:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Biography.png
@@ -71,18 +67,6 @@ collections:
       sort_by: title.asc
       all:
         genre: Drama
-        
-  Family:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Family.png
-    sort_title: 07-Family
-    smart_filter:
-      sort_by: title.asc
-      all:
-        genre: Family
-        
-  Fan Edit:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Fan%20Edit.png
-    sort_title: 07-Fan Edit
     
   Fantasy:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Fantasy.png
@@ -99,15 +83,15 @@ collections:
       sort_by: title.asc
       all:
         genre: Film-Noir
+  
+  Game Show:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Game%20Show.png
+    sort_title: 07-Game Show
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Game Show
         
-  Gangster:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Gangster.png
-    sort_title: 07-Gangster
-    
-  Heist:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Heist.png
-    sort_title: 07-Heist
-    
   History:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/History.png
     sort_title: 07-History
@@ -123,10 +107,6 @@ collections:
       sort_by: title.asc
       all:
         genre: Horror
-        
-  LGBTQ+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/LGBTQ%2B.png
-    sort_title: 07-LGBTQ+  
     
   Martial Arts:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Martial%20Arts.png
@@ -175,11 +155,7 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Politics
-        
-  Pandemic:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Pandemic.png
-    sort_title: 07-Pandemic  
+        genre: Politics 
     
   Reality:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Reality.png
@@ -213,7 +189,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Short
+        genre: 
+        - Short Film
+        - Short
         
   Soap Opera:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Soap%20Opera.png
@@ -222,10 +200,6 @@ collections:
       sort_by: title.asc
       all:
         genre: Soap
-        
-  Space:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Space.png
-    sort_title: 07-Space
     
   Sports:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Sports.png
@@ -234,18 +208,14 @@ collections:
       sort_by: title.asc
       all:
         genre: Sport
-        
-  Spy:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Spy.png
-    sort_title: 07-Spy
-    
-  Stand Up:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Stand%20Up.png
-    sort_title: 07-Stand Up
     
   Super Hero:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Super%20Hero.png
     sort_title: 07-Super Hero
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: Superhero
     
   Thriller:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Thriller.png
