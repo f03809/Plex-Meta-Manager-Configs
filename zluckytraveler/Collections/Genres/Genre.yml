@@ -143,7 +143,6 @@ collections:
         genre.not:
         - Animation
         - Children
-        - Family
       
   History:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/History.png
@@ -239,11 +238,6 @@ collections:
         genre: 
         - Film-Noir
         - Film Noir
-        genre.not:
-        - Animation
-        - Children
-        - Family
-      validate: false
       
   Politics:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Politics.png
