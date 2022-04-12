@@ -261,7 +261,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       all:
-        genre: Reality
+        genre: 
+        - Reality
+        - Reality-TV
         genre.not: 
         - Animation
         - Children
@@ -288,6 +290,7 @@ collections:
         genre: 
         - Science Fiction
         - Sci-fi
+        - Sci-Fi
         genre.not:
         - Animation
         - Children
@@ -338,6 +341,18 @@ collections:
         - Children
       validate: false
       
+  Talk Show:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Talk%20Show.png
+    sort_title: 07-Talk Show
+    smart_filter:
+      sort_by: title.asc
+      any:
+        genre: 
+        - Talk-Show
+        - Talk Show
+        - Talk
+      validate: false
+      
   Thriller:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Thriller.png
     sort_title: 07-Thriller
@@ -349,17 +364,6 @@ collections:
         - Animation
         - Children
         - Family 
-      validate: false
-      
-  Talk Show:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Talk%20Show.png
-    sort_title: 07-Talk Show
-    smart_filter:
-      sort_by: title.asc
-      any:
-        genre: 
-        - Talk Show
-        - Talk
       validate: false
       
   Travel:
