@@ -290,7 +290,6 @@ collections:
         genre: 
         - Science Fiction
         - Sci-fi
-        - Sci-Fi
         genre.not:
         - Animation
         - Children
@@ -324,18 +323,6 @@ collections:
       sort_by: title.asc
       all:
         genre: Sport
-        genre.not:
-        - Animation
-        - Children
-      validate: false
-      
-  Super Hero:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Super%20Hero.png
-    sort_title: 07-Super Hero
-    smart_filter:
-      sort_by: title.asc
-      all:
-        genre: Superhero
         genre.not:
         - Animation
         - Children
