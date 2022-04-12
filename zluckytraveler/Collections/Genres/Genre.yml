@@ -145,7 +145,6 @@ collections:
         - Animation
         - Children
         - Family
-      validate: false
       
   History:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/History.png
