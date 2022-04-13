@@ -181,7 +181,6 @@ collections:
         - Animation
         - Children
         - Family
-      validate: false
       
   Music:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Music.png
@@ -203,10 +202,7 @@ collections:
       sort_by: title.asc
       all:
         genre: Musical
-        genre.not:
-        - Animation
-        - Children
-      validate: false
+        genre.not: Children
       
   Mystery:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Mystery.png
@@ -234,7 +230,7 @@ collections:
     sort_title: 07-Noir
     smart_filter:
       sort_by: title.asc
-      all:
+      any:
         genre: 
         - Film-Noir
         - Film Noir
@@ -255,7 +251,6 @@ collections:
       all:
         genre: 
         - Reality
-        - Reality-TV
         genre.not: 
         - Animation
         - Children
@@ -282,7 +277,6 @@ collections:
       all:
         genre: 
         - Science Fiction
-        - Sci-fi
         genre.not:
         - Animation
         - Children
@@ -326,9 +320,7 @@ collections:
       sort_by: title.asc
       any:
         genre: 
-        - Talk-Show
         - Talk Show
-        - Talk
       
   Thriller:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Thriller.png
@@ -353,7 +345,6 @@ collections:
         genre.not:
         - Animation
         - Children
-      validate: false
       
   War:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/War.png
