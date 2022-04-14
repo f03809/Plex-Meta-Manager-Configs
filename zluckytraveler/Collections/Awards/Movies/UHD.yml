@@ -53,7 +53,7 @@ collections:
     - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/
     visible_library: true
     
-  Golden Globe Movies - UHD:
+  Golden Globe Winners - UHD:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: custom
