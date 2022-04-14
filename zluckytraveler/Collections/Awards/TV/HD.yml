@@ -21,7 +21,7 @@ collections:
     sync_mode: sync
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
     imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
-    visible_home: true
+    visible_library: true
     visible_shared: true
     visible_library: true
     
