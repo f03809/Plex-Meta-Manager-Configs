@@ -31,7 +31,7 @@ collections:
     - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
     visible_library: true
     
-  Emmy Movie Winners - Foreign:
+  Emmy Winners - Foreign:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: custom
@@ -63,7 +63,7 @@ collections:
     - https://letterboxd.com/rukhaiyaaramrit/list/filmfare-critics-award-for-best-film/
     visible_library: true
     
-  Golden Globe Movies - Foreign:
+  Golden Globe Winners - Foreign:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: custom
