@@ -36,7 +36,7 @@ collections:
     visible_shared: true
     visible_library: true
     
-  Golden Globe TV Shows:
+  Golden Globe TV Show:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: custom
