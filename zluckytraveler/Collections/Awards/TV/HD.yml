@@ -14,7 +14,6 @@ collections:
     visible_shared: true
     visible_library: true
     
-    
   Critics Choice Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
