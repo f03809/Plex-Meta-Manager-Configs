@@ -180,10 +180,8 @@ collections:
     sort_title: 07-Sci-Fi
     smart_filter:
       sort_by: title.asc
-      any:
-        genre: 
-        - Science Fiction
-        - Sci-fi
+      all:
+        genre: Science Fiction
         
   Shorts:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Short.png
