@@ -14,6 +14,7 @@ collections:
     visible_shared: true
     visible_library: true
     
+    
   Critics Choice Award Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
@@ -21,7 +22,7 @@ collections:
     sync_mode: sync
     trakt_list: https://trakt.tv/users/fdamico/lists/critics-choice-series?sort=title,asc
     imdb_list: https://www.imdb.com/list/ls538625146/?sort=alpha
-    visible_library: true
+    visible_home: true
     visible_shared: true
     visible_library: true
     
