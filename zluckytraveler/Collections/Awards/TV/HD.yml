@@ -25,7 +25,7 @@ collections:
     visible_shared: true
     visible_library: true
     
-  Emmy Winners:
+  Emmy Show Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: custom
