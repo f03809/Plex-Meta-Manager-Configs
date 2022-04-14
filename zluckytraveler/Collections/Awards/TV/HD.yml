@@ -25,7 +25,7 @@ collections:
     visible_shared: true
     visible_library: true
     
-  Emmy Show Winners:
+  Emmy Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: custom
@@ -36,7 +36,7 @@ collections:
     visible_shared: true
     visible_library: true
     
-  Golden Globe TV Show:
+  Golden Globe Winners:
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: custom
