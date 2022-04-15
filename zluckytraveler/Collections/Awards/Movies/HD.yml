@@ -4,7 +4,7 @@
 
 
 collections:
-BAFTA Winners - UHD:
+  BAFTA Winners - UHD:
     schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
@@ -79,7 +79,6 @@ BAFTA Winners - UHD:
     visible_shared: true
     visible_library: true
     
-    
   Locarno Film Festival Winners:
     schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
@@ -107,7 +106,7 @@ BAFTA Winners - UHD:
     visible_home: true
     visible_shared: true
     visible_library: true
-      
+    
   Sundance Winners:
     schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
