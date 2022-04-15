@@ -6,6 +6,7 @@
 
 collections:
   BAFTA Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
@@ -14,6 +15,7 @@ collections:
     visible_library: true
     
   Berlinale Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
@@ -22,6 +24,7 @@ collections:
     visible_library: true
     
   Cannes Film Festival Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
     sort_title: 03-Awards Cannes
     collection_order: title.asc
@@ -32,6 +35,7 @@ collections:
     visible_library: true
     
   Emmy Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: custom
@@ -41,6 +45,7 @@ collections:
       visible_library: true
     
   European Film Award Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
     sort_title: 03-Awards European Film Awards
     collection_order: title.asc
@@ -54,6 +59,7 @@ collections:
     visible_library: true
     
   Golden Globe Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: custom
@@ -63,6 +69,7 @@ collections:
     visible_library: true
       
   Locarno Film Festival Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
     sort_title: 03-Awards Locarno Film Festival
     collection_order: title.asc
@@ -76,6 +83,7 @@ collections:
     visible_library: true
     
   Oscar Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
     sort_title: 03-Awards Oscars
     collection_order: custom
@@ -85,6 +93,7 @@ collections:
     visible_library: true
       
   Sundance Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
     sort_title: 03-Awards Sundance
     collection_order: title.asc
@@ -96,6 +105,7 @@ collections:
     visible_library: true
     
   Venice Film Festival Winners - UHD:
+    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
     sort_title: 03-Awards Venice Film Festival
     collection_order: title.asc
