@@ -15,7 +15,6 @@ collections:
     - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/
     - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/
     - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/
-    visible_home: true
     visible_shared: true
     visible_library: true
     
@@ -26,7 +25,6 @@ collections:
     sync_mode: sync
     imdb_list: 
       url: https://www.imdb.com/search/title/?groups=oscar_winner&sort=alpha,asc
-    visible_home: true
     visible_shared: true
     visible_library: true
     
@@ -39,7 +37,6 @@ collections:
     - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/
     - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/
     - https://letterboxd.com/glicose/list/winners-of-sundance/
-    visible_home: true
     visible_shared: true
     visible_library: true
     
@@ -49,6 +46,5 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/
-    visible_home: true
     visible_shared: true
     visible_library: true
