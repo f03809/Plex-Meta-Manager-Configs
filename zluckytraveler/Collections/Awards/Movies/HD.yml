@@ -3,7 +3,83 @@
 ######################################################
 
 
-collections:      
+collections:
+BAFTA Winners - UHD:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
+    sort_title: 03-Awards BAFTA
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/
+    visible_home: true
+    visible_shared: true
+    visible_library: true
+    
+  Berlinale Winners - UHD:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
+    sort_title: 03-Awards Berlinale
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: https://letterboxd.com/hassan1/list/berlinale/
+    visible_home: true
+    visible_shared: true
+    visible_library: true
+    
+  Cannes Film Festival Winners - UHD:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
+    sort_title: 03-Awards Cannes
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: 
+    - https://letterboxd.com/moviewithus/list/cannes-winners/
+    - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
+    visible_home: true
+    visible_shared: true
+    visible_library: true
+    
+  Emmy Winners - UHD:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
+    sort_title: 03-Awards Emmy
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=emmy_winner&sort=alpha,asc
+    visible_home: true
+    visible_shared: true
+    visible_library: true
+    
+  European Film Award Winners - UHD:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
+    sort_title: 03-Awards European Film Awards
+    collection_order: title.asc
+    sync_mode: sync
+    letterboxd_list: 
+    - https://letterboxd.com/ra_pha/list/european-film-awards/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-documentary-winners/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/
+    - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/
+    visible_home: true
+    visible_shared: true
+    visible_library: true
+    
+  Golden Globe Winners - UHD:
+    schedule: monthly(1)
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
+    sort_title: 03-Awards Golden Globes
+    collection_order: custom
+    sync_mode: sync
+    imdb_list: 
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&groups=golden_globe_winner&sort=alpha,asc
+    visible_home: true
+    visible_shared: true
+    visible_library: true
+    
+    
   Locarno Film Festival Winners:
     schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
