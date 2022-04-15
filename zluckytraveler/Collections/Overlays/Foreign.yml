@@ -4,6 +4,7 @@
 
 collections: 
   4K-HDR:
+    schedule: weekly(friday)
     plex_search:
       all:
         resolution: 4K
@@ -19,6 +20,7 @@ collections:
     #revert_overlay: true
     
   4K-UHD:
+    schedule: weekly(friday)
     plex_search:
       all:
         resolution: 4K
