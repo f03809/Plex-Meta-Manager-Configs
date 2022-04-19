@@ -10,7 +10,7 @@ collections:
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/
+    letterboxd_list: https://letterboxd.com/rantonucci/list/baftas-best-film-outstanding-british-film/by/name/
     visible_library: true
     
   Berlinale Winners - Anime:
@@ -19,7 +19,7 @@ collections:
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/hassan1/list/berlinale/
+    letterboxd_list: https://letterboxd.com/hassan1/list/berlinale/by/name/
     visible_library: true
     
   Cannes Film Festival Winners - Anime:
@@ -29,8 +29,8 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: 
-    - https://letterboxd.com/moviewithus/list/cannes-winners/
-    - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/
+    - https://letterboxd.com/moviewithus/list/cannes-winners/by/name/
+    - https://letterboxd.com/deepbluefunk/list/short-film-winners-cannes/by/name/
     visible_library: true
     
   Emmy Winners - Anime:
@@ -50,11 +50,11 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: 
-    - https://letterboxd.com/ra_pha/list/european-film-awards/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-documentary-winners/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/
-    - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/
-    - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/
+    - https://letterboxd.com/ra_pha/list/european-film-awards/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-documentary-winners/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-animated-feature/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-award-best-comedy-winners-2013/by/name/
+    - https://letterboxd.com/moviedoc/list/european-film-awards-best-film-winners-1988/by/name/
     visible_library: true
     
   Golden Globe Winners - Anime:
@@ -74,11 +74,11 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: 
-    - https://letterboxd.com/drwade42/list/golden-leopard-winners-ranked/
-    - https://letterboxd.com/drwade42/list/locarno-special-jury-prize-winners-ranked/
-    - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/
-    - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/
-    - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/
+    - https://letterboxd.com/drwade42/list/golden-leopard-winners-ranked/by/name/
+    - https://letterboxd.com/drwade42/list/locarno-special-jury-prize-winners-ranked/by/name/
+    - https://letterboxd.com/drwade42/list/locarno-best-director-winners-ranked/by/name/
+    - https://letterboxd.com/drwade42/list/locarno-best-actor-winners-ranked/by/name/
+    - https://letterboxd.com/drwade42/list/locarno-best-actress-winners-ranked/by/name/
     visible_library: true
     
   Oscar Winners - Anime:
@@ -98,9 +98,9 @@ collections:
     collection_order: title.asc
     sync_mode: sync
     letterboxd_list: 
-    - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/
-    - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/
-    - https://letterboxd.com/glicose/list/winners-of-sundance/
+    - https://letterboxd.com/neperfectionist/list/sundance-film-festival-winners-us-dramatic/by/name/
+    - https://letterboxd.com/deepbluefunk/list/sundance-short-film-winners/by/name/
+    - https://letterboxd.com/glicose/list/winners-of-sundance/by/name/
     visible_library: true
     
   Venice Film Festival Winners - Anime:
@@ -109,5 +109,5 @@ collections:
     sort_title: 03-Awards Venice Film Festival
     collection_order: title.asc
     sync_mode: sync
-    letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/
+    letterboxd_list: https://letterboxd.com/moviewithus/list/venice-winners/by/name/
     visible_library: true
