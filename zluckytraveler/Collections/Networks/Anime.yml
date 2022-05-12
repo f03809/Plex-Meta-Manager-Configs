@@ -55,7 +55,7 @@ collections:
       validate: false
       
   Diomedea:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Diomedea.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Diomedea.png
     sort_title: 06-Diomedea
     smart_filter:
       sort_by: title.asc
@@ -85,7 +85,7 @@ collections:
       validate: false
       
   Gonzo:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Gonzo.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Gonzo.png
     sort_title: 06-Gonzo
     smart_filter:
       sort_by: title.asc
@@ -149,7 +149,7 @@ collections:
       validate: false
       
   NHK:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/NHK.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/NHK.png
     sort_title: 06-NHK
     smart_filter:
       sort_by: title.asc
@@ -159,7 +159,7 @@ collections:
       validate: false
       
   Nippon TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nippon%20TV.png
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/Nippon%20TV.png
     sort_title: 06-Nippon TV
     smart_filter:
       sort_by: title.asc
