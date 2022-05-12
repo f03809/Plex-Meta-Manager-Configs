@@ -20,6 +20,7 @@ collections:
       sort_by: title.asc
       any:
         studio.is: Adult Swim
+        network: Adult Swim
       validate: false
       
   Amazon:
@@ -29,6 +30,7 @@ collections:
       sort_by: title.asc
       any:
         studio.is: Amazon Prime Video
+        network: Amazon
       validate: false
       
   AT-X:
@@ -38,6 +40,7 @@ collections:
       sort_by: title.asc
       any:
         studio.is: AT-X
+        network: AT-X
       validate: false
       
   Brains Base:
@@ -69,6 +72,7 @@ collections:
         studio.is: 
         - Fuji Television Network
         - Fuji TV
+        network: Fuji TV
       validate: false
       
   Gainax:
@@ -87,15 +91,6 @@ collections:
       sort_by: title.asc
       any:
         studio: Gonzo
-      validate: false
-      
-  Production I.G:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/I.G.%20Productions.png
-    sort_title: 06-Production I.G
-    smart_filter:
-      sort_by: title.asc
-      any:
-        studio.is: Production I.G
       validate: false
       
   J.C.Staff:
@@ -150,6 +145,7 @@ collections:
       sort_by: title.asc
       any:
         studio.is: Netflix
+        netwiork: Netflix
       validate: false
       
   NHK:
@@ -159,6 +155,7 @@ collections:
       sort_by: title.asc
       any:
         studio: NHK
+        network: NHK
       validate: false
       
   Nippon TV:
@@ -168,6 +165,7 @@ collections:
       sort_by: title.asc
       any:
         studio: Nippon TV
+        network: Nippon TV
       validate: false
       
   P.A. Works:
@@ -188,6 +186,15 @@ collections:
         studio.is: 
         - Studio Pierrot
         - Pierrot
+      validate: false
+      
+  Production I.G:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Anime/I.G.%20Productions.png
+    sort_title: 06-Production I.G
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio.is: Production I.G
       validate: false
       
   Shaft:
@@ -246,6 +253,9 @@ collections:
       sort_by: title.asc
       any:
         studio: Tokyo Broadcasting System
+        network: 
+        - Tokyo Broadcasting System
+        - TBS
       validate: false
       
   Tokyo MX:
@@ -255,6 +265,7 @@ collections:
       sort_by: title.asc
       any:
         studio: Tokyo MX
+        network: Tokyo MX
       validate: false
       
   TV Asahi:
@@ -273,6 +284,7 @@ collections:
       sort_by: title.asc
       any:
         studio: TV Tokyo
+        network: TV Tokyo
       validate: false
       
   Ufotable:
