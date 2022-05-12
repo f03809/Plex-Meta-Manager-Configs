@@ -311,4 +311,5 @@ collections:
       sort_by: title.asc
       any:
         studio.is: Youtube
+        network: Youtube
       validate: false
