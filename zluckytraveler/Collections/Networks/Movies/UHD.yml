@@ -5,7 +5,6 @@
 
 collections:
   Amaazon - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
     sort_title: 06-Amazon
     collection_order: title.asc
@@ -15,7 +14,6 @@ collections:
     - https://letterboxd.com/bzeltzer/list/list-of-amazon-prime-video-original-films/by/name/
     
   Apple TV+ - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
     collection_order: title.asc
@@ -25,7 +23,6 @@ collections:
     -  https://letterboxd.com/theflarkone/list/apple-tv-originals/by/name/
     
   Disney+ - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
     sort_title: 06-Disney+
     collection_order: title.asc
@@ -35,7 +32,6 @@ collections:
     -  https://letterboxd.com/bzeltzer/list/list-of-disney-original-films/by/name/
     
   HBO - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
     sort_title: 06-HBO
     collection_order: title.asc
@@ -46,7 +42,6 @@ collections:
     - https://letterboxd.com/neperfectionist/list/hbo-original-stand-up-comedy-specials/by/name/
     
   HBO Max - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max.png
     sort_title: 06-HBO Max
     collection_order: title.asc
@@ -56,7 +51,6 @@ collections:
     - https://letterboxd.com/bzeltzer/list/list-of-hbo-max-original-programming/by/name/
     
   Hulu - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
     sort_title: 06-Hulu
     collection_order: title.asc
@@ -66,7 +60,6 @@ collections:
     - https://letterboxd.com/bzeltzer/list/list-of-hulu-original-programming/by/name/
     
   Netflix - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
     sort_title: 06-Netflix
     collection_order: title.asc
@@ -78,7 +71,6 @@ collections:
     - https://letterboxd.com/bzeltzer/list/list-of-netflix-original-films/by/name/
     
   Paramount+ - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
     sort_title: 06-Paramount+
     collection_order: title.asc
@@ -86,7 +78,6 @@ collections:
     letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-paramount-original-programming/by/name/
     
   Peacock - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
     sort_title: 06-Peacock
     collection_order: title.asc
@@ -94,7 +85,6 @@ collections:
     letterboxd_list: https://letterboxd.com/bzeltzer/list/list-of-peacock-original-programming/by/name/
     
   Youtube - UHD:
-    schedule: monthly(1)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
     sort_title: 06-Youtube
     collection_order: title.asc
