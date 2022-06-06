@@ -4,7 +4,7 @@
 
 
 collections:
-  Amaazon - UHD:
+  Amazon - UHD:
     schedule: weekly(Friday)
     url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
     sort_title: 06-Amazon
