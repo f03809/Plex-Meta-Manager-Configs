@@ -1,0 +1,14 @@
+######################################################
+#                  RECENTS - SPORTS/TV               #
+######################################################
+
+
+collections:   
+  Recently Released Shows:
+    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
+    sort_title: 00-Recently Released
+    smart_filter:
+      sort_by: release.desc
+      all:
+        release: 60
+    visible_library: true
